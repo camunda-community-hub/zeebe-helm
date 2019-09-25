@@ -1,33 +1,65 @@
 apiVersion: v1
 entries:
+  zeebe-cluster:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-09-25T19:16:17.543159+01:00"
+    description: A Zeebe Cluster Helm Chart for Kubernetes
+    digest: 63da4c0c5c4cd9e4030f19d7e7a3cf1e86b237b5a5d11970569081918a369dd0
+    icon: https://zeebe.io/img/zeebe-logo.png
+    name: zeebe-cluster
+    urls:
+    - https://helm.zeebe.io/zeebe-cluster-0.0.2.tgz
+    version: 0.0.2
   zeebe-cluster-k8s-helm:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-09-18T23:37:40.814283+02:00"
+    created: "2019-09-25T19:16:17.546009+01:00"
     description: A Zeebe Cluster Helm Chart for Kubernetes
     digest: 97bbfd7c113caf3c8e0305c34c2ac5519bfd53a10aa6d868d3d565d2811e2383
     name: zeebe-cluster-k8s-helm
     urls:
     - https://helm.zeebe.io/zeebe-cluster-k8s-helm-0.0.25.tgz
     version: 0.0.25
+  zeebe-full:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-09-25T19:16:17.548575+01:00"
+    description: A Zeebe Cluster + Operate Helm Chart for Kubernetes
+    digest: 9e9664a4adc30431d3e83469e338237b4addceb23c31fdc07a4f902edbba4f4e
+    name: zeebe-full
+    urls:
+    - https://helm.zeebe.io/zeebe-full-0.0.3.tgz
+    version: 0.0.3
   zeebe-k8s-full-helm:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-09-18T23:37:40.817792+02:00"
+    created: "2019-09-25T19:16:17.552448+01:00"
     description: A Zeebe Cluster Helm Chart for Kubernetes
     digest: ac81378458640428784b38e8107cd0b99c2c36df0afb353f824545356169c65b
     name: zeebe-k8s-full-helm
     urls:
     - https://helm.zeebe.io/zeebe-k8s-full-helm-0.0.31.tgz
     version: 0.0.31
+  zeebe-operate:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-09-25T19:16:17.553018+01:00"
+    description: Zeebe Operate Helm Chart for Kubernetes
+    digest: cd70f1b7c6c1616635cc299f20ca8d49ca3d87a09c264d28fab0b35e3dcdc7b8
+    icon: https://zeebe.io/img/zeebe-logo.png
+    name: zeebe-operate
+    urls:
+    - https://helm.zeebe.io/zeebe-operate-0.0.3.tgz
+    version: 0.0.3
   zeebe-operate-k8s-helm:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-09-18T23:37:40.818428+02:00"
+    created: "2019-09-25T19:16:17.553578+01:00"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: 9015ddeb9b7b49f02c7c3c3b4ae0e1e5251d9d229f1800ba639723eca4b5bc39
     name: zeebe-operate-k8s-helm
     urls:
     - https://helm.zeebe.io/zeebe-operate-k8s-helm-0.0.16.tgz
     version: 0.0.16
-generated: "2019-09-18T23:37:40.81037+02:00"
+generated: "2019-09-25T19:16:17.539523+01:00"
