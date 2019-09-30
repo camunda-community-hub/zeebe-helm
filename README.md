@@ -1,5 +1,7 @@
 # Zeebe Kubernetes HELM Charts
 
+![Zeebe Kubernetes HELM Charts](imgs/zeebe-k8s-helm.png)
+
 This repository host Zeebe HELM charts for Kubernetes, this charts can be accessed by adding the following HELM repo to your HELM setup:
 ```
 > helm repo add zeebe https://helm.zeebe.io
