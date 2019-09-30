@@ -19,3 +19,5 @@ Currently hosting the following charts:
   - Depends on: zeebe-cluster and zeebe-operate
   
 Feel free to create new issues if you find problems with the charts. 
+
+This charts are being released internally at: http://chartmuseum.jx.35.233.51.246.nip.io/charts/ where you can find the latest builds, which are periodically updated in this repository. 
