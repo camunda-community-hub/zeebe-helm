@@ -20,7 +20,7 @@ Currently hosting the following charts:
 - [zeebe-full](http://github.com/zeebe-io/zeebe-full-helm)
   - Depends on: zeebe-cluster, zeebe-operate and [nginx-ingress](https://github.com/helm/charts/tree/master/stable/nginx-ingress)
   
-Please create [new issues](https://github.com/zeebe-io/zeebe-full-helm/issues) if you find problems with the charts. 
+Please create [new issues](https://github.com/zeebe-io/zeebe-helm/issues) if you find problems with these charts. This repository is hosted using GitHub Pages and the source code repository can be found here: [https://github.com/zeebe-io/zeebe-helm/](https://github.com/zeebe-io/zeebe-helm/)
 
 This charts are being released internally at: http://chartmuseum.jx.35.233.51.246.nip.io/charts/ where you can find the latest builds, which are periodically updated in this repository. 
 
