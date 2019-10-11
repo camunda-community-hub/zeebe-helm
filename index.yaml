@@ -3,52 +3,81 @@ entries:
   zeebe-cluster:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-09-29T17:33:27.512862+01:00"
+    created: "2019-10-11T10:15:25.051546+01:00"
     description: A Zeebe Cluster Helm Chart for Kubernetes
     digest: eb4009d0f9b0f6ee2d43a58f019dfbea003eb616c79ce5bcc095bf00b71f736b
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - https://helm.zeebe.io/zeebe-cluster-0.0.9.tgz
+    - http://helm.zeebe.io/zeebe-cluster-0.0.9.tgz
     version: 0.0.9
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-09-29T17:33:27.511694+01:00"
+    created: "2019-10-11T10:15:25.049545+01:00"
     description: A Zeebe Cluster Helm Chart for Kubernetes
     digest: 63da4c0c5c4cd9e4030f19d7e7a3cf1e86b237b5a5d11970569081918a369dd0
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - https://helm.zeebe.io/zeebe-cluster-0.0.2.tgz
+    - http://helm.zeebe.io/zeebe-cluster-0.0.2.tgz
     version: 0.0.2
   zeebe-full:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-09-29T17:33:27.518337+01:00"
+    created: "2019-10-11T10:15:25.062368+01:00"
+    description: A Zeebe Cluster + Operate Helm Chart for Kubernetes
+    digest: 2053a4c6580c2db7b3aaa2d3afbb5a19bc4d51893be62b5df57d45ad842506c9
+    name: zeebe-full
+    urls:
+    - http://helm.zeebe.io/zeebe-full-0.0.6.tgz
+    version: 0.0.6
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-10-11T10:15:25.059047+01:00"
     description: A Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 85333dcaec8f2d72738e268b833a0f93d83adfec9fd8651334bbc621cb36af0c
     name: zeebe-full
     urls:
-    - https://helm.zeebe.io/zeebe-full-0.0.5.tgz
+    - http://helm.zeebe.io/zeebe-full-0.0.5.tgz
     version: 0.0.5
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-09-29T17:33:27.515185+01:00"
+    created: "2019-10-11T10:15:25.055121+01:00"
     description: A Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 9e9664a4adc30431d3e83469e338237b4addceb23c31fdc07a4f902edbba4f4e
     name: zeebe-full
     urls:
-    - https://helm.zeebe.io/zeebe-full-0.0.3.tgz
+    - http://helm.zeebe.io/zeebe-full-0.0.3.tgz
     version: 0.0.3
   zeebe-operate:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-09-29T17:33:27.518564+01:00"
+    created: "2019-10-11T10:15:25.06388+01:00"
+    description: Zeebe Operate Helm Chart for Kubernetes
+    digest: 885247f66afc34f06eb1eb2f11261af2095a87d1050367cd275e18a2c910f859
+    icon: https://zeebe.io/img/zeebe-logo.png
+    name: zeebe-operate
+    urls:
+    - http://helm.zeebe.io/zeebe-operate-0.0.8.tgz
+    version: 0.0.8
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-10-11T10:15:25.063281+01:00"
+    description: Zeebe Operate Helm Chart for Kubernetes
+    digest: 17664ebd6bf0be2b17d8e225afc5ba11b24f5ad3b060310b5479144b41294bb3
+    icon: https://zeebe.io/img/zeebe-logo.png
+    name: zeebe-operate
+    urls:
+    - http://helm.zeebe.io/zeebe-operate-0.0.4.tgz
+    version: 0.0.4
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-10-11T10:15:25.062723+01:00"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: cd70f1b7c6c1616635cc299f20ca8d49ca3d87a09c264d28fab0b35e3dcdc7b8
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-operate
     urls:
-    - https://helm.zeebe.io/zeebe-operate-0.0.3.tgz
+    - http://helm.zeebe.io/zeebe-operate-0.0.3.tgz
     version: 0.0.3
-generated: "2019-09-29T17:33:27.508984+01:00"
+generated: "2019-10-11T10:15:25.045344+01:00"
