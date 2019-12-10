@@ -3,7 +3,7 @@ entries:
   zeebe-cluster:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-12-09T09:27:33.044095Z"
+    created: "2019-12-10T11:18:47.338119Z"
     description: A Zeebe Cluster Helm Chart for Kubernetes
     digest: f4b00feb8aa4fe47be686a7eb0fc3e5ccae57115d949f4ff1f2bf6d1d47a5136
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -13,7 +13,7 @@ entries:
     version: 0.0.36
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-12-09T09:27:33.042056Z"
+    created: "2019-12-10T11:18:47.336606Z"
     description: A Zeebe Cluster Helm Chart for Kubernetes
     digest: df0f32dc8297e0eaa0d0746a7d06d9e8dde1ebdadb2787aecf0b1e0a0bf4575d
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -23,7 +23,7 @@ entries:
     version: 0.0.35
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-12-09T09:27:33.040538Z"
+    created: "2019-12-10T11:18:47.335052Z"
     description: A Zeebe Cluster Helm Chart for Kubernetes
     digest: 39cb575306d57cb282d7400c970add69724d1b72f836fec22390d1a42b941a44
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -33,7 +33,7 @@ entries:
     version: 0.0.34
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-12-09T09:27:33.039046Z"
+    created: "2019-12-10T11:18:47.333452Z"
     description: A Zeebe Cluster Helm Chart for Kubernetes
     digest: 4f0e0142074ce0f8e4a2a6e327a3e7d37b47ae3f9cd474f524da93a2305414e5
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -43,7 +43,7 @@ entries:
     version: 0.0.32
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-12-09T09:27:33.03579Z"
+    created: "2019-12-10T11:18:47.329961Z"
     description: A Zeebe Cluster Helm Chart for Kubernetes
     digest: 21d9c902fff34f38e5c58cac6465214ab48d33ed4717c3ef1871bcb10ee8c001
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -53,7 +53,7 @@ entries:
     version: 0.0.19
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-12-09T09:27:33.034364Z"
+    created: "2019-12-10T11:18:47.328411Z"
     description: A Zeebe Cluster Helm Chart for Kubernetes
     digest: 06ceb929a25ab23ac660d95708ab1ba345d5409e91885f7f282ba254393703d6
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -63,7 +63,7 @@ entries:
     version: 0.0.18
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-12-09T09:27:33.032953Z"
+    created: "2019-12-10T11:18:47.326942Z"
     description: A Zeebe Cluster Helm Chart for Kubernetes
     digest: cdf60a0f34456b6d0ab453d4ee3d8a90e302c2923916749c31aebd00cd3cd10a
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -73,7 +73,7 @@ entries:
     version: 0.0.11
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-12-09T09:27:33.031558Z"
+    created: "2019-12-10T11:18:47.325508Z"
     description: A Zeebe Cluster Helm Chart for Kubernetes
     digest: a090fb7e1e9ea302992261b9bbbf81785bf6ae353234b400ff9f714d990864de
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -83,7 +83,7 @@ entries:
     version: 0.0.10
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-12-09T09:27:33.045427Z"
+    created: "2019-12-10T11:18:47.339997Z"
     description: A Zeebe Cluster Helm Chart for Kubernetes
     digest: eb4009d0f9b0f6ee2d43a58f019dfbea003eb616c79ce5bcc095bf00b71f736b
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -93,7 +93,7 @@ entries:
     version: 0.0.9
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-12-09T09:27:33.037301Z"
+    created: "2019-12-10T11:18:47.331483Z"
     description: A Zeebe Cluster Helm Chart for Kubernetes
     digest: 63da4c0c5c4cd9e4030f19d7e7a3cf1e86b237b5a5d11970569081918a369dd0
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -104,7 +104,7 @@ entries:
   zeebe-full:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-12-09T09:27:33.06007Z"
+    created: "2019-12-10T11:18:47.355614Z"
     description: A Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 89182416df523ec710c66d2a13c83698dee06b416b6e2021170b62da04c396a9
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -114,7 +114,7 @@ entries:
     version: 0.0.20
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-12-09T09:27:33.057861Z"
+    created: "2019-12-10T11:18:47.353235Z"
     description: A Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: ecbd17a4126e29d9418c7a839c41bd7a8691fce3f0c956fab70b849f630e0b25
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -124,7 +124,7 @@ entries:
     version: 0.0.19
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-12-09T09:27:33.05493Z"
+    created: "2019-12-10T11:18:47.350322Z"
     description: A Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 45e587fdf5e7aaa452991bf5fa400eb8890640a536692cd4e0e57fbefcd28207
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -134,7 +134,7 @@ entries:
     version: 0.0.18
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-12-09T09:27:33.052705Z"
+    created: "2019-12-10T11:18:47.347831Z"
     description: A Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 6a182c82e28c0fe42dc85510ae480f5abd997ed8fabd9a0bf15a3a94ad0d107b
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -144,7 +144,7 @@ entries:
     version: 0.0.17
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-12-09T09:27:33.050599Z"
+    created: "2019-12-10T11:18:47.344887Z"
     description: A Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 1431aabe9204704c63af6707d6f9dd9e5802e855b425a7bc9513e3914c7ff4ac
     name: zeebe-full
@@ -153,7 +153,7 @@ entries:
     version: 0.0.11
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-12-09T09:27:33.047731Z"
+    created: "2019-12-10T11:18:47.342438Z"
     description: A Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 87386d742cf31ad6ba7f8731fabc6c3a8eb9b75b3f46cacfbe9b383df5d872f7
     name: zeebe-full
@@ -162,7 +162,7 @@ entries:
     version: 0.0.10
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-12-09T09:27:33.071735Z"
+    created: "2019-12-10T11:18:47.368537Z"
     description: A Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 3d02acb26138cae5ce523f491774533deaa344b4120599490efd94e22f2d6ca7
     name: zeebe-full
@@ -171,7 +171,7 @@ entries:
     version: 0.0.8
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-12-09T09:27:33.069371Z"
+    created: "2019-12-10T11:18:47.365633Z"
     description: A Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 006937ba8492ec973eeab7bb950099a3840746b06b61cb57a73dbbfc7582fbe2
     name: zeebe-full
@@ -180,7 +180,7 @@ entries:
     version: 0.0.7
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-12-09T09:27:33.066887Z"
+    created: "2019-12-10T11:18:47.363086Z"
     description: A Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 2053a4c6580c2db7b3aaa2d3afbb5a19bc4d51893be62b5df57d45ad842506c9
     name: zeebe-full
@@ -189,7 +189,7 @@ entries:
     version: 0.0.6
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-12-09T09:27:33.06483Z"
+    created: "2019-12-10T11:18:47.36109Z"
     description: A Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 85333dcaec8f2d72738e268b833a0f93d83adfec9fd8651334bbc621cb36af0c
     name: zeebe-full
@@ -198,7 +198,7 @@ entries:
     version: 0.0.5
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-12-09T09:27:33.06211Z"
+    created: "2019-12-10T11:18:47.357684Z"
     description: A Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 9e9664a4adc30431d3e83469e338237b4addceb23c31fdc07a4f902edbba4f4e
     name: zeebe-full
@@ -208,7 +208,7 @@ entries:
   zeebe-operate:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-12-09T09:27:33.072338Z"
+    created: "2019-12-10T11:18:47.369125Z"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: 24adb50b5b25d4c1a5ed85135fbb8aede3f22a8fbeb0080b34c0eef08112e508
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -218,7 +218,7 @@ entries:
     version: 0.0.13
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-12-09T09:27:33.072143Z"
+    created: "2019-12-10T11:18:47.368934Z"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: 7158212feb9f33dd362177a628b39e4a26961bc4f838a0549623a5da72603dda
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -228,7 +228,7 @@ entries:
     version: 0.0.12
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-12-09T09:27:33.071939Z"
+    created: "2019-12-10T11:18:47.368738Z"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: ec7f239589e48cc5ecfb7c08643129b869a2f7b81a3db59b96168faf7856e121
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -238,7 +238,7 @@ entries:
     version: 0.0.11
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-12-09T09:27:33.073263Z"
+    created: "2019-12-10T11:18:47.37Z"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: d482e53b1fe3d4712dd99057c9604be06bed68391508e8b54fbcc32c8a424499
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -248,7 +248,7 @@ entries:
     version: 0.0.9
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-12-09T09:27:33.072938Z"
+    created: "2019-12-10T11:18:47.369704Z"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: 885247f66afc34f06eb1eb2f11261af2095a87d1050367cd275e18a2c910f859
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -258,7 +258,7 @@ entries:
     version: 0.0.8
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-12-09T09:27:33.072723Z"
+    created: "2019-12-10T11:18:47.369505Z"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: 17664ebd6bf0be2b17d8e225afc5ba11b24f5ad3b060310b5479144b41294bb3
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -268,7 +268,7 @@ entries:
     version: 0.0.4
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-12-09T09:27:33.072532Z"
+    created: "2019-12-10T11:18:47.369312Z"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: cd70f1b7c6c1616635cc299f20ca8d49ca3d87a09c264d28fab0b35e3dcdc7b8
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -279,22 +279,12 @@ entries:
   zeebe-operator:
   - apiVersion: v1
     appVersion: 0.0.54
-    created: "2019-12-09T09:27:33.074677Z"
+    created: "2019-12-10T11:18:47.37085Z"
     description: A Helm chart for Kubernetes
-    digest: e9e9ee8060ff817db8f1f713507831f9a3c459b581cd49d945317318536abcaf
+    digest: 542865abaeb4b6dd7d33f8581f1991342991e8137b68fbb5895612ca6705f531
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: zeebe-operator
     urls:
     - http://helm.zeebe.io/zeebe-operator-0.0.54.tgz
     version: 0.0.54
-  - apiVersion: v1
-    appVersion: 0.0.53
-    created: "2019-12-09T09:27:33.073985Z"
-    description: A Helm chart for Kubernetes
-    digest: d86c1c28b2725e1768e10d25ad68f8a870a22783e361659e3bb739433eb3589a
-    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
-    name: zeebe-operator
-    urls:
-    - http://helm.zeebe.io/zeebe-operator-0.0.53.tgz
-    version: 0.0.53
-generated: "2019-12-09T09:27:33.029414Z"
+generated: "2019-12-10T11:18:47.323155Z"
