@@ -14,13 +14,16 @@ You can consume each individual chart, or use the `zeebe-full` chart which will 
 
 Currently hosting the following charts:
 - [zeebe-cluster](http://github.com/zeebe-io/zeebe-cluster-helm)
-  - Depends on: [ElasticSearch](https://github.com/elastic/helm-charts/tree/master/elasticsearch), [Kibana](https://github.com/elastic/helm-charts/tree/master/kibana)
+  - Depends on: [ElasticSearch](https://github.com/elastic/helm-charts/tree/master/elasticsearch), [Kibana](https://github.com/elastic/helm-charts/tree/master/kibana), [Prometheus Operator](https://github.com/helm/charts/tree/master/stable/prometheus-operator)
 - [zeebe-operate](http://github.com/zeebe-io/zeebe-operate-helm)
   - Can be configured to point to zeebe-cluster
 - [zeebe-full](http://github.com/zeebe-io/zeebe-full-helm)
   - Depends on: zeebe-cluster, zeebe-operate and [nginx-ingress](https://github.com/helm/charts/tree/master/stable/nginx-ingress)
+- [zeebe-operator](https://github.com/salaboy/zeebe-operator)  **(Experimental)**
 
 Follow [the instructions in the Zeebe docs](https://docs.zeebe.io/kubernetes/installing-helm.html) to install Zeebe to a K8s cluster using these charts.
+
+Each Chart contains it's own configurations and parameters, you can visit each chart site for more information. 
 
 ## Installing Charts
 
