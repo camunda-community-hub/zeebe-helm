@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   payments-service:
   - apiVersion: v1
+    appVersion: 0.0.17
+    created: "2020-09-09T09:50:54.802771+01:00"
+    description: A Helm chart for Kubernetes
+    digest: d08e382aaf1279189c9a831f2022330aa45035a9c8ee3cb4d5dea72203f183dc
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
+    name: payments-service
+    urls:
+    - http://helm.zeebe.io/payments-service-0.0.17.tgz
+    version: 0.0.17
+  - apiVersion: v1
     appVersion: 0.0.4
-    created: "2020-07-08T17:24:26.197173349+02:00"
+    created: "2020-09-09T09:50:54.806104+01:00"
     description: A Helm chart for Kubernetes
     digest: c9c576d7180c5cb351092561fbac89f21d0b3e09ab185e946c69866bcc6c5f6d
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -13,7 +23,7 @@ entries:
     version: 0.0.4
   - apiVersion: v1
     appVersion: 0.0.3
-    created: "2020-07-08T17:24:26.196481888+02:00"
+    created: "2020-09-09T09:50:54.805521+01:00"
     description: A Helm chart for Kubernetes
     digest: 19db560453491fd866be9eb489f1098ed6a83673edd5e3e87e2f9b081da7fb14
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -23,7 +33,7 @@ entries:
     version: 0.0.3
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2020-07-08T17:24:26.195792671+02:00"
+    created: "2020-09-09T09:50:54.804941+01:00"
     description: A Helm chart for Kubernetes
     digest: a9f8e3a81fb858d50b8375937e8ad3bdff5a137b508915ffbffff8e70e8aaec4
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -33,7 +43,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2020-07-08T17:24:26.195098706+02:00"
+    created: "2020-09-09T09:50:54.802464+01:00"
     description: A Helm chart for Kubernetes
     digest: 74c797e2863d09718f24a6bc154974e4e8c3a79f8b029ee52fa7c5a2223cc681
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -43,8 +53,18 @@ entries:
     version: 0.0.1
   tickets-service:
   - apiVersion: v1
+    appVersion: 0.0.32
+    created: "2020-09-09T09:50:54.80815+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 866bc6ca9eabf57a05780054636af119f74ddb988266d354a042dbb19ba51afc
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
+    name: tickets-service
+    urls:
+    - http://helm.zeebe.io/tickets-service-0.0.32.tgz
+    version: 0.0.32
+  - apiVersion: v1
     appVersion: 0.0.6
-    created: "2020-07-08T17:24:26.202494443+02:00"
+    created: "2020-09-09T09:50:54.81023+01:00"
     description: A Helm chart for Kubernetes
     digest: d7d3bc7ea0f40b89342e901b478185374f8bd1dbc3b496c65d1ed4c70a8b06d1
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -54,7 +74,7 @@ entries:
     version: 0.0.6
   - apiVersion: v1
     appVersion: 0.0.5
-    created: "2020-07-08T17:24:26.201847069+02:00"
+    created: "2020-09-09T09:50:54.809677+01:00"
     description: A Helm chart for Kubernetes
     digest: b15f471259e5af861a0e9bed25bb6b96bd96f58ee506d135ca3ace6eafbbe660
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -64,7 +84,7 @@ entries:
     version: 0.0.5
   - apiVersion: v1
     appVersion: 0.0.4
-    created: "2020-07-08T17:24:26.201205197+02:00"
+    created: "2020-09-09T09:50:54.808709+01:00"
     description: A Helm chart for Kubernetes
     digest: a989e221e65bafbb1e1a4469daf6125f43bd98c565b6b947c0777269c6454365
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -74,7 +94,7 @@ entries:
     version: 0.0.4
   - apiVersion: v1
     appVersion: 0.0.3
-    created: "2020-07-08T17:24:26.200534569+02:00"
+    created: "2020-09-09T09:50:54.807852+01:00"
     description: A Helm chart for Kubernetes
     digest: a75949db8131b7021b2464c29a74e3b405b7948de58455404faffde44d126e8e
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -84,7 +104,7 @@ entries:
     version: 0.0.3
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2020-07-08T17:24:26.198955485+02:00"
+    created: "2020-09-09T09:50:54.80728+01:00"
     description: A Helm chart for Kubernetes
     digest: 0679b89c19f8aaeba53c348bf1351033d6a565b1ffb4fc511f8e1a81611d264f
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -94,7 +114,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2020-07-08T17:24:26.198107731+02:00"
+    created: "2020-09-09T09:50:54.806734+01:00"
     description: A Helm chart for Kubernetes
     digest: 2d162bb2711735e7d3a7cc83cb44897e49eb45784def01d3acf3b099fbfc342c
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -104,8 +124,18 @@ entries:
     version: 0.0.1
   zeebe-cloud-events-router:
   - apiVersion: v1
+    appVersion: 0.0.36
+    created: "2020-09-09T09:50:54.811783+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 19e46119270de3352993f6298e8003d93c96b418a558a6060386989d6c0aa811
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
+    name: zeebe-cloud-events-router
+    urls:
+    - http://helm.zeebe.io/zeebe-cloud-events-router-0.0.36.tgz
+    version: 0.0.36
+  - apiVersion: v1
     appVersion: 0.0.8
-    created: "2020-07-08T17:24:26.206310867+02:00"
+    created: "2020-09-09T09:50:54.814321+01:00"
     description: A Helm chart for Kubernetes
     digest: d84cd0d24210af75fb93c187688b574d5e9f99a44d9c357c4ce7ea86afa2b3cc
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -115,7 +145,7 @@ entries:
     version: 0.0.8
   - apiVersion: v1
     appVersion: 0.0.6
-    created: "2020-07-08T17:24:26.205681907+02:00"
+    created: "2020-09-09T09:50:54.813731+01:00"
     description: A Helm chart for Kubernetes
     digest: c7d1173fee023927ceb29baefe040357b5b791890332d370e1a990c9cf2025b1
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -125,7 +155,7 @@ entries:
     version: 0.0.6
   - apiVersion: v1
     appVersion: 0.0.5
-    created: "2020-07-08T17:24:26.205014116+02:00"
+    created: "2020-09-09T09:50:54.813156+01:00"
     description: A Helm chart for Kubernetes
     digest: 70307207a5d1eee915ed5eaee0089d5498fc9ad5e822f13ff20d90065bd638e3
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -135,7 +165,7 @@ entries:
     version: 0.0.5
   - apiVersion: v1
     appVersion: 0.0.4
-    created: "2020-07-08T17:24:26.204378652+02:00"
+    created: "2020-09-09T09:50:54.812563+01:00"
     description: A Helm chart for Kubernetes
     digest: f54d115fb24273bb1a2beb42c3934499683d831f7f10e81719440426903e610c
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -145,7 +175,7 @@ entries:
     version: 0.0.4
   - apiVersion: v1
     appVersion: 0.0.3
-    created: "2020-07-08T17:24:26.203763554+02:00"
+    created: "2020-09-09T09:50:54.811482+01:00"
     description: A Helm chart for Kubernetes
     digest: c7d6d9ed104dd37005b9f1f89547d4a8f9c4d7f83d0e1d29f0b03365df80726a
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -155,7 +185,7 @@ entries:
     version: 0.0.3
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2020-07-08T17:24:26.203134463+02:00"
+    created: "2020-09-09T09:50:54.810871+01:00"
     description: A Helm chart for Kubernetes
     digest: 695267892e53674bcf1907906f49eddb864d62d57d6cc1e47f82888aa5687397
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -165,21 +195,18 @@ entries:
     version: 0.0.2
   zeebe-cluster:
   - apiVersion: v1
+    appVersion: 0.24.1
+    created: "2020-09-09T09:50:54.968525+01:00"
+    description: Zeebe Cluster Helm Chart for Kubernetes
+    digest: 8204ca1f3f861458eb09fba8fe18e5bc4ec83690d5003b09a6a3ed212242b8ab
+    icon: https://zeebe.io/img/zeebe-logo.png
+    name: zeebe-cluster
+    urls:
+    - http://helm.zeebe.io/zeebe-cluster-0.0.144.tgz
+    version: 0.0.144
+  - apiVersion: v1
     appVersion: 0.23.4
-    created: "2020-07-08T17:24:26.44410781+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: prometheus.enabled
-      name: prometheus-operator
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: 8.5.11
+    created: "2020-09-09T09:50:54.957685+01:00"
     description: Zeebe Cluster Helm Chart for Kubernetes
     digest: 2e2891661a1d2e24e97192ca4052575a8fbc7af27f4bb700a4010217d51587db
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -189,20 +216,7 @@ entries:
     version: 0.0.128
   - apiVersion: v1
     appVersion: 0.23.4
-    created: "2020-07-08T17:24:26.423577089+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: prometheus.enabled
-      name: prometheus-operator
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: 8.5.11
+    created: "2020-09-09T09:50:54.946812+01:00"
     description: Zeebe Cluster Helm Chart for Kubernetes
     digest: 6193c31b4b41cdf98c95a46cb19bae000ea982e55c012eeb58252124e0457060
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -212,20 +226,7 @@ entries:
     version: 0.0.127
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.405508813+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: prometheus.enabled
-      name: prometheus-operator
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: 8.5.11
+    created: "2020-09-09T09:50:54.935994+01:00"
     description: Zeebe Cluster Helm Chart for Kubernetes
     digest: 52736c1c661347e6ff0ca3c43b216d5406508b271fefa71652a88488d666e200
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -235,20 +236,7 @@ entries:
     version: 0.0.122
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.385252805+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: prometheus.enabled
-      name: prometheus-operator
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: 8.5.11
+    created: "2020-09-09T09:50:54.923609+01:00"
     description: Zeebe Cluster Helm Chart for Kubernetes
     digest: 9a36cf6fc0a1b62139e50d8e76bd04c13328945609d3d717656258085e55d7da
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -258,20 +246,7 @@ entries:
     version: 0.0.121
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.366716284+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: prometheus.enabled
-      name: prometheus-operator
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: 8.5.11
+    created: "2020-09-09T09:50:54.912447+01:00"
     description: Zeebe Cluster Helm Chart for Kubernetes
     digest: 4cd95d465fe839368e2dd28f9b42b6f859ba6559eb56769ca98493bc68903e5b
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -281,20 +256,7 @@ entries:
     version: 0.0.113
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.347235717+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: prometheus.enabled
-      name: prometheus-operator
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: 8.5.11
+    created: "2020-09-09T09:50:54.901151+01:00"
     description: Zeebe Cluster Helm Chart for Kubernetes
     digest: 3ab12bb0052c6a1bfc04d6c27a95306792faa8c1b836d8af1d8ada90936b0765
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -304,20 +266,7 @@ entries:
     version: 0.0.112
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.327583611+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: prometheus.enabled
-      name: prometheus-operator
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: 8.5.11
+    created: "2020-09-09T09:50:54.890159+01:00"
     description: Zeebe Cluster Helm Chart for Kubernetes
     digest: a0f8410ec9346a03c443825376fe9014303abd8c6ba1e850825954d75a565191
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -327,20 +276,7 @@ entries:
     version: 0.0.111
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.305702619+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: prometheus.enabled
-      name: prometheus-operator
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: 8.5.11
+    created: "2020-09-09T09:50:54.877451+01:00"
     description: Zeebe Cluster Helm Chart for Kubernetes
     digest: 670e08ff525c2373177df890c1604175b032c273d19fb6b41b5958a6bc4761fe
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -350,20 +286,7 @@ entries:
     version: 0.0.107
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.286705107+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: prometheus.enabled
-      name: prometheus-operator
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: 8.5.11
+    created: "2020-09-09T09:50:54.866719+01:00"
     description: Zeebe Cluster Helm Chart for Kubernetes
     digest: db4ad515610693aeae612dddc5b95f72f37a5ecd45edd9da83137f5cd6404d3f
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -373,20 +296,7 @@ entries:
     version: 0.0.106
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.268856349+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: prometheus.enabled
-      name: prometheus-operator
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: 8.5.11
+    created: "2020-09-09T09:50:54.855642+01:00"
     description: Zeebe Cluster Helm Chart for Kubernetes
     digest: 0e7765031ddd11178bc389b204d10fa3502efa9426170f8c4ae91fdf373ed26c
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -396,20 +306,7 @@ entries:
     version: 0.0.102
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.250494994+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: prometheus.enabled
-      name: prometheus-operator
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: 8.5.11
+    created: "2020-09-09T09:50:54.840911+01:00"
     description: Zeebe Cluster Helm Chart for Kubernetes
     digest: fd32afb0eed1359823c7c2993fe57534fdd78e74c8f9ec4da8fd6c2aa2012e40
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -419,20 +316,7 @@ entries:
     version: 0.0.101
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.230350862+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: prometheus.enabled
-      name: prometheus-operator
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: 8.5.11
+    created: "2020-09-09T09:50:54.828982+01:00"
     description: Zeebe Cluster Helm Chart for Kubernetes
     digest: 11c05dfea921f19bbd1fb360a54bffa582594cc04469751b12f7662faf3f2214
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -442,20 +326,7 @@ entries:
     version: 0.0.100
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.962146305+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: prometheus.enabled
-      name: prometheus-operator
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: 8.5.11
+    created: "2020-09-09T09:50:55.268207+01:00"
     description: Zeebe Cluster Helm Chart for Kubernetes
     digest: 9f7cf0085a9f532ad11e10494ff57f00d3dc5be604544200870894bfe0cc7cef
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -465,20 +336,7 @@ entries:
     version: 0.0.99
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.938974513+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: prometheus.enabled
-      name: prometheus-operator
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: 8.5.11
+    created: "2020-09-09T09:50:55.255523+01:00"
     description: Zeebe Cluster Helm Chart for Kubernetes
     digest: 9b3f88a0b464965d9d0acef109f59eff520c79e110d267a5de93d40404b7e691
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -488,20 +346,7 @@ entries:
     version: 0.0.89
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.919246235+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: prometheus.enabled
-      name: prometheus-operator
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: 8.5.11
+    created: "2020-09-09T09:50:55.243383+01:00"
     description: Zeebe Cluster Helm Chart for Kubernetes
     digest: b2134ee6f707c6b376ad2dbcc2a1e29af3584b28b831af3a9251362ad0f9d4eb
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -511,20 +356,7 @@ entries:
     version: 0.0.88
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.900715635+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: prometheus.enabled
-      name: prometheus-operator
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: 8.5.11
+    created: "2020-09-09T09:50:55.232511+01:00"
     description: Zeebe Cluster Helm Chart for Kubernetes
     digest: ec2e9df710b23b69841cdb19c378b022d8250cccfbd6d7f2bd72ea3726d8bfb9
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -534,20 +366,7 @@ entries:
     version: 0.0.86
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.882257888+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: prometheus.enabled
-      name: prometheus-operator
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: 8.5.11
+    created: "2020-09-09T09:50:55.220889+01:00"
     description: Zeebe Cluster Helm Chart for Kubernetes
     digest: a2f110a333c54f845d2086744e80ea7785e60a243cd02c30bf97148ec63675f6
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -557,20 +376,7 @@ entries:
     version: 0.0.85
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.860312329+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: prometheus.enabled
-      name: prometheus-operator
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: 8.5.11
+    created: "2020-09-09T09:50:55.210302+01:00"
     description: Zeebe Cluster Helm Chart for Kubernetes
     digest: 3aa4acbbf2c820094cd9eb862976ddc39f53ef476f7a1881957cc35aa690665a
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -580,20 +386,7 @@ entries:
     version: 0.0.84
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.838587345+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: prometheus.enabled
-      name: prometheus-operator
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: 8.5.11
+    created: "2020-09-09T09:50:55.199+01:00"
     description: Zeebe Cluster Helm Chart for Kubernetes
     digest: 787b6e167cde5c175070cac31c596a3605513747e4568a196922db120b603b80
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -603,20 +396,7 @@ entries:
     version: 0.0.76
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.819880105+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: prometheus.enabled
-      name: prometheus-operator
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: 8.5.11
+    created: "2020-09-09T09:50:55.186302+01:00"
     description: Zeebe Cluster Helm Chart for Kubernetes
     digest: 8bbf5e4f4bb1710453a0b18612732b1af80b453b1e670ca7e5f58f3ec229fb7f
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -626,20 +406,7 @@ entries:
     version: 0.0.72
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.80084952+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: prometheus.enabled
-      name: prometheus-operator
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: 8.5.11
+    created: "2020-09-09T09:50:55.175442+01:00"
     description: Zeebe Cluster Helm Chart for Kubernetes
     digest: f5eb7d15ee837c9797c97a11bf9b219bba13381a489c62e2447d6b10bc3c3707
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -649,20 +416,7 @@ entries:
     version: 0.0.71
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.780207772+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: prometheus.enabled
-      name: prometheus-operator
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: 8.5.11
+    created: "2020-09-09T09:50:55.164042+01:00"
     description: Zeebe Cluster Helm Chart for Kubernetes
     digest: 8af92d98096c858fa0b563ec7fa0fce45ff09c866a4c6981ec18534ef7b35817
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -672,20 +426,7 @@ entries:
     version: 0.0.70
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.761158479+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: prometheusOperator.enabled
-      name: prometheus-operator
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: 8.5.11
+    created: "2020-09-09T09:50:55.153561+01:00"
     description: Zeebe Cluster Helm Chart for Kubernetes
     digest: d19378951e24da1324985fa21b691e66518915599302373907d8a95b2bfff638
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -695,20 +436,7 @@ entries:
     version: 0.0.69
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.741905295+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: prometheusOperator.enabled
-      name: prometheus-operator
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: 8.5.11
+    created: "2020-09-09T09:50:55.141741+01:00"
     description: Zeebe Cluster Helm Chart for Kubernetes
     digest: b2ba5a8fde7b38daf0344986e950716af8fd9b1f6ed1d64102ef014ebf798227
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -718,20 +446,7 @@ entries:
     version: 0.0.68
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.722551992+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: prometheusOperator.enabled
-      name: prometheus-operator
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: 8.5.11
+    created: "2020-09-09T09:50:55.130689+01:00"
     description: Zeebe Cluster Helm Chart for Kubernetes
     digest: 259a20d8a52d54367de6a0b6ae228cd1e8027d1b5b9a6b96e872973f8a302eff
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -741,20 +456,7 @@ entries:
     version: 0.0.67
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.703387581+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: prometheusOperator.enabled
-      name: prometheus-operator
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: 8.5.11
+    created: "2020-09-09T09:50:55.120079+01:00"
     description: Zeebe Cluster Helm Chart for Kubernetes
     digest: 9bb88d6f815441c413e60f03883d3e9b9fbdf4d6a3375d8d558d4d6b0827bf88
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -764,20 +466,7 @@ entries:
     version: 0.0.66
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.684482896+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: prometheusOperator.enabled
-      name: prometheus-operator
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: 8.5.11
+    created: "2020-09-09T09:50:55.109348+01:00"
     description: Zeebe Cluster Helm Chart for Kubernetes
     digest: 2e82088c16c11ee964bfc7acd9eae6806900364cf414b92011693b8812558157
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -787,20 +476,7 @@ entries:
     version: 0.0.63
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.665479858+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: prometheusOperator.enabled
-      name: prometheus-operator
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: 8.5.11
+    created: "2020-09-09T09:50:55.097328+01:00"
     description: Zeebe Cluster Helm Chart for Kubernetes
     digest: 999293b37847a2d2ae8a74ce87cb7545d26ca244ee75d5f800b81ce3e8d8d4f2
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -809,20 +485,7 @@ entries:
     - http://helm.zeebe.io/zeebe-cluster-0.0.61.tgz
     version: 0.0.61
   - apiVersion: v1
-    created: "2020-07-08T17:24:26.64622308+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: prometheusOperator.enabled
-      name: prometheus-operator
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: 8.5.11
+    created: "2020-09-09T09:50:55.087001+01:00"
     description: Zeebe Cluster Helm Chart for Kubernetes
     digest: 60cf0b46b0568fd411f3897061ed6ee7cdda4ab2cb4c59330b54bb77eb029ce0
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -832,20 +495,7 @@ entries:
     version: 0.0.60
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.627731288+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: prometheus-operator.enabled
-      name: prometheus-operator
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: 8.5.11
+    created: "2020-09-09T09:50:55.075869+01:00"
     description: Zeebe Cluster Helm Chart for Kubernetes
     digest: 24cc2a7885b7ce3fa6358cf69bfda99743d14e2d5eea17da6dc1538bfa65a91b
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -855,20 +505,7 @@ entries:
     version: 0.0.57
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.608045509+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: prometheus-operator.enabled
-      name: prometheus-operator
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: 8.5.11
+    created: "2020-09-09T09:50:55.064753+01:00"
     description: A Zeebe Cluster Helm Chart for Kubernetes
     digest: e15b99bbb712b9f483248e07a75ac3986ac90c1f7b5c1560466ebdf5bf1bc4ee
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -878,20 +515,7 @@ entries:
     version: 0.0.56
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.589514726+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: prometheus-operator.enabled
-      name: prometheus-operator
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: 8.5.11
+    created: "2020-09-09T09:50:55.054113+01:00"
     description: A Zeebe Cluster Helm Chart for Kubernetes
     digest: f485b895d2b5ffa2b332b5e0b61d648183c9d38a36e4991b71f6503618d51133
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -901,20 +525,7 @@ entries:
     version: 0.0.55
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.569534695+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: prometheus-operator.enabled
-      name: prometheus-operator
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: 8.5.11
+    created: "2020-09-09T09:50:55.043161+01:00"
     description: A Zeebe Cluster Helm Chart for Kubernetes
     digest: 66d6c04c6036b02db150ed2169e67ba3fcad9159d5d3e79d002138538ed5bd55
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -924,20 +535,7 @@ entries:
     version: 0.0.54
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.549674982+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: prometheus.enabled
-      name: prometheus-operator
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: 8.5.11
+    created: "2020-09-09T09:50:55.031653+01:00"
     description: A Zeebe Cluster Helm Chart for Kubernetes
     digest: 0d04cd26b8507543338faaefd371eef21bcb417c6cc0704f7d2d3d74350c10fb
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -947,20 +545,7 @@ entries:
     version: 0.0.53
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.530732315+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: prometheus.enabled
-      name: prometheus-operator
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: 8.5.11
+    created: "2020-09-09T09:50:55.02061+01:00"
     description: A Zeebe Cluster Helm Chart for Kubernetes
     digest: 9a8e5d36db60ee33f467666a8573820f1ebcbb2704b325f453be2a34d58bb1b4
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -970,20 +555,7 @@ entries:
     version: 0.0.52
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.511122556+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: prometheus.enabled
-      name: prometheus
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: 10.3.1
+    created: "2020-09-09T09:50:55.009652+01:00"
     description: A Zeebe Cluster Helm Chart for Kubernetes
     digest: 7c83aec11f7c0fec2d97ee44e82f87a9b3df0cb009bf132e220200d0396a7a9e
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -993,16 +565,7 @@ entries:
     version: 0.0.51
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.504466573+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.5.1
+    created: "2020-09-09T09:50:55.00653+01:00"
     description: A Zeebe Cluster Helm Chart for Kubernetes
     digest: c17d056a58aba6ccaf8b4fac5e7dfca64cf056bfeacf0f25ba65dca4a2a5e7a5
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -1012,16 +575,7 @@ entries:
     version: 0.0.49
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.500676649+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.5.1
+    created: "2020-09-09T09:50:55.004613+01:00"
     description: A Zeebe Cluster Helm Chart for Kubernetes
     digest: 15ea459a3beb67d0f1f37d946517ce4c894874805c300500cc605f8603b48df4
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -1031,16 +585,7 @@ entries:
     version: 0.0.48
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.497848327+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.5.1
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.5.1
+    created: "2020-09-09T09:50:55.002302+01:00"
     description: A Zeebe Cluster Helm Chart for Kubernetes
     digest: d24b50bcf1c314679253d2748125bc473f43713268985c856d234fa4416cceab
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -1050,16 +595,7 @@ entries:
     version: 0.0.47
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.494853187+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.4.1
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.4.1
+    created: "2020-09-09T09:50:55.000517+01:00"
     description: A Zeebe Cluster Helm Chart for Kubernetes
     digest: c10a1656ef2a42a34211015d365eef628eab06dbce5c692d8cc5435eb27f58c4
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -1069,16 +605,7 @@ entries:
     version: 0.0.46
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.492175978+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.4.1
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.4.1
+    created: "2020-09-09T09:50:54.998737+01:00"
     description: A Zeebe Cluster Helm Chart for Kubernetes
     digest: 2a40650a2535a2c44fb30613e5f398a2ac46539cd8f3d4eb5775694860fad9ef
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -1088,16 +615,7 @@ entries:
     version: 0.0.45
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.487685654+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.4.1
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.4.1
+    created: "2020-09-09T09:50:54.996844+01:00"
     description: A Zeebe Cluster Helm Chart for Kubernetes
     digest: 942a0c248d0da561ac59f6058f27667e33c8b29fb50bca5735ac09ecc77512ca
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -1107,16 +625,7 @@ entries:
     version: 0.0.44
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.48462892+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.4.1
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.4.1
+    created: "2020-09-09T09:50:54.995119+01:00"
     description: A Zeebe Cluster Helm Chart for Kubernetes
     digest: 76fb1f72c945e98fd8358a0af08e60bd854358a352f9037efa7f588e1bd8a35d
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -1126,16 +635,7 @@ entries:
     version: 0.0.43
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.481601428+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.4.1
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.4.1
+    created: "2020-09-09T09:50:54.993313+01:00"
     description: A Zeebe Cluster Helm Chart for Kubernetes
     digest: 0583743e9a71b81c0d9f9e83a1fec6d3eaab46e24570d913a650f7f8d994be69
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -1145,16 +645,7 @@ entries:
     version: 0.0.42
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.478523964+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.5.0
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.5.0
+    created: "2020-09-09T09:50:54.990897+01:00"
     description: A Zeebe Cluster Helm Chart for Kubernetes
     digest: 8bd087f1f7a6b1ab7092b80309bf7b2bd38e44538c549ca8c3b1074c3c068d2e
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -1164,16 +655,7 @@ entries:
     version: 0.0.41
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.474691826+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.5.0
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.5.0
+    created: "2020-09-09T09:50:54.98903+01:00"
     description: A Zeebe Cluster Helm Chart for Kubernetes
     digest: 01d984e45453933549acba10033f3f848e6495a6b4304b61b0181c29585fa026
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -1183,16 +665,7 @@ entries:
     version: 0.0.40
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.471677454+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.4.1
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.4.1
+    created: "2020-09-09T09:50:54.986662+01:00"
     description: A Zeebe Cluster Helm Chart for Kubernetes
     digest: af0fc0936e7cd092f1043d218fedf1923b64849c56dfb100b2274368f3c183c0
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -1202,16 +675,7 @@ entries:
     version: 0.0.38
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.468526117+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.4.1
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.4.1
+    created: "2020-09-09T09:50:54.984616+01:00"
     description: A Zeebe Cluster Helm Chart for Kubernetes
     digest: 857684ecfb62734a7b30064f41f1215a811d9bb82b8f94a6cb19ab688f59d90e
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -1221,16 +685,7 @@ entries:
     version: 0.0.37
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.46543064+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.4.1
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.4.1
+    created: "2020-09-09T09:50:54.982872+01:00"
     description: A Zeebe Cluster Helm Chart for Kubernetes
     digest: f4b00feb8aa4fe47be686a7eb0fc3e5ccae57115d949f4ff1f2bf6d1d47a5136
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -1240,16 +695,7 @@ entries:
     version: 0.0.36
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.460982194+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.4.1
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.4.1
+    created: "2020-09-09T09:50:54.980449+01:00"
     description: A Zeebe Cluster Helm Chart for Kubernetes
     digest: df0f32dc8297e0eaa0d0746a7d06d9e8dde1ebdadb2787aecf0b1e0a0bf4575d
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -1259,16 +705,7 @@ entries:
     version: 0.0.35
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.458084691+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.4.1
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.4.1
+    created: "2020-09-09T09:50:54.978228+01:00"
     description: A Zeebe Cluster Helm Chart for Kubernetes
     digest: 39cb575306d57cb282d7400c970add69724d1b72f836fec22390d1a42b941a44
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -1278,16 +715,7 @@ entries:
     version: 0.0.34
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.455002896+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.3.0
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.3.0
+    created: "2020-09-09T09:50:54.976408+01:00"
     description: A Zeebe Cluster Helm Chart for Kubernetes
     digest: 4f0e0142074ce0f8e4a2a6e327a3e7d37b47ae3f9cd474f524da93a2305414e5
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -1297,16 +725,7 @@ entries:
     version: 0.0.32
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.44956338+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.3.0
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.3.0
+    created: "2020-09-09T09:50:54.972678+01:00"
     description: A Zeebe Cluster Helm Chart for Kubernetes
     digest: 21d9c902fff34f38e5c58cac6465214ab48d33ed4717c3ef1871bcb10ee8c001
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -1316,16 +735,7 @@ entries:
     version: 0.0.19
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.446930734+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.3.0
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.3.0
+    created: "2020-09-09T09:50:54.971042+01:00"
     description: A Zeebe Cluster Helm Chart for Kubernetes
     digest: 06ceb929a25ab23ac660d95708ab1ba345d5409e91885f7f282ba254393703d6
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -1335,16 +745,7 @@ entries:
     version: 0.0.18
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.308324066+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.3.0
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.3.0
+    created: "2020-09-09T09:50:54.879198+01:00"
     description: A Zeebe Cluster Helm Chart for Kubernetes
     digest: cdf60a0f34456b6d0ab453d4ee3d8a90e302c2923916749c31aebd00cd3cd10a
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -1354,16 +755,7 @@ entries:
     version: 0.0.11
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.20954423+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.3.0
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.3.0
+    created: "2020-09-09T09:50:54.816306+01:00"
     description: A Zeebe Cluster Helm Chart for Kubernetes
     digest: a090fb7e1e9ea302992261b9bbbf81785bf6ae353234b400ff9f714d990864de
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -1373,16 +765,7 @@ entries:
     version: 0.0.10
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.941577832+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.3.0
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.3.0
+    created: "2020-09-09T09:50:55.257326+01:00"
     description: A Zeebe Cluster Helm Chart for Kubernetes
     digest: eb4009d0f9b0f6ee2d43a58f019dfbea003eb616c79ce5bcc095bf00b71f736b
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -1392,16 +775,7 @@ entries:
     version: 0.0.9
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.452358903+02:00"
-    dependencies:
-    - condition: elasticsearch.enabled
-      name: elasticsearch
-      repository: http://helm.elastic.co
-      version: 7.3.0
-    - condition: kibana.enabled
-      name: kibana
-      repository: http://helm.elastic.co
-      version: 7.3.0
+    created: "2020-09-09T09:50:54.974779+01:00"
     description: A Zeebe Cluster Helm Chart for Kubernetes
     digest: 63da4c0c5c4cd9e4030f19d7e7a3cf1e86b237b5a5d11970569081918a369dd0
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -1412,19 +786,17 @@ entries:
   zeebe-full:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:28.089875827+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.127
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.24
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.284648+01:00"
+    description: Zeebe Cluster + Operate Helm Chart for Kubernetes
+    digest: e3f860050a567383c7b8f310030fb3a567e448ebdbe2a692bc3aaef48217f32a
+    icon: https://zeebe.io/img/zeebe-logo.png
+    name: zeebe-full
+    urls:
+    - http://helm.zeebe.io/zeebe-full-0.0.101.tgz
+    version: 0.0.101
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-09-09T09:50:55.866456+01:00"
     description: Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 0cfdede9cae4ebf04b2719f8e7cbe7cf969a655230c353fb72dee5747e669a26
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -1434,19 +806,7 @@ entries:
     version: 0.0.85
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:28.066523114+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.122
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.24
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.854355+01:00"
     description: Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: a3e824ccb48fd22ded14f3dd1a18995d3aedadb53c3bd907cba87d476380b9be
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -1456,19 +816,7 @@ entries:
     version: 0.0.80
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:28.035841391+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.121
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.24
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.839577+01:00"
     description: Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 825ff3c1ba1de7e93dde728bf50ef1cfcb3da4ae2d64d8308989f8fd2e68174a
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -1478,19 +826,7 @@ entries:
     version: 0.0.79
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:28.01089528+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.113
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.22
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.827455+01:00"
     description: Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: c910451b22655132d63df16ff776055cc9377c6bcdc78a52db454261c09578f4
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -1500,19 +836,7 @@ entries:
     version: 0.0.77
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.98625187+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.112
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.22
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.814807+01:00"
     description: Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: a6a29cd699948f63584d29d7f5828712c61f25dbcb84085c0e122af726c2eb12
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -1522,19 +846,7 @@ entries:
     version: 0.0.76
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.963414269+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.111
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.22
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.802311+01:00"
     description: Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 0e60fa6e8345a2cc384ae7993107e9540f77971e86f9c4e77c87c0a2266e6e5f
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -1544,19 +856,7 @@ entries:
     version: 0.0.75
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.939198832+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.107
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.22
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.789651+01:00"
     description: Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: e9f03965c07cd2a225753890268379e72ef2d64c978b4e7846bb050463804660
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -1566,19 +866,7 @@ entries:
     version: 0.0.74
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.916751089+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.106
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.22
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.777621+01:00"
     description: Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 37596c8d80db16e7366ded1c3b229668ef4c04bb91bfc9591ae650ba112dabb7
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -1588,19 +876,7 @@ entries:
     version: 0.0.73
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.892382841+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.102
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.22
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.76556+01:00"
     description: Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 994bd68e1c1cbc5499d6b3e6ca96fce97015334a4664f2a840989d97f32302af
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -1610,19 +886,7 @@ entries:
     version: 0.0.72
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.869559026+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.101
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.22
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.753196+01:00"
     description: Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 1be28224a7776bb34b29f03425e7dc92eaa561196d1535360741d9df8e7cca10
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -1632,19 +896,7 @@ entries:
     version: 0.0.71
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.847686812+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.100
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.22
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.741065+01:00"
     description: Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 3f240e44de5c5243c2a6c124c902e6c98e5561bbab884ea6a3590d954ca6021b
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -1654,19 +906,7 @@ entries:
     version: 0.0.70
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.819719311+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.99
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.22
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.726864+01:00"
     description: Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 0c6baf5eee29dc832faf917248dd03b1e3637837b810c62b307506752b2cea98
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -1676,19 +916,7 @@ entries:
     version: 0.0.69
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.797368124+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.99
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.21
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.714062+01:00"
     description: Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: e8a4ebd682658a5cfa8396bbd680b1b4c2ffb9301dfe0f5ccbb67f4b4165800a
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -1698,19 +926,7 @@ entries:
     version: 0.0.68
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.775625244+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.89
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.20
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.702488+01:00"
     description: Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 67996aadac17decf4325fcfeab545b7b2b12b1303b66f3536f90cb7cc9c0e9b4
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -1720,19 +936,7 @@ entries:
     version: 0.0.63
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.751675507+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.88
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.20
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.689301+01:00"
     description: Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: c2c9a83720a322db09507dc17fba75a68dd904d104ac1066f1a334912f46a952
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -1742,19 +946,7 @@ entries:
     version: 0.0.62
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.727596541+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.87
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.20
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.677281+01:00"
     description: Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: a4bfc1fbb47385c9021e6e0e1725caabfd969708fee646bde7008f9a7bb16a77
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -1764,19 +956,7 @@ entries:
     version: 0.0.60
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.700525353+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.86
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.20
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.660388+01:00"
     description: Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 177d50a3b7cb8b540d68afa0e36aa29336cc0dc4824f98275f7bf012d7618fee
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -1786,19 +966,7 @@ entries:
     version: 0.0.59
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.676837062+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.85
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.20
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.647939+01:00"
     description: Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: b9df43e31feae48de3517e54463035c67e1334c9e00cfeb194d5461c58d2c717
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -1808,19 +976,7 @@ entries:
     version: 0.0.57
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.650319177+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.85
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.19
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.633956+01:00"
     description: Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 379cd0330c71b840cc31c8e54a73c5281998a4df08e072a45ebe07ca4aedd3f8
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -1830,19 +986,7 @@ entries:
     version: 0.0.56
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.619908436+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.85
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.19
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.622136+01:00"
     description: Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 07b8582ed1fc7d352c74be8f70f100f74bc9796fb7eb2a7f80fdc2f1c62483d1
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -1852,19 +996,7 @@ entries:
     version: 0.0.55
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.583648561+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.85
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.19
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.608982+01:00"
     description: Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 41fdbeeedf3d5be57fa5035397f8abb7d01edcceb0ab05a4988d08eb209d26fc
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -1874,19 +1006,7 @@ entries:
     version: 0.0.54
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.548809732+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.84
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.18
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.596752+01:00"
     description: Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: bffc62c862a7419e9857ad52da5dfbadd6de69706288af689ad4ad2c7bdb0117
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -1896,19 +1016,7 @@ entries:
     version: 0.0.53
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.516788143+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.76
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.18
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.584172+01:00"
     description: Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 2608ca96f8a512f4fb7af4d1d506c1f4df3f2e30b37276c76643ca10a2bbde8f
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -1918,19 +1026,7 @@ entries:
     version: 0.0.52
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.480640216+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.72
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.18
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.569644+01:00"
     description: Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 7be46d60015a2b5ea4cd3e625df543dddc31653d339e0f7ef621fcf2297a0e88
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -1940,19 +1036,7 @@ entries:
     version: 0.0.49
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.442406509+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.71
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.18
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.556757+01:00"
     description: Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 0f26db2d25f34fa6428e13ca6ea2be0d2691963e3ebef36b00455d7a32f3d1e6
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -1962,19 +1046,7 @@ entries:
     version: 0.0.48
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.406395589+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.71
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.17
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.544549+01:00"
     description: Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 8d4ab2f6c905d1f674fb37b86ab86d08005f75531c7f661b039caf328dc3484d
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -1984,19 +1056,7 @@ entries:
     version: 0.0.47
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.380251508+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.70
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.17
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.531829+01:00"
     description: Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: db73ce1f9694dd07acf33d4cbc14e288e5809e5547504eb53c743709ed46cfe0
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -2006,19 +1066,7 @@ entries:
     version: 0.0.46
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.355134243+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.69
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.17
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.519234+01:00"
     description: Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 8d16e75c93faa19b6c94a4066189ab816dd96d020b2cced9b4553a0b6f47d169
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -2028,19 +1076,7 @@ entries:
     version: 0.0.45
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.330121409+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.68
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.17
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.501599+01:00"
     description: Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 3000e476ba310c4ace681f9f128236ae5b5f9c891227934daa9413d28ee15427
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -2050,19 +1086,7 @@ entries:
     version: 0.0.44
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.307016437+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.67
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.17
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.48813+01:00"
     description: Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 7332c8314d59ddf81e5f73e4d41dd44e730b86f2232ea344deaa4953b467c78b
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -2072,19 +1096,7 @@ entries:
     version: 0.0.43
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.28416401+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.66
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.17
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.472978+01:00"
     description: Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 22a1de818bb7f74facc6d7277b26cf8d1344563c003664062f20dd632e665ab5
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -2094,19 +1106,7 @@ entries:
     version: 0.0.42
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.261420472+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.63
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.17
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.458729+01:00"
     description: Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 06b0e1a298bbe7dff0677f7d33a0c58c2581c0f80b86b18ef4da2e6709d2ecfc
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -2116,19 +1116,7 @@ entries:
     version: 0.0.41
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.239376956+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.61
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.17
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.443408+01:00"
     description: Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 34b4c68f393b0cfd3fcdfad8c4450ef8d37aa8592aa42c4c6a8840459e5413cf
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -2138,19 +1126,7 @@ entries:
     version: 0.0.40
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.215567899+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.57
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.17
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.426616+01:00"
     description: Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 4a9e953eb91d0e10ea16baca03d626a70bc44066a336cafb0ca27cbc61284c8b
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -2160,19 +1136,7 @@ entries:
     version: 0.0.39
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.191993666+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.56
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.16
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.411734+01:00"
     description: A Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: ae5702be191e84d5f1f6ca5f77bd215ed384e07b7a258ecb75c8be5b39a111ae
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -2182,19 +1146,7 @@ entries:
     version: 0.0.37
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.169062619+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.55
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.16
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.395496+01:00"
     description: A Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: df23ea5e9672157326e936c3cc2b47a8914791105beb3f29b95154545e07c4ef
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -2204,19 +1156,7 @@ entries:
     version: 0.0.36
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.145854826+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.54
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.16
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.379502+01:00"
     description: A Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: b34a7f4b4b73866e4f44e84a44d4328e479310462f8d63272d511e670267c53c
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -2226,19 +1166,7 @@ entries:
     version: 0.0.35
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.123131578+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.53
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.16
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.366124+01:00"
     description: A Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 222612389db28021b0364120f0063c9fbcd2ccbeaa8bc7dce4e768e2f44ab3ce
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -2248,19 +1176,7 @@ entries:
     version: 0.0.34
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.098241404+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.52
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.16
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.351+01:00"
     description: A Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 572fc9580da581f63f6dda00843c73c7ce6382d73399b05719c4616b638917d5
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -2270,19 +1186,7 @@ entries:
     version: 0.0.33
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.075862927+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.49
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.16
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.339142+01:00"
     description: A Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 4cc97bc1b4becb375a6925dab750cd6b58a382ab4eedceb7fcf23d0b73a46055
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -2292,19 +1196,7 @@ entries:
     version: 0.0.32
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.069564175+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.48
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.16
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.336251+01:00"
     description: A Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 5bb09b8db8f94d4850d7f365dec026d7d79728b1a8a8da11eb062573c080f9c8
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -2314,19 +1206,7 @@ entries:
     version: 0.0.31
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.063950291+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.46
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.15
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.332951+01:00"
     description: A Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: db44d804b17218e533925e2e9f3535be3ba612228a6e53e18737f3dfbd265306
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -2336,19 +1216,7 @@ entries:
     version: 0.0.30
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.052439227+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.45
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.15
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.32711+01:00"
     description: A Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: aaf9e2f13ffde9b56becd8862738f061789228b5e47ce440e96a0b33b9558dce
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -2358,19 +1226,7 @@ entries:
     version: 0.0.29
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.046191615+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.44
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.15
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.323977+01:00"
     description: A Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 84cab7a6d0c2e0417eec6d2736b05cc652d081c686aac737a33a17f7118a9e21
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -2380,19 +1236,7 @@ entries:
     version: 0.0.28
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.040307164+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.43
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.14
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.320578+01:00"
     description: A Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: a1518b1597086d037f63257f63c2129c66dc7ba3072dbff43d970b2255feafbb
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -2402,19 +1246,7 @@ entries:
     version: 0.0.27
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.033626874+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.42
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.14
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.317584+01:00"
     description: A Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 420317627fa3e45f8fdb728854e983d7da6da5e835bcc05d293a0c766c68cc41
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -2424,19 +1256,7 @@ entries:
     version: 0.0.26
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.027804486+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.41
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.14
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.31395+01:00"
     description: A Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 657ddbe5709529c5063ba5b3d1ff82a6605c96d413c260d90e34d5961c62a59c
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -2446,19 +1266,7 @@ entries:
     version: 0.0.25
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.022070899+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.40
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.14
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.311117+01:00"
     description: A Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 52562b2e8ad42288ba1da1992f9b84fe375993ca1f2487697fcde266d68bdb1d
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -2468,19 +1276,7 @@ entries:
     version: 0.0.24
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.015140417+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.38
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.14
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.308151+01:00"
     description: A Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: c921b9d14267012e7852da17dc80b5a0e41bda2997ff1fb5bc6332392f153f03
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -2490,19 +1286,7 @@ entries:
     version: 0.0.23
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.00939859+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.37
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.14
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.304679+01:00"
     description: A Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 0e0a44b194054a11c6e7b7f95a21ef317d9b59329b21045a3469ba948f293769
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -2512,19 +1296,7 @@ entries:
     version: 0.0.22
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.001196671+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.36
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.13
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.26.2
+    created: "2020-09-09T09:50:55.30174+01:00"
     description: A Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 88e6c151289ecb81a07dbcc4dfcfbeecdf8fa1c56d81850c2e63a9d8484cdd16
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -2534,19 +1306,7 @@ entries:
     version: 0.0.21
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.994680546+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.36
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.13
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.19.0
+    created: "2020-09-09T09:50:55.29882+01:00"
     description: A Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 89182416df523ec710c66d2a13c83698dee06b416b6e2021170b62da04c396a9
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -2556,19 +1316,7 @@ entries:
     version: 0.0.20
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.989568566+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.34
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.12
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.19.0
+    created: "2020-09-09T09:50:55.295421+01:00"
     description: A Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: ecbd17a4126e29d9418c7a839c41bd7a8691fce3f0c956fab70b849f630e0b25
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -2578,19 +1326,7 @@ entries:
     version: 0.0.19
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.983066608+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.34
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.11
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.19.0
+    created: "2020-09-09T09:50:55.292478+01:00"
     description: A Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 45e587fdf5e7aaa452991bf5fa400eb8890640a536692cd4e0e57fbefcd28207
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -2600,19 +1336,7 @@ entries:
     version: 0.0.18
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.977536191+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.32
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.11
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.19.0
+    created: "2020-09-09T09:50:55.289649+01:00"
     description: A Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 6a182c82e28c0fe42dc85510ae480f5abd997ed8fabd9a0bf15a3a94ad0d107b
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -2622,19 +1346,7 @@ entries:
     version: 0.0.17
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.972498241+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.19
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.9
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.19.0
+    created: "2020-09-09T09:50:55.287214+01:00"
     description: A Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 1431aabe9204704c63af6707d6f9dd9e5802e855b425a7bc9513e3914c7ff4ac
     name: zeebe-full
@@ -2643,19 +1355,7 @@ entries:
     version: 0.0.11
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:26.967218934+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.18
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.9
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.19.0
+    created: "2020-09-09T09:50:55.272039+01:00"
     description: A Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 87386d742cf31ad6ba7f8731fabc6c3a8eb9b75b3f46cacfbe9b383df5d872f7
     name: zeebe-full
@@ -2664,19 +1364,7 @@ entries:
     version: 0.0.10
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:28.041377118+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.11
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.9
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.19.0
+    created: "2020-09-09T09:50:55.842231+01:00"
     description: A Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 3d02acb26138cae5ce523f491774533deaa344b4120599490efd94e22f2d6ca7
     name: zeebe-full
@@ -2685,19 +1373,7 @@ entries:
     version: 0.0.8
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.824744134+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.10
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.9
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.19.0
+    created: "2020-09-09T09:50:55.729627+01:00"
     description: A Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 006937ba8492ec973eeab7bb950099a3840746b06b61cb57a73dbbfc7582fbe2
     name: zeebe-full
@@ -2706,19 +1382,7 @@ entries:
     version: 0.0.7
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.705743593+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.9
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.8
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.19.0
+    created: "2020-09-09T09:50:55.663888+01:00"
     description: A Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 2053a4c6580c2db7b3aaa2d3afbb5a19bc4d51893be62b5df57d45ad842506c9
     name: zeebe-full
@@ -2727,19 +1391,7 @@ entries:
     version: 0.0.6
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.489915313+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.9
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.3
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.19.0
+    created: "2020-09-09T09:50:55.572341+01:00"
     description: A Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 85333dcaec8f2d72738e268b833a0f93d83adfec9fd8651334bbc621cb36af0c
     name: zeebe-full
@@ -2748,19 +1400,7 @@ entries:
     version: 0.0.5
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:27.057304357+02:00"
-    dependencies:
-    - alias: zeebe
-      name: zeebe-cluster
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.2
-    - alias: operate
-      name: zeebe-operate
-      repository: http://jenkins-x-chartmuseum:8080
-      version: 0.0.3
-    - name: nginx-ingress
-      repository: https://kubernetes-charts.storage.googleapis.com
-      version: 1.19.0
+    created: "2020-09-09T09:50:55.329958+01:00"
     description: A Zeebe Cluster + Operate Helm Chart for Kubernetes
     digest: 9e9664a4adc30431d3e83469e338237b4addceb23c31fdc07a4f902edbba4f4e
     name: zeebe-full
@@ -2770,7 +1410,17 @@ entries:
   zeebe-operate:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:28.095173851+02:00"
+    created: "2020-09-09T09:50:55.872295+01:00"
+    description: Zeebe Operate Helm Chart for Kubernetes
+    digest: c4ada24f511a5f30b23fb3a37225d324fb0e919b8ddda34330eba2c3dbbd1e7b
+    icon: https://zeebe.io/img/zeebe-logo.png
+    name: zeebe-operate
+    urls:
+    - http://helm.zeebe.io/zeebe-operate-0.0.28.tgz
+    version: 0.0.28
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-09-09T09:50:55.872038+01:00"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: 11b3759024e6559604aed9cdecefac0b385b34306b8037d6ddef6c7b47f0ebe9
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -2780,7 +1430,7 @@ entries:
     version: 0.0.24
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:28.094775594+02:00"
+    created: "2020-09-09T09:50:55.871661+01:00"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: 57451bce5873345be17e79489a813e365a5e11de112f1c2632ce6d1b18b7a7b7
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -2790,7 +1440,7 @@ entries:
     version: 0.0.22
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:28.09436274+02:00"
+    created: "2020-09-09T09:50:55.871341+01:00"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: 55bbb17d1a2613eb0de64510067bce07ab0060e05f4e14145d12f03060c2ed07
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -2800,7 +1450,7 @@ entries:
     version: 0.0.21
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:28.09381675+02:00"
+    created: "2020-09-09T09:50:55.871046+01:00"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: 4939a69c5248d9a92b28b67bf1c316a3b2b3e08fad43c69fa8ecda42a70ffbcc
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -2810,7 +1460,7 @@ entries:
     version: 0.0.20
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:28.093386109+02:00"
+    created: "2020-09-09T09:50:55.870506+01:00"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: fd20f4d420c2f1960105f185e4c7f091936a5a8b626895f97d0ce5c07e56744f
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -2820,7 +1470,7 @@ entries:
     version: 0.0.19
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:28.093007954+02:00"
+    created: "2020-09-09T09:50:55.869972+01:00"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: ad1398da0073d2f31e1bdd4ac618d252361a6aa2cb240e731d27250bb64888b5
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -2830,7 +1480,7 @@ entries:
     version: 0.0.18
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:28.092622356+02:00"
+    created: "2020-09-09T09:50:55.869549+01:00"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: acd2397cef40faf8597dd0b4ef520cbe729bb8fdf42dd367d5501f4656861434
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -2840,7 +1490,7 @@ entries:
     version: 0.0.17
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:28.09222537+02:00"
+    created: "2020-09-09T09:50:55.86912+01:00"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: 2a5facce1e5b1b712f16eeafe7872aa7384d3325c9efbe6283962011bc7607bc
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -2850,7 +1500,7 @@ entries:
     version: 0.0.16
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:28.091844023+02:00"
+    created: "2020-09-09T09:50:55.868694+01:00"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: 704d031c80abb4ce1003d26fe8137915ba7876259b509b66176eb19d5adbe842
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -2860,7 +1510,7 @@ entries:
     version: 0.0.15
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:28.091437577+02:00"
+    created: "2020-09-09T09:50:55.868271+01:00"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: cd0c914c48ed6ce398c360e9e29fa2c7db2d8d053c9623f46b4489c132913794
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -2870,7 +1520,7 @@ entries:
     version: 0.0.14
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:28.091053552+02:00"
+    created: "2020-09-09T09:50:55.867836+01:00"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: 24adb50b5b25d4c1a5ed85135fbb8aede3f22a8fbeb0080b34c0eef08112e508
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -2880,7 +1530,7 @@ entries:
     version: 0.0.13
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:28.090666739+02:00"
+    created: "2020-09-09T09:50:55.867408+01:00"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: 7158212feb9f33dd362177a628b39e4a26961bc4f838a0549623a5da72603dda
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -2890,7 +1540,7 @@ entries:
     version: 0.0.12
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:28.090246786+02:00"
+    created: "2020-09-09T09:50:55.866933+01:00"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: ec7f239589e48cc5ecfb7c08643129b869a2f7b81a3db59b96168faf7856e121
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -2900,7 +1550,7 @@ entries:
     version: 0.0.11
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:28.096518786+02:00"
+    created: "2020-09-09T09:50:55.873757+01:00"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: d482e53b1fe3d4712dd99057c9604be06bed68391508e8b54fbcc32c8a424499
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -2910,7 +1560,7 @@ entries:
     version: 0.0.9
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:28.096164488+02:00"
+    created: "2020-09-09T09:50:55.873386+01:00"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: 885247f66afc34f06eb1eb2f11261af2095a87d1050367cd275e18a2c910f859
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -2920,7 +1570,7 @@ entries:
     version: 0.0.8
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:28.095841443+02:00"
+    created: "2020-09-09T09:50:55.87302+01:00"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: 17664ebd6bf0be2b17d8e225afc5ba11b24f5ad3b060310b5479144b41294bb3
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -2930,7 +1580,7 @@ entries:
     version: 0.0.4
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:28.09549921+02:00"
+    created: "2020-09-09T09:50:55.872658+01:00"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: cd70f1b7c6c1616635cc299f20ca8d49ca3d87a09c264d28fab0b35e3dcdc7b8
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -2941,13 +1591,7 @@ entries:
   zeebe-operator:
   - apiVersion: v1
     appVersion: 0.0.90
-    created: "2020-07-08T17:24:28.131433245+02:00"
-    dependencies:
-    - alias: tekton
-      condition: tekton.enabled
-      name: tekton
-      repository: '@storage.googleapis.com'
-      version: 0.0.56
+    created: "2020-09-09T09:50:55.893171+01:00"
     description: Zeebe Operator Helm Chart
     digest: d8aba888cd5bc21845935bb0d5f6a976b5a2cc32d8a6ad1e48d885f2bcb3be4b
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -2957,13 +1601,7 @@ entries:
     version: 0.0.90
   - apiVersion: v1
     appVersion: 0.0.83
-    created: "2020-07-08T17:24:28.128840201+02:00"
-    dependencies:
-    - alias: tekton
-      condition: tekton.enabled
-      name: tekton
-      repository: '@storage.googleapis.com'
-      version: 0.0.56
+    created: "2020-09-09T09:50:55.892351+01:00"
     description: Zeebe Operator Helm Chart
     digest: 60b6fd1de4fb67b16a791727eece3a3a1cac4a26f46645c3d4d100746603bb9f
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -2973,13 +1611,7 @@ entries:
     version: 0.0.83
   - apiVersion: v1
     appVersion: 0.0.75
-    created: "2020-07-08T17:24:28.126650672+02:00"
-    dependencies:
-    - alias: tekton
-      condition: tekton.enabled
-      name: tekton
-      repository: '@storage.googleapis.com'
-      version: 0.0.46
+    created: "2020-09-09T09:50:55.890747+01:00"
     description: Zeebe Operator Helm Chart
     digest: 3d046e609c0b09f957fc036eae5557a90ea0271de1293ad6f8e1d338a97e377b
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -2989,13 +1621,7 @@ entries:
     version: 0.0.75
   - apiVersion: v1
     appVersion: 0.0.73
-    created: "2020-07-08T17:24:28.125066472+02:00"
-    dependencies:
-    - alias: tekton
-      condition: tekton.enabled
-      name: tekton
-      repository: '@storage.googleapis.com'
-      version: 0.0.46
+    created: "2020-09-09T09:50:55.889653+01:00"
     description: Zeebe Operator Helm Chart
     digest: 1e5ff0b83a0c1502b263acabc426da091004d1fe24dc072a65a1df06cf6f63b5
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -3005,13 +1631,7 @@ entries:
     version: 0.0.73
   - apiVersion: v1
     appVersion: 0.0.72
-    created: "2020-07-08T17:24:28.122743379+02:00"
-    dependencies:
-    - alias: tekton
-      condition: tekton.enabled
-      name: tekton
-      repository: '@storage.googleapis.com'
-      version: 0.0.46
+    created: "2020-09-09T09:50:55.888701+01:00"
     description: Zeebe Operator Helm Chart
     digest: c672a7b84fc6d01523659d28b2bff40accee4490359a4029842cd3132c84d38a
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -3021,13 +1641,7 @@ entries:
     version: 0.0.72
   - apiVersion: v1
     appVersion: 0.0.71
-    created: "2020-07-08T17:24:28.120408886+02:00"
-    dependencies:
-    - alias: tekton
-      condition: tekton.enabled
-      name: tekton
-      repository: '@storage.googleapis.com'
-      version: 0.0.46
+    created: "2020-09-09T09:50:55.887697+01:00"
     description: Zeebe Operator Helm Chart
     digest: 68c65470eb158e1a932a77b733f527d746380bbad0d681825ac2ec4b141d54e2
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -3037,13 +1651,7 @@ entries:
     version: 0.0.71
   - apiVersion: v1
     appVersion: 0.0.69
-    created: "2020-07-08T17:24:28.118460579+02:00"
-    dependencies:
-    - alias: tekton
-      condition: tekton.enabled
-      name: tekton
-      repository: '@storage.googleapis.com'
-      version: 0.0.46
+    created: "2020-09-09T09:50:55.886486+01:00"
     description: Zeebe Operator Helm Chart
     digest: 9af1760f5ca239ce0f85b986bfb3737f722f44cc9361dc061abbb5caaf8391e3
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -3053,13 +1661,7 @@ entries:
     version: 0.0.69
   - apiVersion: v1
     appVersion: 0.0.68
-    created: "2020-07-08T17:24:28.117109346+02:00"
-    dependencies:
-    - alias: tekton
-      condition: tekton.enabled
-      name: tekton
-      repository: '@storage.googleapis.com'
-      version: 0.0.46
+    created: "2020-09-09T09:50:55.885631+01:00"
     description: Zeebe Operator Helm Chart
     digest: 1c00d3eca17b4f3e94b530e79e4da84aba0690eae1bcec77edaf5f9f4ac99e0c
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -3069,13 +1671,7 @@ entries:
     version: 0.0.68
   - apiVersion: v1
     appVersion: 0.0.67
-    created: "2020-07-08T17:24:28.115780437+02:00"
-    dependencies:
-    - alias: tekton
-      condition: tekton.enabled
-      name: tekton
-      repository: '@storage.googleapis.com'
-      version: 0.0.46
+    created: "2020-09-09T09:50:55.884825+01:00"
     description: Zeebe Operator Helm Chart
     digest: 845079d79571359ce45366f2d03b2183358574dc76b0784e5b5b31d493b40174
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -3085,13 +1681,7 @@ entries:
     version: 0.0.67
   - apiVersion: v1
     appVersion: 0.0.66
-    created: "2020-07-08T17:24:28.112736256+02:00"
-    dependencies:
-    - alias: tekton
-      condition: tekton.enabled
-      name: tekton
-      repository: '@storage.googleapis.com'
-      version: 0.0.46
+    created: "2020-09-09T09:50:55.883998+01:00"
     description: Zeebe Operator Helm Chart
     digest: bf6ff13ce9b11e56ec8d581633a17c911ade84d934ce591996f20bd0833a12a2
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -3101,13 +1691,7 @@ entries:
     version: 0.0.66
   - apiVersion: v1
     appVersion: 0.0.63
-    created: "2020-07-08T17:24:28.11114852+02:00"
-    dependencies:
-    - alias: tekton
-      condition: tekton.enabled
-      name: tekton
-      repository: '@storage.googleapis.com'
-      version: 0.0.46
+    created: "2020-09-09T09:50:55.883173+01:00"
     description: A Helm chart for Kubernetes
     digest: 61ed91560f3e09924f7d2c2253131c7a0b6a6740c6761a8e773316cfe99141be
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -3117,13 +1701,7 @@ entries:
     version: 0.0.63
   - apiVersion: v1
     appVersion: 0.0.62
-    created: "2020-07-08T17:24:28.10983644+02:00"
-    dependencies:
-    - alias: tekton
-      condition: tekton.enabled
-      name: tekton
-      repository: '@storage.googleapis.com'
-      version: 0.0.46
+    created: "2020-09-09T09:50:55.882347+01:00"
     description: A Helm chart for Kubernetes
     digest: ed49d643ba033a9eeb65f2ba01c8d6944c3a7fb20aacaabbf057b2a2415a4823
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -3133,13 +1711,7 @@ entries:
     version: 0.0.62
   - apiVersion: v1
     appVersion: 0.0.61
-    created: "2020-07-08T17:24:28.108471336+02:00"
-    dependencies:
-    - alias: tekton
-      condition: tekton.enabled
-      name: tekton
-      repository: '@storage.googleapis.com'
-      version: 0.0.46
+    created: "2020-09-09T09:50:55.880852+01:00"
     description: A Helm chart for Kubernetes
     digest: 0168f0d2dac49e7d0c245a3e633d9bde5807a1a58e300d7f94e64d9c17bf67b0
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -3149,13 +1721,7 @@ entries:
     version: 0.0.61
   - apiVersion: v1
     appVersion: 0.0.60
-    created: "2020-07-08T17:24:28.107152238+02:00"
-    dependencies:
-    - alias: tekton
-      condition: tekton.enabled
-      name: tekton
-      repository: '@storage.googleapis.com'
-      version: 0.0.46
+    created: "2020-09-09T09:50:55.879986+01:00"
     description: A Helm chart for Kubernetes
     digest: 399b7671eb7f22f106b2c44ea612e96ee27cf492896c5430f30b16233b93c620
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -3165,13 +1731,7 @@ entries:
     version: 0.0.60
   - apiVersion: v1
     appVersion: 0.0.59
-    created: "2020-07-08T17:24:28.105839218+02:00"
-    dependencies:
-    - alias: tekton
-      condition: tekton.enabled
-      name: tekton
-      repository: '@storage.googleapis.com'
-      version: 0.0.46
+    created: "2020-09-09T09:50:55.879141+01:00"
     description: A Helm chart for Kubernetes
     digest: 56f403bfce867082dfc2cbafed6e33b4d0b18c77b57411c89818e4bfd046ea7f
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -3181,13 +1741,7 @@ entries:
     version: 0.0.59
   - apiVersion: v1
     appVersion: 0.0.58
-    created: "2020-07-08T17:24:28.104518975+02:00"
-    dependencies:
-    - alias: tekton
-      condition: tekton.enabled
-      name: tekton
-      repository: '@storage.googleapis.com'
-      version: 0.0.46
+    created: "2020-09-09T09:50:55.87828+01:00"
     description: A Helm chart for Kubernetes
     digest: 862df858a8a4d78082608e74a3a34cb87c61029f3cd41e8bd9387f0697feb3c5
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -3197,13 +1751,7 @@ entries:
     version: 0.0.58
   - apiVersion: v1
     appVersion: 0.0.57
-    created: "2020-07-08T17:24:28.103268061+02:00"
-    dependencies:
-    - alias: tekton
-      condition: tekton.enabled
-      name: tekton
-      repository: '@storage.googleapis.com'
-      version: 0.0.46
+    created: "2020-09-09T09:50:55.877419+01:00"
     description: A Helm chart for Kubernetes
     digest: 98fb1a2f4e3fef16cc72620a8fb2fb66a36abe491289dd728393a7ce5958f802
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -3213,13 +1761,7 @@ entries:
     version: 0.0.57
   - apiVersion: v1
     appVersion: 0.0.56
-    created: "2020-07-08T17:24:28.101045669+02:00"
-    dependencies:
-    - alias: tekton
-      condition: tekton.enabled
-      name: tekton
-      repository: '@storage.googleapis.com'
-      version: 0.0.46
+    created: "2020-09-09T09:50:55.876538+01:00"
     description: A Helm chart for Kubernetes
     digest: e0434e435a870ad976278db9d35f0cfb5774dd90b6c6b0ebbba5c87843507b0c
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -3229,13 +1771,7 @@ entries:
     version: 0.0.56
   - apiVersion: v1
     appVersion: 0.0.55
-    created: "2020-07-08T17:24:28.099031823+02:00"
-    dependencies:
-    - alias: tekton
-      condition: tekton.enabled
-      name: tekton
-      repository: '@storage.googleapis.com'
-      version: 0.0.46
+    created: "2020-09-09T09:50:55.875648+01:00"
     description: A Helm chart for Kubernetes
     digest: 525802a354609a08b60f4984a8aa0076adac571d6b18f664444a850e8a186fc0
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -3245,13 +1781,7 @@ entries:
     version: 0.0.55
   - apiVersion: v1
     appVersion: 0.0.54
-    created: "2020-07-08T17:24:28.097789353+02:00"
-    dependencies:
-    - alias: tekton
-      condition: tekton.enabled
-      name: tekton
-      repository: '@storage.googleapis.com'
-      version: 0.0.46
+    created: "2020-09-09T09:50:55.874683+01:00"
     description: A Helm chart for Kubernetes
     digest: 61063be5b27c66243bdb869209837142b293e6d8e14cc2959c755e8c4b9cf2c1
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
@@ -3262,12 +1792,17 @@ entries:
   zeeqs:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:28.135214163+02:00"
-    dependencies:
-    - condition: hazelcast.enabled
-      name: hazelcast
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: 3.3.0
+    created: "2020-09-09T09:50:55.894419+01:00"
+    description: ZeeQS Helm Chart for Kubernetes
+    digest: 3bffed117d49d374583a2f27a145b42759dbf553205724daa0c70944a684c40f
+    icon: https://zeebe.io/img/zeebe-logo.png
+    name: zeeqs
+    urls:
+    - http://helm.zeebe.io/zeeqs-0.0.14.tgz
+    version: 0.0.14
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-09-09T09:50:55.89679+01:00"
     description: ZeeQS Helm Chart for Kubernetes
     digest: c78a8a1c9303873a414baa47f53791feda72b1af329d6a2ecc6acc6216b00711
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -3277,12 +1812,7 @@ entries:
     version: 0.0.4
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:28.133635192+02:00"
-    dependencies:
-    - condition: hazelcast.enabled
-      name: hazelcast
-      repository: https://kubernetes-charts.storage.googleapis.com/
-      version: 3.3.0
+    created: "2020-09-09T09:50:55.895619+01:00"
     description: ZeeQS Helm Chart for Kubernetes
     digest: bdd14fb13ddb95dd0bd506467ac058859a2067d1b5f1bf18db2015879f1b987e
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -3292,7 +1822,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-08T17:24:28.131790246+02:00"
+    created: "2020-09-09T09:50:55.893637+01:00"
     description: ZeeQS Helm Chart for Kubernetes
     digest: d431ab8db48cee84461db37e325c9127220ef0b744a723b6b24c74d463c1ecb8
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -3300,4 +1830,4 @@ entries:
     urls:
     - http://helm.zeebe.io/zeeqs-0.0.1.tgz
     version: 0.0.1
-generated: "2020-07-08T17:24:26.194326773+02:00"
+generated: "2020-09-09T09:50:54.801471+01:00"
