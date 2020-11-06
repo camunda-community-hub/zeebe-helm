@@ -19,7 +19,7 @@ Currently hosting the following charts:
   - Can be configured to point to zeebe-cluster
 - [zeebe-full](http://github.com/zeebe-io/zeebe-full-helm)
   - Depends on: zeebe-cluster, zeebe-operate and [nginx-ingress](https://github.com/helm/charts/tree/master/stable/nginx-ingress)
-- [zeebe-operator](https://github.com/salaboy/zeebe-operator)  **(Experimental)**
+- [zeebe-operator](https://github.com/zeebe-io/zeebe-operator)  **(Experimental)**
 
 Follow [the instructions in the Zeebe docs](https://docs.zeebe.io/kubernetes/installing-helm.html) to install Zeebe to a K8s cluster using these charts.
 
