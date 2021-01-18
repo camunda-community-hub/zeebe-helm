@@ -51,4 +51,8 @@ rm -rf ${workDir}
 echo "Done"
 echo ""
 
+echo "Creating Helm Index..."
+
 helm repo index --url http://helm.zeebe.io .
+
+echo "Done."
