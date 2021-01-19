@@ -4,7 +4,6 @@ charts='["zeebe-cluster-helm", "zeebe-operate-helm", "zeebe-full-helm", "zeebe-o
 
 echo $charts | jq ".[]" | xargs -I ^ curl -s "$base_url/api/charts/^/" | jq '.urls[0]' | xargs -I ^ curl -Os "$base_url/^"
 
-#! /bin/bash
 
 echo "Cleaing up release.yaml files from releases"
 workDir="tmp"
@@ -38,8 +37,9 @@ do
 
   echo "Compressing new File"
   cd ${workDir}
-  tar -czf ../${tarFile} .
-  rm -rf . > /dev/null 2>&1
+  DIR=`ls -1`
+  tar -czf ../${tarFile} $DIR
+  rm -rf $DIR
   cd - > /dev/null
   echo "Done"
   echo ""
