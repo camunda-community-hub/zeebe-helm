@@ -10,6 +10,8 @@ This repository host Zeebe HELM charts for Kubernetes, this charts can be access
 There are three main charts which are represented in the following image:
 ![HELM CHARTS](imgs/charts.png)
 
+**Note check the [Zeebe Helm Profiles](https://github.com/zeebe-io/zeebe-helm-profiles) repository for different configurations for your clusters, such as Dev, HA, etc. Feel free to contribute with your own profiles if you want to**
+
 You can consume each individual chart, or use the `zeebe-full-helm` chart which will install all the components, including an NGINX Ingress Controller.
 
 Currently hosting the following charts:
