@@ -61,7 +61,7 @@ Please create [new issues](https://github.com/zeebe-io/zeebe-helm/issues) if you
 
 ## Releasing these Charts
 
-These charts are being released internally at: http://chartmuseum-jx.35.222.17.41.nip.io/charts/ where you can find the latest builds, which are periodically updated in this repository.
+These charts are being released internally at: http://chartmuseum-jx.104.154.179.98.nip.io/charts/ where you can find the latest builds, which are periodically updated in this repository.
 
 In order to release to this public-facing repository hosted at: `http://helm.zeebe.io` you need to download artifacts hosted at `http://chartmuseum-jx.35.222.17.41.nip.io/charts/` and then run the following command to generate the Helm Indexes:
 ```
