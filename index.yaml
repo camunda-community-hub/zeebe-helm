@@ -3,7 +3,7 @@ entries:
   payments-service:
   - apiVersion: v1
     appVersion: 0.0.22
-    created: "2021-03-04T10:03:31.067419-03:00"
+    created: "2021-03-12T10:33:23.108694Z"
     description: A Helm chart for Kubernetes
     digest: 089a08bd60152e5832633af9ab7f4fb27fb137ffe6e5d327826dfe10ee095f3e
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -13,7 +13,7 @@ entries:
     version: 0.0.22
   - apiVersion: v1
     appVersion: 0.0.17
-    created: "2021-03-04T10:03:31.065167-03:00"
+    created: "2021-03-12T10:33:23.105721Z"
     description: A Helm chart for Kubernetes
     digest: d08e382aaf1279189c9a831f2022330aa45035a9c8ee3cb4d5dea72203f183dc
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -23,7 +23,7 @@ entries:
     version: 0.0.17
   - apiVersion: v1
     appVersion: 0.0.4
-    created: "2021-03-04T10:03:31.071534-03:00"
+    created: "2021-03-12T10:33:23.113148Z"
     description: A Helm chart for Kubernetes
     digest: c9c576d7180c5cb351092561fbac89f21d0b3e09ab185e946c69866bcc6c5f6d
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -33,7 +33,7 @@ entries:
     version: 0.0.4
   - apiVersion: v1
     appVersion: 0.0.3
-    created: "2021-03-04T10:03:31.070336-03:00"
+    created: "2021-03-12T10:33:23.112137Z"
     description: A Helm chart for Kubernetes
     digest: 19db560453491fd866be9eb489f1098ed6a83673edd5e3e87e2f9b081da7fb14
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -43,7 +43,7 @@ entries:
     version: 0.0.3
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2021-03-04T10:03:31.066184-03:00"
+    created: "2021-03-12T10:33:23.107086Z"
     description: A Helm chart for Kubernetes
     digest: a9f8e3a81fb858d50b8375937e8ad3bdff5a137b508915ffbffff8e70e8aaec4
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -53,7 +53,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2021-03-04T10:03:31.063603-03:00"
+    created: "2021-03-12T10:33:23.10443Z"
     description: A Helm chart for Kubernetes
     digest: 74c797e2863d09718f24a6bc154974e4e8c3a79f8b029ee52fa7c5a2223cc681
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -64,7 +64,7 @@ entries:
   tickets-service:
   - apiVersion: v1
     appVersion: 0.0.45
-    created: "2021-03-04T10:03:31.080284-03:00"
+    created: "2021-03-12T10:33:23.12218Z"
     description: A Helm chart for Kubernetes
     digest: b83b1c249a07942474984f26ce7e23a24e7a008b792a32e70833e2c35a086579
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -74,7 +74,7 @@ entries:
     version: 0.0.45
   - apiVersion: v1
     appVersion: 0.0.36
-    created: "2021-03-04T10:03:31.077859-03:00"
+    created: "2021-03-12T10:33:23.119775Z"
     description: A Helm chart for Kubernetes
     digest: 69926713e70c8a0d79e6c595d065b6e0328b4eba1505936a2c7bf0923fa04c32
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -84,7 +84,7 @@ entries:
     version: 0.0.36
   - apiVersion: v1
     appVersion: 0.0.33
-    created: "2021-03-04T10:03:31.076852-03:00"
+    created: "2021-03-12T10:33:23.118445Z"
     description: A Helm chart for Kubernetes
     digest: 949442ee3940adacceef2a146d9f6db041bf543b7ccee1277f2c43b40e537a09
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -94,7 +94,7 @@ entries:
     version: 0.0.33
   - apiVersion: v1
     appVersion: 0.0.32
-    created: "2021-03-04T10:03:31.075892-03:00"
+    created: "2021-03-12T10:33:23.117197Z"
     description: A Helm chart for Kubernetes
     digest: 866bc6ca9eabf57a05780054636af119f74ddb988266d354a042dbb19ba51afc
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -104,7 +104,7 @@ entries:
     version: 0.0.32
   - apiVersion: v1
     appVersion: 0.0.6
-    created: "2021-03-04T10:03:31.082388-03:00"
+    created: "2021-03-12T10:33:23.124034Z"
     description: A Helm chart for Kubernetes
     digest: d7d3bc7ea0f40b89342e901b478185374f8bd1dbc3b496c65d1ed4c70a8b06d1
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -114,7 +114,7 @@ entries:
     version: 0.0.6
   - apiVersion: v1
     appVersion: 0.0.5
-    created: "2021-03-04T10:03:31.081332-03:00"
+    created: "2021-03-12T10:33:23.12311Z"
     description: A Helm chart for Kubernetes
     digest: b15f471259e5af861a0e9bed25bb6b96bd96f58ee506d135ca3ace6eafbbe660
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -124,7 +124,7 @@ entries:
     version: 0.0.5
   - apiVersion: v1
     appVersion: 0.0.4
-    created: "2021-03-04T10:03:31.078905-03:00"
+    created: "2021-03-12T10:33:23.120668Z"
     description: A Helm chart for Kubernetes
     digest: a989e221e65bafbb1e1a4469daf6125f43bd98c565b6b947c0777269c6454365
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -134,7 +134,7 @@ entries:
     version: 0.0.4
   - apiVersion: v1
     appVersion: 0.0.3
-    created: "2021-03-04T10:03:31.074853-03:00"
+    created: "2021-03-12T10:33:23.116046Z"
     description: A Helm chart for Kubernetes
     digest: a75949db8131b7021b2464c29a74e3b405b7948de58455404faffde44d126e8e
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -144,7 +144,7 @@ entries:
     version: 0.0.3
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2021-03-04T10:03:31.073777-03:00"
+    created: "2021-03-12T10:33:23.11502Z"
     description: A Helm chart for Kubernetes
     digest: 0679b89c19f8aaeba53c348bf1351033d6a565b1ffb4fc511f8e1a81611d264f
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -154,7 +154,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2021-03-04T10:03:31.072566-03:00"
+    created: "2021-03-12T10:33:23.114066Z"
     description: A Helm chart for Kubernetes
     digest: 2d162bb2711735e7d3a7cc83cb44897e49eb45784def01d3acf3b099fbfc342c
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -165,7 +165,7 @@ entries:
   zeebe-cloud-events-router:
   - apiVersion: v1
     appVersion: 0.0.51
-    created: "2021-03-04T10:03:31.092251-03:00"
+    created: "2021-03-12T10:33:23.134339Z"
     description: A Helm chart for Kubernetes
     digest: cf832983268adc33f16c80721839f668117483b511ea24a43ea4f2fb7552d9b3
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
@@ -175,7 +175,7 @@ entries:
     version: 0.0.51
   - apiVersion: v1
     appVersion: 0.0.47
-    created: "2021-03-04T10:03:31.08937-03:00"
+    created: "2021-03-12T10:33:23.132291Z"
     description: A Helm chart for Kubernetes
     digest: 32d3c03415f84defbbb042a0c17e0ddc8cdf41997a43da221e0204168de878c1
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -185,7 +185,7 @@ entries:
     version: 0.0.47
   - apiVersion: v1
     appVersion: 0.0.43
-    created: "2021-03-04T10:03:31.08804-03:00"
+    created: "2021-03-12T10:33:23.131284Z"
     description: A Helm chart for Kubernetes
     digest: 84276c60d3353c9f12d3eaaeec1003257719d625ab391f798971a5fd6efc8779
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -195,7 +195,7 @@ entries:
     version: 0.0.43
   - apiVersion: v1
     appVersion: 0.0.36
-    created: "2021-03-04T10:03:31.085278-03:00"
+    created: "2021-03-12T10:33:23.127527Z"
     description: A Helm chart for Kubernetes
     digest: 19e46119270de3352993f6298e8003d93c96b418a558a6060386989d6c0aa811
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -205,7 +205,7 @@ entries:
     version: 0.0.36
   - apiVersion: v1
     appVersion: 0.0.8
-    created: "2021-03-04T10:03:31.093811-03:00"
+    created: "2021-03-12T10:33:23.136376Z"
     description: A Helm chart for Kubernetes
     digest: d84cd0d24210af75fb93c187688b574d5e9f99a44d9c357c4ce7ea86afa2b3cc
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -215,7 +215,7 @@ entries:
     version: 0.0.8
   - apiVersion: v1
     appVersion: 0.0.6
-    created: "2021-03-04T10:03:31.093079-03:00"
+    created: "2021-03-12T10:33:23.135406Z"
     description: A Helm chart for Kubernetes
     digest: c7d1173fee023927ceb29baefe040357b5b791890332d370e1a990c9cf2025b1
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -225,7 +225,7 @@ entries:
     version: 0.0.6
   - apiVersion: v1
     appVersion: 0.0.5
-    created: "2021-03-04T10:03:31.090709-03:00"
+    created: "2021-03-12T10:33:23.133443Z"
     description: A Helm chart for Kubernetes
     digest: 70307207a5d1eee915ed5eaee0089d5498fc9ad5e822f13ff20d90065bd638e3
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -235,7 +235,7 @@ entries:
     version: 0.0.5
   - apiVersion: v1
     appVersion: 0.0.4
-    created: "2021-03-04T10:03:31.086699-03:00"
+    created: "2021-03-12T10:33:23.130179Z"
     description: A Helm chart for Kubernetes
     digest: f54d115fb24273bb1a2beb42c3934499683d831f7f10e81719440426903e610c
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -245,7 +245,7 @@ entries:
     version: 0.0.4
   - apiVersion: v1
     appVersion: 0.0.3
-    created: "2021-03-04T10:03:31.084311-03:00"
+    created: "2021-03-12T10:33:23.126637Z"
     description: A Helm chart for Kubernetes
     digest: c7d6d9ed104dd37005b9f1f89547d4a8f9c4d7f83d0e1d29f0b03365df80726a
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -255,7 +255,7 @@ entries:
     version: 0.0.3
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2021-03-04T10:03:31.083551-03:00"
+    created: "2021-03-12T10:33:23.125292Z"
     description: A Helm chart for Kubernetes
     digest: 695267892e53674bcf1907906f49eddb864d62d57d6cc1e47f82888aa5687397
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -266,7 +266,7 @@ entries:
   zeebe-cluster:
   - apiVersion: v1
     appVersion: 0.24.2
-    created: "2021-03-04T10:03:31.367687-03:00"
+    created: "2021-03-12T10:33:23.448722Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -289,7 +289,7 @@ entries:
     version: 0.0.154
   - apiVersion: v1
     appVersion: 0.24.2
-    created: "2021-03-04T10:03:31.351435-03:00"
+    created: "2021-03-12T10:33:23.431903Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -312,7 +312,7 @@ entries:
     version: 0.0.150
   - apiVersion: v1
     appVersion: 0.24.1
-    created: "2021-03-04T10:03:31.334998-03:00"
+    created: "2021-03-12T10:33:23.412007Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -335,7 +335,7 @@ entries:
     version: 0.0.148
   - apiVersion: v1
     appVersion: 0.24.1
-    created: "2021-03-04T10:03:31.318585-03:00"
+    created: "2021-03-12T10:33:23.391812Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -358,7 +358,7 @@ entries:
     version: 0.0.144
   - apiVersion: v1
     appVersion: 0.23.4
-    created: "2021-03-04T10:03:31.302085-03:00"
+    created: "2021-03-12T10:33:23.373465Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -381,7 +381,7 @@ entries:
     version: 0.0.128
   - apiVersion: v1
     appVersion: 0.23.4
-    created: "2021-03-04T10:03:31.28626-03:00"
+    created: "2021-03-12T10:33:23.356731Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -404,7 +404,7 @@ entries:
     version: 0.0.127
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.269915-03:00"
+    created: "2021-03-12T10:33:23.337759Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -427,7 +427,7 @@ entries:
     version: 0.0.122
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.252854-03:00"
+    created: "2021-03-12T10:33:23.318129Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -450,7 +450,7 @@ entries:
     version: 0.0.121
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.237362-03:00"
+    created: "2021-03-12T10:33:23.299356Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -473,7 +473,7 @@ entries:
     version: 0.0.113
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.220767-03:00"
+    created: "2021-03-12T10:33:23.279178Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -496,7 +496,7 @@ entries:
     version: 0.0.112
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.204315-03:00"
+    created: "2021-03-12T10:33:23.259712Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -519,7 +519,7 @@ entries:
     version: 0.0.111
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.186084-03:00"
+    created: "2021-03-12T10:33:23.23705Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -542,7 +542,7 @@ entries:
     version: 0.0.107
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.169726-03:00"
+    created: "2021-03-12T10:33:23.218188Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -565,7 +565,7 @@ entries:
     version: 0.0.106
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.152468-03:00"
+    created: "2021-03-12T10:33:23.199316Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -588,7 +588,7 @@ entries:
     version: 0.0.102
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.13434-03:00"
+    created: "2021-03-12T10:33:23.180406Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -611,7 +611,7 @@ entries:
     version: 0.0.101
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.116081-03:00"
+    created: "2021-03-12T10:33:23.160494Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -634,7 +634,7 @@ entries:
     version: 0.0.100
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.80937-03:00"
+    created: "2021-03-12T10:33:23.966436Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -657,7 +657,7 @@ entries:
     version: 0.0.99
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.789789-03:00"
+    created: "2021-03-12T10:33:23.941207Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -680,7 +680,7 @@ entries:
     version: 0.0.89
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.774369-03:00"
+    created: "2021-03-12T10:33:23.920786Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -703,7 +703,7 @@ entries:
     version: 0.0.88
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.758565-03:00"
+    created: "2021-03-12T10:33:23.898997Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -726,7 +726,7 @@ entries:
     version: 0.0.86
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.74174-03:00"
+    created: "2021-03-12T10:33:23.877991Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -749,7 +749,7 @@ entries:
     version: 0.0.85
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.725443-03:00"
+    created: "2021-03-12T10:33:23.858588Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -772,7 +772,7 @@ entries:
     version: 0.0.84
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.710185-03:00"
+    created: "2021-03-12T10:33:23.840033Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -795,7 +795,7 @@ entries:
     version: 0.0.76
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.694434-03:00"
+    created: "2021-03-12T10:33:23.818438Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -818,7 +818,7 @@ entries:
     version: 0.0.72
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.67757-03:00"
+    created: "2021-03-12T10:33:23.799715Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -841,7 +841,7 @@ entries:
     version: 0.0.71
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.661934-03:00"
+    created: "2021-03-12T10:33:23.779594Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -864,7 +864,7 @@ entries:
     version: 0.0.70
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.645464-03:00"
+    created: "2021-03-12T10:33:23.760602Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -887,7 +887,7 @@ entries:
     version: 0.0.69
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.629249-03:00"
+    created: "2021-03-12T10:33:23.741939Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -910,7 +910,7 @@ entries:
     version: 0.0.68
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.613112-03:00"
+    created: "2021-03-12T10:33:23.724848Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -933,7 +933,7 @@ entries:
     version: 0.0.67
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.597126-03:00"
+    created: "2021-03-12T10:33:23.705273Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -956,7 +956,7 @@ entries:
     version: 0.0.66
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.580259-03:00"
+    created: "2021-03-12T10:33:23.685972Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -979,7 +979,7 @@ entries:
     version: 0.0.63
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.561914-03:00"
+    created: "2021-03-12T10:33:23.667767Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1001,7 +1001,7 @@ entries:
     - http://helm.zeebe.io/zeebe-cluster-0.0.61.tgz
     version: 0.0.61
   - apiVersion: v1
-    created: "2021-03-04T10:03:31.544409-03:00"
+    created: "2021-03-12T10:33:23.648278Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1024,7 +1024,7 @@ entries:
     version: 0.0.60
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.527742-03:00"
+    created: "2021-03-12T10:33:23.628013Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1047,7 +1047,7 @@ entries:
     version: 0.0.57
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.51164-03:00"
+    created: "2021-03-12T10:33:23.609063Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1070,7 +1070,7 @@ entries:
     version: 0.0.56
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.496178-03:00"
+    created: "2021-03-12T10:33:23.591123Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1093,7 +1093,7 @@ entries:
     version: 0.0.55
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.479205-03:00"
+    created: "2021-03-12T10:33:23.572952Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1116,7 +1116,7 @@ entries:
     version: 0.0.54
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.462138-03:00"
+    created: "2021-03-12T10:33:23.555256Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1139,7 +1139,7 @@ entries:
     version: 0.0.53
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.445586-03:00"
+    created: "2021-03-12T10:33:23.539087Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1162,7 +1162,7 @@ entries:
     version: 0.0.52
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.428982-03:00"
+    created: "2021-03-12T10:33:23.520581Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1185,7 +1185,7 @@ entries:
     version: 0.0.51
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.42313-03:00"
+    created: "2021-03-12T10:33:23.513305Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1204,7 +1204,7 @@ entries:
     version: 0.0.49
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.41977-03:00"
+    created: "2021-03-12T10:33:23.51006Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1223,7 +1223,7 @@ entries:
     version: 0.0.48
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.417045-03:00"
+    created: "2021-03-12T10:33:23.507084Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1242,7 +1242,7 @@ entries:
     version: 0.0.47
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.414424-03:00"
+    created: "2021-03-12T10:33:23.50307Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1261,7 +1261,7 @@ entries:
     version: 0.0.46
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.411751-03:00"
+    created: "2021-03-12T10:33:23.499537Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1280,7 +1280,7 @@ entries:
     version: 0.0.45
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.40844-03:00"
+    created: "2021-03-12T10:33:23.496138Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1299,7 +1299,7 @@ entries:
     version: 0.0.44
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.405636-03:00"
+    created: "2021-03-12T10:33:23.493208Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1318,7 +1318,7 @@ entries:
     version: 0.0.43
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.402933-03:00"
+    created: "2021-03-12T10:33:23.488925Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1337,7 +1337,7 @@ entries:
     version: 0.0.42
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.400135-03:00"
+    created: "2021-03-12T10:33:23.485934Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1356,7 +1356,7 @@ entries:
     version: 0.0.41
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.396506-03:00"
+    created: "2021-03-12T10:33:23.482373Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1375,7 +1375,7 @@ entries:
     version: 0.0.40
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.393604-03:00"
+    created: "2021-03-12T10:33:23.478931Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1394,7 +1394,7 @@ entries:
     version: 0.0.38
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.390931-03:00"
+    created: "2021-03-12T10:33:23.475626Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1413,7 +1413,7 @@ entries:
     version: 0.0.37
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.388214-03:00"
+    created: "2021-03-12T10:33:23.472874Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1432,7 +1432,7 @@ entries:
     version: 0.0.36
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.384933-03:00"
+    created: "2021-03-12T10:33:23.469802Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1451,7 +1451,7 @@ entries:
     version: 0.0.35
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.38222-03:00"
+    created: "2021-03-12T10:33:23.465904Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1470,7 +1470,7 @@ entries:
     version: 0.0.34
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.379057-03:00"
+    created: "2021-03-12T10:33:23.462729Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1489,7 +1489,7 @@ entries:
     version: 0.0.32
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.373037-03:00"
+    created: "2021-03-12T10:33:23.456106Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1508,7 +1508,7 @@ entries:
     version: 0.0.19
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.370602-03:00"
+    created: "2021-03-12T10:33:23.45275Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1527,7 +1527,7 @@ entries:
     version: 0.0.18
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.18892-03:00"
+    created: "2021-03-12T10:33:23.240192Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1546,7 +1546,7 @@ entries:
     version: 0.0.11
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.096985-03:00"
+    created: "2021-03-12T10:33:23.13981Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1565,7 +1565,7 @@ entries:
     version: 0.0.10
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.792871-03:00"
+    created: "2021-03-12T10:33:23.94495Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1584,7 +1584,7 @@ entries:
     version: 0.0.9
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.376526-03:00"
+    created: "2021-03-12T10:33:23.460065Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1604,7 +1604,31 @@ entries:
   zeebe-cluster-helm:
   - apiVersion: v2
     appVersion: 0.25.0
-    created: "2021-03-04T10:03:31.866047-03:00"
+    created: "2021-03-12T10:33:24.059613Z"
+    dependencies:
+    - condition: elasticsearch.enabled
+      name: elasticsearch
+      repository: https://helm.elastic.co
+      version: 7.5.1
+    - condition: kibana.enabled
+      name: kibana
+      repository: https://helm.elastic.co
+      version: 7.5.1
+    - condition: prometheus.enabled
+      name: kube-prometheus-stack
+      repository: https://prometheus-community.github.io/helm-charts
+      version: 12.0.X
+    description: Zeebe Cluster Helm Chart for Kubernetes
+    digest: f6bdb7fa3f3ff3fc62daf9bf5a32d8ddf1851ff9b1247d58e6b62b48ddca79ad
+    icon: https://zeebe.io/img/zeebe-logo.png
+    name: zeebe-cluster-helm
+    type: application
+    urls:
+    - http://helm.zeebe.io/zeebe-cluster-helm-0.0.213.tgz
+    version: 0.0.213
+  - apiVersion: v2
+    appVersion: 0.25.0
+    created: "2021-03-12T10:33:24.03065Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1628,7 +1652,7 @@ entries:
     version: 0.0.211
   - apiVersion: v2
     appVersion: 0.25.0
-    created: "2021-03-04T10:03:31.845157-03:00"
+    created: "2021-03-12T10:33:24.007392Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1652,7 +1676,7 @@ entries:
     version: 0.0.210
   - apiVersion: v2
     appVersion: 0.25.0
-    created: "2021-03-04T10:03:31.823897-03:00"
+    created: "2021-03-12T10:33:23.98484Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1676,7 +1700,7 @@ entries:
     version: 0.0.209
   - apiVersion: v2
     appVersion: 0.25.0
-    created: "2021-03-04T10:03:31.816548-03:00"
+    created: "2021-03-12T10:33:23.974901Z"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1701,7 +1725,7 @@ entries:
   zeebe-full:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.956025-03:00"
+    created: "2021-03-12T10:33:24.163359Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -1733,7 +1757,7 @@ entries:
     version: 0.0.111
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.931163-03:00"
+    created: "2021-03-12T10:33:24.136377Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -1765,7 +1789,7 @@ entries:
     version: 0.0.107
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.911169-03:00"
+    created: "2021-03-12T10:33:24.11349Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -1797,7 +1821,7 @@ entries:
     version: 0.0.105
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.891133-03:00"
+    created: "2021-03-12T10:33:24.091077Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -1829,7 +1853,7 @@ entries:
     version: 0.0.101
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.807574-03:00"
+    created: "2021-03-12T10:33:25.0206Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -1851,7 +1875,7 @@ entries:
     version: 0.0.85
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.788687-03:00"
+    created: "2021-03-12T10:33:25.002588Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -1873,7 +1897,7 @@ entries:
     version: 0.0.80
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.766202-03:00"
+    created: "2021-03-12T10:33:24.9798Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -1895,7 +1919,7 @@ entries:
     version: 0.0.79
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.747857-03:00"
+    created: "2021-03-12T10:33:24.960741Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -1917,7 +1941,7 @@ entries:
     version: 0.0.77
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.729109-03:00"
+    created: "2021-03-12T10:33:24.942822Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -1939,7 +1963,7 @@ entries:
     version: 0.0.76
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.711281-03:00"
+    created: "2021-03-12T10:33:24.924173Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -1961,7 +1985,7 @@ entries:
     version: 0.0.75
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.69171-03:00"
+    created: "2021-03-12T10:33:24.905946Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -1983,7 +2007,7 @@ entries:
     version: 0.0.74
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.673858-03:00"
+    created: "2021-03-12T10:33:24.886904Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2005,7 +2029,7 @@ entries:
     version: 0.0.73
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.654996-03:00"
+    created: "2021-03-12T10:33:24.867205Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2027,7 +2051,7 @@ entries:
     version: 0.0.72
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.636445-03:00"
+    created: "2021-03-12T10:33:24.847445Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2049,7 +2073,7 @@ entries:
     version: 0.0.71
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.614935-03:00"
+    created: "2021-03-12T10:33:24.82918Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2071,7 +2095,7 @@ entries:
     version: 0.0.70
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.591223-03:00"
+    created: "2021-03-12T10:33:24.806207Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2093,7 +2117,7 @@ entries:
     version: 0.0.69
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.572931-03:00"
+    created: "2021-03-12T10:33:24.787526Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2115,7 +2139,7 @@ entries:
     version: 0.0.68
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.5543-03:00"
+    created: "2021-03-12T10:33:24.767216Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2137,7 +2161,7 @@ entries:
     version: 0.0.63
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.536065-03:00"
+    created: "2021-03-12T10:33:24.748398Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2159,7 +2183,7 @@ entries:
     version: 0.0.62
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.517584-03:00"
+    created: "2021-03-12T10:33:24.730482Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2181,7 +2205,7 @@ entries:
     version: 0.0.60
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.493913-03:00"
+    created: "2021-03-12T10:33:24.707796Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2203,7 +2227,7 @@ entries:
     version: 0.0.59
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.47457-03:00"
+    created: "2021-03-12T10:33:24.688235Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2225,7 +2249,7 @@ entries:
     version: 0.0.57
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.456715-03:00"
+    created: "2021-03-12T10:33:24.669255Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2247,7 +2271,7 @@ entries:
     version: 0.0.56
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.435828-03:00"
+    created: "2021-03-12T10:33:24.650432Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2269,7 +2293,7 @@ entries:
     version: 0.0.55
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.415764-03:00"
+    created: "2021-03-12T10:33:24.632069Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2291,7 +2315,7 @@ entries:
     version: 0.0.54
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.397937-03:00"
+    created: "2021-03-12T10:33:24.611836Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2313,7 +2337,7 @@ entries:
     version: 0.0.53
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.378833-03:00"
+    created: "2021-03-12T10:33:24.59137Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2335,7 +2359,7 @@ entries:
     version: 0.0.52
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.355744-03:00"
+    created: "2021-03-12T10:33:24.568032Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2357,7 +2381,7 @@ entries:
     version: 0.0.49
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.337317-03:00"
+    created: "2021-03-12T10:33:24.54921Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2379,7 +2403,7 @@ entries:
     version: 0.0.48
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.318928-03:00"
+    created: "2021-03-12T10:33:24.530952Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2401,7 +2425,7 @@ entries:
     version: 0.0.47
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.29986-03:00"
+    created: "2021-03-12T10:33:24.51125Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2423,7 +2447,7 @@ entries:
     version: 0.0.46
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.28099-03:00"
+    created: "2021-03-12T10:33:24.492191Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2445,7 +2469,7 @@ entries:
     version: 0.0.45
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.26329-03:00"
+    created: "2021-03-12T10:33:24.470979Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2467,7 +2491,7 @@ entries:
     version: 0.0.44
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.244662-03:00"
+    created: "2021-03-12T10:33:24.452942Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2489,7 +2513,7 @@ entries:
     version: 0.0.43
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.225479-03:00"
+    created: "2021-03-12T10:33:24.433517Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2511,7 +2535,7 @@ entries:
     version: 0.0.42
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.206876-03:00"
+    created: "2021-03-12T10:33:24.409864Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2533,7 +2557,7 @@ entries:
     version: 0.0.41
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.187554-03:00"
+    created: "2021-03-12T10:33:24.386757Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2555,7 +2579,7 @@ entries:
     version: 0.0.40
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.169219-03:00"
+    created: "2021-03-12T10:33:24.368115Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2577,7 +2601,7 @@ entries:
     version: 0.0.39
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.150096-03:00"
+    created: "2021-03-12T10:33:24.349077Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2599,7 +2623,7 @@ entries:
     version: 0.0.37
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.130785-03:00"
+    created: "2021-03-12T10:33:24.331856Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2621,7 +2645,7 @@ entries:
     version: 0.0.36
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.112103-03:00"
+    created: "2021-03-12T10:33:24.313002Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2643,7 +2667,7 @@ entries:
     version: 0.0.35
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.093382-03:00"
+    created: "2021-03-12T10:33:24.293913Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2665,7 +2689,7 @@ entries:
     version: 0.0.34
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.074741-03:00"
+    created: "2021-03-12T10:33:24.273528Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2687,7 +2711,7 @@ entries:
     version: 0.0.33
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.052879-03:00"
+    created: "2021-03-12T10:33:24.255318Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2709,7 +2733,7 @@ entries:
     version: 0.0.32
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.046587-03:00"
+    created: "2021-03-12T10:33:24.250229Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2731,7 +2755,7 @@ entries:
     version: 0.0.31
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.040455-03:00"
+    created: "2021-03-12T10:33:24.244685Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2753,7 +2777,7 @@ entries:
     version: 0.0.30
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.028642-03:00"
+    created: "2021-03-12T10:33:24.234867Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2775,7 +2799,7 @@ entries:
     version: 0.0.29
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.021861-03:00"
+    created: "2021-03-12T10:33:24.229973Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2797,7 +2821,7 @@ entries:
     version: 0.0.28
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.015245-03:00"
+    created: "2021-03-12T10:33:24.224252Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2819,7 +2843,7 @@ entries:
     version: 0.0.27
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.008114-03:00"
+    created: "2021-03-12T10:33:24.217345Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2841,7 +2865,7 @@ entries:
     version: 0.0.26
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.002812-03:00"
+    created: "2021-03-12T10:33:24.211552Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2863,7 +2887,7 @@ entries:
     version: 0.0.25
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.997053-03:00"
+    created: "2021-03-12T10:33:24.205739Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2885,7 +2909,7 @@ entries:
     version: 0.0.24
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.992028-03:00"
+    created: "2021-03-12T10:33:24.200091Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2907,7 +2931,7 @@ entries:
     version: 0.0.23
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.986-03:00"
+    created: "2021-03-12T10:33:24.194066Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2929,7 +2953,7 @@ entries:
     version: 0.0.22
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.980676-03:00"
+    created: "2021-03-12T10:33:24.188581Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2951,7 +2975,7 @@ entries:
     version: 0.0.21
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.974954-03:00"
+    created: "2021-03-12T10:33:24.183545Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2973,7 +2997,7 @@ entries:
     version: 0.0.20
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.9705-03:00"
+    created: "2021-03-12T10:33:24.177959Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2995,7 +3019,7 @@ entries:
     version: 0.0.19
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.965163-03:00"
+    created: "2021-03-12T10:33:24.172843Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -3017,7 +3041,7 @@ entries:
     version: 0.0.18
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.960485-03:00"
+    created: "2021-03-12T10:33:24.167844Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -3039,7 +3063,7 @@ entries:
     version: 0.0.17
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.935735-03:00"
+    created: "2021-03-12T10:33:24.141176Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -3060,7 +3084,7 @@ entries:
     version: 0.0.11
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:31.871051-03:00"
+    created: "2021-03-12T10:33:24.064912Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -3081,7 +3105,7 @@ entries:
     version: 0.0.10
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.770925-03:00"
+    created: "2021-03-12T10:33:24.98448Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -3102,7 +3126,7 @@ entries:
     version: 0.0.8
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.596377-03:00"
+    created: "2021-03-12T10:33:24.810848Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -3123,7 +3147,7 @@ entries:
     version: 0.0.7
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.499367-03:00"
+    created: "2021-03-12T10:33:24.712507Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -3144,7 +3168,7 @@ entries:
     version: 0.0.6
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.36044-03:00"
+    created: "2021-03-12T10:33:24.572694Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -3165,7 +3189,7 @@ entries:
     version: 0.0.5
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.03464-03:00"
+    created: "2021-03-12T10:33:24.23989Z"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -3187,7 +3211,36 @@ entries:
   zeebe-full-helm:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.92384-03:00"
+    created: "2021-03-12T10:33:25.163952Z"
+    dependencies:
+    - name: zeebe-cluster-helm
+      repository: http://jenkins-x-chartmuseum:8080
+      version: 0.0.213
+    - name: zeebe-operate-helm
+      repository: http://jenkins-x-chartmuseum:8080
+      version: 0.0.43
+    - condition: zeeqs.enabled
+      name: zeebe-zeeqs-helm
+      repository: http://jenkins-x-chartmuseum:8080
+      version: 0.0.25
+    - condition: tasklist.enabled
+      name: zeebe-tasklist-helm
+      repository: http://jenkins-x-chartmuseum:8080
+      version: 0.0.13
+    - name: ingress-nginx
+      repository: https://kubernetes.github.io/ingress-nginx
+      version: 3.19.0
+    description: Zeebe Cluster + Operate Helm Chart for Kubernetes
+    digest: cf3b3a0427f08984ddcffe792a60d02ffb5f5b3a570b14abac56b5a834cad6d9
+    icon: https://zeebe.io/img/zeebe-logo.png
+    name: zeebe-full-helm
+    type: application
+    urls:
+    - http://helm.zeebe.io/zeebe-full-helm-0.0.134.tgz
+    version: 0.0.134
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2021-03-12T10:33:25.13968Z"
     dependencies:
     - name: zeebe-cluster-helm
       repository: http://jenkins-x-chartmuseum:8080
@@ -3216,7 +3269,7 @@ entries:
     version: 0.0.133
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.900325-03:00"
+    created: "2021-03-12T10:33:25.115568Z"
     dependencies:
     - name: zeebe-cluster-helm
       repository: http://jenkins-x-chartmuseum:8080
@@ -3245,7 +3298,7 @@ entries:
     version: 0.0.132
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.877115-03:00"
+    created: "2021-03-12T10:33:25.091077Z"
     dependencies:
     - name: zeebe-cluster-helm
       repository: http://jenkins-x-chartmuseum:8080
@@ -3274,7 +3327,7 @@ entries:
     version: 0.0.131
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.8528-03:00"
+    created: "2021-03-12T10:33:25.066859Z"
     dependencies:
     - name: zeebe-cluster-helm
       repository: http://jenkins-x-chartmuseum:8080
@@ -3303,7 +3356,7 @@ entries:
     version: 0.0.130
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.833343-03:00"
+    created: "2021-03-12T10:33:25.04804Z"
     dependencies:
     - name: zeebe-cluster-helm
       repository: http://jenkins-x-chartmuseum:8080
@@ -3332,7 +3385,7 @@ entries:
     version: 0.0.128
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.8191-03:00"
+    created: "2021-03-12T10:33:25.032806Z"
     dependencies:
     - name: zeebe-cluster-helm
       repository: http://jenkins-x-chartmuseum:8080
@@ -3362,7 +3415,7 @@ entries:
   zeebe-operate:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.931736-03:00"
+    created: "2021-03-12T10:33:25.171269Z"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: c4ada24f511a5f30b23fb3a37225d324fb0e919b8ddda34330eba2c3dbbd1e7b
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -3372,7 +3425,7 @@ entries:
     version: 0.0.28
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.931063-03:00"
+    created: "2021-03-12T10:33:25.17066Z"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: 11b3759024e6559604aed9cdecefac0b385b34306b8037d6ddef6c7b47f0ebe9
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -3382,7 +3435,7 @@ entries:
     version: 0.0.24
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.930598-03:00"
+    created: "2021-03-12T10:33:25.170225Z"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: 57451bce5873345be17e79489a813e365a5e11de112f1c2632ce6d1b18b7a7b7
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -3392,7 +3445,7 @@ entries:
     version: 0.0.22
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.930132-03:00"
+    created: "2021-03-12T10:33:25.169788Z"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: 55bbb17d1a2613eb0de64510067bce07ab0060e05f4e14145d12f03060c2ed07
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -3402,7 +3455,7 @@ entries:
     version: 0.0.21
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.929605-03:00"
+    created: "2021-03-12T10:33:25.169371Z"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: 4939a69c5248d9a92b28b67bf1c316a3b2b3e08fad43c69fa8ecda42a70ffbcc
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -3412,7 +3465,7 @@ entries:
     version: 0.0.20
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.928879-03:00"
+    created: "2021-03-12T10:33:25.168756Z"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: fd20f4d420c2f1960105f185e4c7f091936a5a8b626895f97d0ce5c07e56744f
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -3422,7 +3475,7 @@ entries:
     version: 0.0.19
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.928292-03:00"
+    created: "2021-03-12T10:33:25.168126Z"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: ad1398da0073d2f31e1bdd4ac618d252361a6aa2cb240e731d27250bb64888b5
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -3432,7 +3485,7 @@ entries:
     version: 0.0.18
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.92781-03:00"
+    created: "2021-03-12T10:33:25.167629Z"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: acd2397cef40faf8597dd0b4ef520cbe729bb8fdf42dd367d5501f4656861434
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -3442,7 +3495,7 @@ entries:
     version: 0.0.17
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.927334-03:00"
+    created: "2021-03-12T10:33:25.167183Z"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: 2a5facce1e5b1b712f16eeafe7872aa7384d3325c9efbe6283962011bc7607bc
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -3452,7 +3505,7 @@ entries:
     version: 0.0.16
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.926756-03:00"
+    created: "2021-03-12T10:33:25.166771Z"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: 704d031c80abb4ce1003d26fe8137915ba7876259b509b66176eb19d5adbe842
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -3462,7 +3515,7 @@ entries:
     version: 0.0.15
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.926286-03:00"
+    created: "2021-03-12T10:33:25.166322Z"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: cd0c914c48ed6ce398c360e9e29fa2c7db2d8d053c9623f46b4489c132913794
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -3472,7 +3525,7 @@ entries:
     version: 0.0.14
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.925737-03:00"
+    created: "2021-03-12T10:33:25.165881Z"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: 24adb50b5b25d4c1a5ed85135fbb8aede3f22a8fbeb0080b34c0eef08112e508
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -3482,7 +3535,7 @@ entries:
     version: 0.0.13
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.925298-03:00"
+    created: "2021-03-12T10:33:25.165397Z"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: 7158212feb9f33dd362177a628b39e4a26961bc4f838a0549623a5da72603dda
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -3492,7 +3545,7 @@ entries:
     version: 0.0.12
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.924616-03:00"
+    created: "2021-03-12T10:33:25.164625Z"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: ec7f239589e48cc5ecfb7c08643129b869a2f7b81a3db59b96168faf7856e121
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -3502,7 +3555,7 @@ entries:
     version: 0.0.11
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.933534-03:00"
+    created: "2021-03-12T10:33:25.17287Z"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: d482e53b1fe3d4712dd99057c9604be06bed68391508e8b54fbcc32c8a424499
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -3512,7 +3565,7 @@ entries:
     version: 0.0.9
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.933079-03:00"
+    created: "2021-03-12T10:33:25.172481Z"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: 885247f66afc34f06eb1eb2f11261af2095a87d1050367cd275e18a2c910f859
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -3522,7 +3575,7 @@ entries:
     version: 0.0.8
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.932659-03:00"
+    created: "2021-03-12T10:33:25.172067Z"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: 17664ebd6bf0be2b17d8e225afc5ba11b24f5ad3b060310b5479144b41294bb3
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -3532,7 +3585,7 @@ entries:
     version: 0.0.4
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.932219-03:00"
+    created: "2021-03-12T10:33:25.171654Z"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: cd70f1b7c6c1616635cc299f20ca8d49ca3d87a09c264d28fab0b35e3dcdc7b8
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -3542,8 +3595,19 @@ entries:
     version: 0.0.3
   zeebe-operate-helm:
   - apiVersion: v2
+    appVersion: 0.26.1
+    created: "2021-03-12T10:33:25.175602Z"
+    description: Zeebe Operate Helm Chart for Kubernetes
+    digest: 0e081b42b1b4c69ddb3fcd64c247a94166d52cebd9fa8dd18c86e27223552a47
+    icon: https://zeebe.io/img/zeebe-logo.png
+    name: zeebe-operate-helm
+    type: application
+    urls:
+    - http://helm.zeebe.io/zeebe-operate-helm-0.0.43.tgz
+    version: 0.0.43
+  - apiVersion: v2
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.935645-03:00"
+    created: "2021-03-12T10:33:25.175245Z"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: da13f979a3f03ee69b3a27150738ae5dfdefc7579b52a6e8a35b2bbe5d38860b
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -3554,7 +3618,7 @@ entries:
     version: 0.0.42
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.935272-03:00"
+    created: "2021-03-12T10:33:25.174601Z"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: b0f654023d1b1481564c8bfa03b47effbdda7fed9aa61abd65dcbb984b450ada
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -3565,7 +3629,7 @@ entries:
     version: 0.0.39
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.934609-03:00"
+    created: "2021-03-12T10:33:25.173901Z"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: 9e6a10e6899ad967a744817aab1914ca9d1d7bfed97d32f9f544b409cc9ba093
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -3577,7 +3641,7 @@ entries:
   zeebe-operator:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.936942-03:00"
+    created: "2021-03-12T10:33:25.176911Z"
     dependencies:
     - alias: tekton
       condition: tekton.enabled
@@ -3585,7 +3649,7 @@ entries:
       repository: https://storage.googleapis.com/chartmuseum.jenkins-x.io
       version: 0.0.63
     description: Zeebe Operator Helm Chart
-    digest: 741909f0047ae6a913b779ad58a76fd4afe1100ed559977a59bb6c722a1f3a98
+    digest: 2052e8b3254c1e242fee7c4854e1342d3ca7f524886454c98179d3f5415a29bc
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-operator
     urls:
@@ -3593,7 +3657,7 @@ entries:
     version: 0.0.104
   - apiVersion: v1
     appVersion: 0.0.97
-    created: "2021-03-04T10:03:32.971185-03:00"
+    created: "2021-03-12T10:33:25.210639Z"
     dependencies:
     - alias: tekton
       condition: tekton.enabled
@@ -3609,7 +3673,7 @@ entries:
     version: 0.0.97
   - apiVersion: v1
     appVersion: 0.0.96
-    created: "2021-03-04T10:03:32.969191-03:00"
+    created: "2021-03-12T10:33:25.208657Z"
     dependencies:
     - alias: tekton
       condition: tekton.enabled
@@ -3625,7 +3689,7 @@ entries:
     version: 0.0.96
   - apiVersion: v1
     appVersion: 0.0.90
-    created: "2021-03-04T10:03:32.967297-03:00"
+    created: "2021-03-12T10:33:25.206079Z"
     dependencies:
     - alias: tekton
       condition: tekton.enabled
@@ -3641,7 +3705,7 @@ entries:
     version: 0.0.90
   - apiVersion: v1
     appVersion: 0.0.83
-    created: "2021-03-04T10:03:32.965344-03:00"
+    created: "2021-03-12T10:33:25.204176Z"
     dependencies:
     - alias: tekton
       condition: tekton.enabled
@@ -3657,7 +3721,7 @@ entries:
     version: 0.0.83
   - apiVersion: v1
     appVersion: 0.0.75
-    created: "2021-03-04T10:03:32.963687-03:00"
+    created: "2021-03-12T10:33:25.202518Z"
     dependencies:
     - alias: tekton
       condition: tekton.enabled
@@ -3673,7 +3737,7 @@ entries:
     version: 0.0.75
   - apiVersion: v1
     appVersion: 0.0.73
-    created: "2021-03-04T10:03:32.961801-03:00"
+    created: "2021-03-12T10:33:25.200748Z"
     dependencies:
     - alias: tekton
       condition: tekton.enabled
@@ -3689,7 +3753,7 @@ entries:
     version: 0.0.73
   - apiVersion: v1
     appVersion: 0.0.72
-    created: "2021-03-04T10:03:32.959369-03:00"
+    created: "2021-03-12T10:33:25.199258Z"
     dependencies:
     - alias: tekton
       condition: tekton.enabled
@@ -3705,7 +3769,7 @@ entries:
     version: 0.0.72
   - apiVersion: v1
     appVersion: 0.0.71
-    created: "2021-03-04T10:03:32.957637-03:00"
+    created: "2021-03-12T10:33:25.197779Z"
     dependencies:
     - alias: tekton
       condition: tekton.enabled
@@ -3721,7 +3785,7 @@ entries:
     version: 0.0.71
   - apiVersion: v1
     appVersion: 0.0.69
-    created: "2021-03-04T10:03:32.955941-03:00"
+    created: "2021-03-12T10:33:25.196244Z"
     dependencies:
     - alias: tekton
       condition: tekton.enabled
@@ -3737,7 +3801,7 @@ entries:
     version: 0.0.69
   - apiVersion: v1
     appVersion: 0.0.68
-    created: "2021-03-04T10:03:32.954692-03:00"
+    created: "2021-03-12T10:33:25.194258Z"
     dependencies:
     - alias: tekton
       condition: tekton.enabled
@@ -3753,7 +3817,7 @@ entries:
     version: 0.0.68
   - apiVersion: v1
     appVersion: 0.0.67
-    created: "2021-03-04T10:03:32.953443-03:00"
+    created: "2021-03-12T10:33:25.193041Z"
     dependencies:
     - alias: tekton
       condition: tekton.enabled
@@ -3769,7 +3833,7 @@ entries:
     version: 0.0.67
   - apiVersion: v1
     appVersion: 0.0.66
-    created: "2021-03-04T10:03:32.95224-03:00"
+    created: "2021-03-12T10:33:25.191846Z"
     dependencies:
     - alias: tekton
       condition: tekton.enabled
@@ -3785,7 +3849,7 @@ entries:
     version: 0.0.66
   - apiVersion: v1
     appVersion: 0.0.63
-    created: "2021-03-04T10:03:32.951066-03:00"
+    created: "2021-03-12T10:33:25.190368Z"
     dependencies:
     - alias: tekton
       condition: tekton.enabled
@@ -3801,7 +3865,7 @@ entries:
     version: 0.0.63
   - apiVersion: v1
     appVersion: 0.0.62
-    created: "2021-03-04T10:03:32.94977-03:00"
+    created: "2021-03-12T10:33:25.189003Z"
     dependencies:
     - alias: tekton
       condition: tekton.enabled
@@ -3817,7 +3881,7 @@ entries:
     version: 0.0.62
   - apiVersion: v1
     appVersion: 0.0.61
-    created: "2021-03-04T10:03:32.948285-03:00"
+    created: "2021-03-12T10:33:25.187319Z"
     dependencies:
     - alias: tekton
       condition: tekton.enabled
@@ -3833,7 +3897,7 @@ entries:
     version: 0.0.61
   - apiVersion: v1
     appVersion: 0.0.60
-    created: "2021-03-04T10:03:32.9463-03:00"
+    created: "2021-03-12T10:33:25.186045Z"
     dependencies:
     - alias: tekton
       condition: tekton.enabled
@@ -3849,7 +3913,7 @@ entries:
     version: 0.0.60
   - apiVersion: v1
     appVersion: 0.0.59
-    created: "2021-03-04T10:03:32.945005-03:00"
+    created: "2021-03-12T10:33:25.184663Z"
     dependencies:
     - alias: tekton
       condition: tekton.enabled
@@ -3865,7 +3929,7 @@ entries:
     version: 0.0.59
   - apiVersion: v1
     appVersion: 0.0.58
-    created: "2021-03-04T10:03:32.943683-03:00"
+    created: "2021-03-12T10:33:25.183215Z"
     dependencies:
     - alias: tekton
       condition: tekton.enabled
@@ -3881,7 +3945,7 @@ entries:
     version: 0.0.58
   - apiVersion: v1
     appVersion: 0.0.57
-    created: "2021-03-04T10:03:32.942233-03:00"
+    created: "2021-03-12T10:33:25.181908Z"
     dependencies:
     - alias: tekton
       condition: tekton.enabled
@@ -3897,7 +3961,7 @@ entries:
     version: 0.0.57
   - apiVersion: v1
     appVersion: 0.0.56
-    created: "2021-03-04T10:03:32.940916-03:00"
+    created: "2021-03-12T10:33:25.180574Z"
     dependencies:
     - alias: tekton
       condition: tekton.enabled
@@ -3913,7 +3977,7 @@ entries:
     version: 0.0.56
   - apiVersion: v1
     appVersion: 0.0.55
-    created: "2021-03-04T10:03:32.939593-03:00"
+    created: "2021-03-12T10:33:25.17943Z"
     dependencies:
     - alias: tekton
       condition: tekton.enabled
@@ -3929,7 +3993,7 @@ entries:
     version: 0.0.55
   - apiVersion: v1
     appVersion: 0.0.54
-    created: "2021-03-04T10:03:32.938365-03:00"
+    created: "2021-03-12T10:33:25.178156Z"
     dependencies:
     - alias: tekton
       condition: tekton.enabled
@@ -3945,9 +4009,9 @@ entries:
     version: 0.0.54
   zeebe-operator-cc:
   - apiVersion: v1
-    created: "2021-03-04T10:03:32.971982-03:00"
+    created: "2021-03-12T10:33:25.211418Z"
     description: A Helm chart for Kubernetes
-    digest: 0942972abaa8fef4ce9a126aece4a1bb0151f89d2d73525e0ba0fb21bfe595e1
+    digest: b9d704540d457f830f7eef65d764bf8bbf96890f570b61a3fe0bce3dbfa411ad
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
     name: zeebe-operator-cc
     urls:
@@ -3956,7 +4020,17 @@ entries:
   zeebe-tasklist-helm:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.974549-03:00"
+    created: "2021-03-12T10:33:25.214395Z"
+    description: Zeebe TaskList Helm Chart for Kubernetes
+    digest: 4a1bb6290b66ac130ce2cdb9520dd693701f39f157ca5bea83bd84acce25fd5f
+    icon: https://zeebe.io/img/zeebe-logo.png
+    name: zeebe-tasklist-helm
+    urls:
+    - http://helm.zeebe.io/zeebe-tasklist-helm-0.0.13.tgz
+    version: 0.0.13
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2021-03-12T10:33:25.213917Z"
     description: Zeebe TaskList Helm Chart for Kubernetes
     digest: db2e9f25b70687c9459c4d2f142336eab8668d6f7eb13ddc68916316042103e5
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -3966,7 +4040,7 @@ entries:
     version: 0.0.12
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.974172-03:00"
+    created: "2021-03-12T10:33:25.213215Z"
     description: Zeebe TaskList Helm Chart for Kubernetes
     digest: 9c20499d0f187d584f60b8eb8eff8b39f22329c20bef1248c1cd8966925aea9f
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -3976,7 +4050,7 @@ entries:
     version: 0.0.11
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.973264-03:00"
+    created: "2021-03-12T10:33:25.212489Z"
     description: Zeebe TaskList Helm Chart for Kubernetes
     digest: 7b96270212aac893fde246d7ff5c23e383c4dc2cd18fcc4837c7d66a79a8b928
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -3987,7 +4061,22 @@ entries:
   zeebe-zeeqs-helm:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.980225-03:00"
+    created: "2021-03-12T10:33:25.222362Z"
+    dependencies:
+    - condition: hazelcast.enabled
+      name: hazelcast
+      repository: https://hazelcast-charts.s3.amazonaws.com/
+      version: 3.5.0
+    description: ZeeQS Helm Chart for Kubernetes
+    digest: 5cb44fa9716164e67937fdb8b9414b0f6390212f56e2ef8a4b7c91da5a3f9b2f
+    icon: https://zeebe.io/img/zeebe-logo.png
+    name: zeebe-zeeqs-helm
+    urls:
+    - http://helm.zeebe.io/zeebe-zeeqs-helm-0.0.25.tgz
+    version: 0.0.25
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2021-03-12T10:33:25.220489Z"
     dependencies:
     - condition: hazelcast.enabled
       name: hazelcast
@@ -4002,7 +4091,7 @@ entries:
     version: 0.0.24
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.978794-03:00"
+    created: "2021-03-12T10:33:25.218557Z"
     dependencies:
     - condition: hazelcast.enabled
       name: hazelcast
@@ -4017,7 +4106,7 @@ entries:
     version: 0.0.23
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.976597-03:00"
+    created: "2021-03-12T10:33:25.216586Z"
     dependencies:
     - condition: hazelcast.enabled
       name: hazelcast
@@ -4033,7 +4122,7 @@ entries:
   zeeqs:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.982466-03:00"
+    created: "2021-03-12T10:33:25.22498Z"
     dependencies:
     - condition: hazelcast.enabled
       name: hazelcast
@@ -4048,7 +4137,7 @@ entries:
     version: 0.0.14
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.986184-03:00"
+    created: "2021-03-12T10:33:25.228041Z"
     dependencies:
     - condition: hazelcast.enabled
       name: hazelcast
@@ -4063,7 +4152,7 @@ entries:
     version: 0.0.4
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.983973-03:00"
+    created: "2021-03-12T10:33:25.226599Z"
     dependencies:
     - condition: hazelcast.enabled
       name: hazelcast
@@ -4078,7 +4167,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-04T10:03:32.980723-03:00"
+    created: "2021-03-12T10:33:25.222879Z"
     description: ZeeQS Helm Chart for Kubernetes
     digest: d431ab8db48cee84461db37e325c9127220ef0b744a723b6b24c74d463c1ecb8
     icon: https://zeebe.io/img/zeebe-logo.png
@@ -4086,4 +4175,4 @@ entries:
     urls:
     - http://helm.zeebe.io/zeeqs-0.0.1.tgz
     version: 0.0.1
-generated: "2021-03-04T10:03:31.060166-03:00"
+generated: "2021-03-12T10:33:23.102739Z"
