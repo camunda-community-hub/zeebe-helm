@@ -3,270 +3,270 @@ entries:
   payments-service:
   - apiVersion: v1
     appVersion: 0.0.22
-    created: "2021-03-29T14:48:42.759931+01:00"
+    created: "2021-04-14T13:46:32.421653+01:00"
     description: A Helm chart for Kubernetes
     digest: 089a08bd60152e5832633af9ab7f4fb27fb137ffe6e5d327826dfe10ee095f3e
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
     name: payments-service
     urls:
-    - http://helm.zeebe.io/payments-service-0.0.22.tgz
+    - http://helm.camunda.io/payments-service-0.0.22.tgz
     version: 0.0.22
   - apiVersion: v1
     appVersion: 0.0.17
-    created: "2021-03-29T14:48:42.757198+01:00"
+    created: "2021-04-14T13:46:32.419519+01:00"
     description: A Helm chart for Kubernetes
     digest: d08e382aaf1279189c9a831f2022330aa45035a9c8ee3cb4d5dea72203f183dc
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: payments-service
     urls:
-    - http://helm.zeebe.io/payments-service-0.0.17.tgz
+    - http://helm.camunda.io/payments-service-0.0.17.tgz
     version: 0.0.17
   - apiVersion: v1
     appVersion: 0.0.4
-    created: "2021-03-29T14:48:42.763899+01:00"
+    created: "2021-04-14T13:46:32.423505+01:00"
     description: A Helm chart for Kubernetes
     digest: c9c576d7180c5cb351092561fbac89f21d0b3e09ab185e946c69866bcc6c5f6d
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: payments-service
     urls:
-    - http://helm.zeebe.io/payments-service-0.0.4.tgz
+    - http://helm.camunda.io/payments-service-0.0.4.tgz
     version: 0.0.4
   - apiVersion: v1
     appVersion: 0.0.3
-    created: "2021-03-29T14:48:42.763003+01:00"
+    created: "2021-04-14T13:46:32.422594+01:00"
     description: A Helm chart for Kubernetes
     digest: 19db560453491fd866be9eb489f1098ed6a83673edd5e3e87e2f9b081da7fb14
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: payments-service
     urls:
-    - http://helm.zeebe.io/payments-service-0.0.3.tgz
+    - http://helm.camunda.io/payments-service-0.0.3.tgz
     version: 0.0.3
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2021-03-29T14:48:42.758602+01:00"
+    created: "2021-04-14T13:46:32.4205+01:00"
     description: A Helm chart for Kubernetes
     digest: a9f8e3a81fb858d50b8375937e8ad3bdff5a137b508915ffbffff8e70e8aaec4
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: payments-service
     urls:
-    - http://helm.zeebe.io/payments-service-0.0.2.tgz
+    - http://helm.camunda.io/payments-service-0.0.2.tgz
     version: 0.0.2
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2021-03-29T14:48:42.755841+01:00"
+    created: "2021-04-14T13:46:32.417886+01:00"
     description: A Helm chart for Kubernetes
     digest: 74c797e2863d09718f24a6bc154974e4e8c3a79f8b029ee52fa7c5a2223cc681
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: payments-service
     urls:
-    - http://helm.zeebe.io/payments-service-0.0.1.tgz
+    - http://helm.camunda.io/payments-service-0.0.1.tgz
     version: 0.0.1
   tickets-service:
   - apiVersion: v1
     appVersion: 0.0.45
-    created: "2021-03-29T14:48:42.774792+01:00"
+    created: "2021-04-14T13:46:32.433817+01:00"
     description: A Helm chart for Kubernetes
     digest: b83b1c249a07942474984f26ce7e23a24e7a008b792a32e70833e2c35a086579
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
     name: tickets-service
     urls:
-    - http://helm.zeebe.io/tickets-service-0.0.45.tgz
+    - http://helm.camunda.io/tickets-service-0.0.45.tgz
     version: 0.0.45
   - apiVersion: v1
     appVersion: 0.0.36
-    created: "2021-03-29T14:48:42.771491+01:00"
+    created: "2021-04-14T13:46:32.43154+01:00"
     description: A Helm chart for Kubernetes
     digest: 69926713e70c8a0d79e6c595d065b6e0328b4eba1505936a2c7bf0923fa04c32
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
     name: tickets-service
     urls:
-    - http://helm.zeebe.io/tickets-service-0.0.36.tgz
+    - http://helm.camunda.io/tickets-service-0.0.36.tgz
     version: 0.0.36
   - apiVersion: v1
     appVersion: 0.0.33
-    created: "2021-03-29T14:48:42.76925+01:00"
+    created: "2021-04-14T13:46:32.429819+01:00"
     description: A Helm chart for Kubernetes
     digest: 949442ee3940adacceef2a146d9f6db041bf543b7ccee1277f2c43b40e537a09
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: tickets-service
     urls:
-    - http://helm.zeebe.io/tickets-service-0.0.33.tgz
+    - http://helm.camunda.io/tickets-service-0.0.33.tgz
     version: 0.0.33
   - apiVersion: v1
     appVersion: 0.0.32
-    created: "2021-03-29T14:48:42.767689+01:00"
+    created: "2021-04-14T13:46:32.428127+01:00"
     description: A Helm chart for Kubernetes
     digest: 866bc6ca9eabf57a05780054636af119f74ddb988266d354a042dbb19ba51afc
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: tickets-service
     urls:
-    - http://helm.zeebe.io/tickets-service-0.0.32.tgz
+    - http://helm.camunda.io/tickets-service-0.0.32.tgz
     version: 0.0.32
   - apiVersion: v1
     appVersion: 0.0.6
-    created: "2021-03-29T14:48:42.776486+01:00"
+    created: "2021-04-14T13:46:32.435721+01:00"
     description: A Helm chart for Kubernetes
     digest: d7d3bc7ea0f40b89342e901b478185374f8bd1dbc3b496c65d1ed4c70a8b06d1
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: tickets-service
     urls:
-    - http://helm.zeebe.io/tickets-service-0.0.6.tgz
+    - http://helm.camunda.io/tickets-service-0.0.6.tgz
     version: 0.0.6
   - apiVersion: v1
     appVersion: 0.0.5
-    created: "2021-03-29T14:48:42.775638+01:00"
+    created: "2021-04-14T13:46:32.434779+01:00"
     description: A Helm chart for Kubernetes
     digest: b15f471259e5af861a0e9bed25bb6b96bd96f58ee506d135ca3ace6eafbbe660
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: tickets-service
     urls:
-    - http://helm.zeebe.io/tickets-service-0.0.5.tgz
+    - http://helm.camunda.io/tickets-service-0.0.5.tgz
     version: 0.0.5
   - apiVersion: v1
     appVersion: 0.0.4
-    created: "2021-03-29T14:48:42.772289+01:00"
+    created: "2021-04-14T13:46:32.43246+01:00"
     description: A Helm chart for Kubernetes
     digest: a989e221e65bafbb1e1a4469daf6125f43bd98c565b6b947c0777269c6454365
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: tickets-service
     urls:
-    - http://helm.zeebe.io/tickets-service-0.0.4.tgz
+    - http://helm.camunda.io/tickets-service-0.0.4.tgz
     version: 0.0.4
   - apiVersion: v1
     appVersion: 0.0.3
-    created: "2021-03-29T14:48:42.766434+01:00"
+    created: "2021-04-14T13:46:32.426737+01:00"
     description: A Helm chart for Kubernetes
     digest: a75949db8131b7021b2464c29a74e3b405b7948de58455404faffde44d126e8e
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: tickets-service
     urls:
-    - http://helm.zeebe.io/tickets-service-0.0.3.tgz
+    - http://helm.camunda.io/tickets-service-0.0.3.tgz
     version: 0.0.3
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2021-03-29T14:48:42.765621+01:00"
+    created: "2021-04-14T13:46:32.425389+01:00"
     description: A Helm chart for Kubernetes
     digest: 0679b89c19f8aaeba53c348bf1351033d6a565b1ffb4fc511f8e1a81611d264f
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: tickets-service
     urls:
-    - http://helm.zeebe.io/tickets-service-0.0.2.tgz
+    - http://helm.camunda.io/tickets-service-0.0.2.tgz
     version: 0.0.2
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2021-03-29T14:48:42.764754+01:00"
+    created: "2021-04-14T13:46:32.424455+01:00"
     description: A Helm chart for Kubernetes
     digest: 2d162bb2711735e7d3a7cc83cb44897e49eb45784def01d3acf3b099fbfc342c
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: tickets-service
     urls:
-    - http://helm.zeebe.io/tickets-service-0.0.1.tgz
+    - http://helm.camunda.io/tickets-service-0.0.1.tgz
     version: 0.0.1
   zeebe-cloud-events-router:
   - apiVersion: v1
     appVersion: 0.0.51
-    created: "2021-03-29T14:48:42.786331+01:00"
+    created: "2021-04-14T13:46:32.444255+01:00"
     description: A Helm chart for Kubernetes
     digest: cf832983268adc33f16c80721839f668117483b511ea24a43ea4f2fb7552d9b3
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
     name: zeebe-cloud-events-router
     urls:
-    - http://helm.zeebe.io/zeebe-cloud-events-router-0.0.51.tgz
+    - http://helm.camunda.io/zeebe-cloud-events-router-0.0.51.tgz
     version: 0.0.51
   - apiVersion: v1
     appVersion: 0.0.47
-    created: "2021-03-29T14:48:42.784611+01:00"
+    created: "2021-04-14T13:46:32.441952+01:00"
     description: A Helm chart for Kubernetes
     digest: 32d3c03415f84defbbb042a0c17e0ddc8cdf41997a43da221e0204168de878c1
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: zeebe-cloud-events-router
     urls:
-    - http://helm.zeebe.io/zeebe-cloud-events-router-0.0.47.tgz
+    - http://helm.camunda.io/zeebe-cloud-events-router-0.0.47.tgz
     version: 0.0.47
   - apiVersion: v1
     appVersion: 0.0.43
-    created: "2021-03-29T14:48:42.78315+01:00"
+    created: "2021-04-14T13:46:32.440924+01:00"
     description: A Helm chart for Kubernetes
     digest: 84276c60d3353c9f12d3eaaeec1003257719d625ab391f798971a5fd6efc8779
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: zeebe-cloud-events-router
     urls:
-    - http://helm.zeebe.io/zeebe-cloud-events-router-0.0.43.tgz
+    - http://helm.camunda.io/zeebe-cloud-events-router-0.0.43.tgz
     version: 0.0.43
   - apiVersion: v1
     appVersion: 0.0.36
-    created: "2021-03-29T14:48:42.779574+01:00"
+    created: "2021-04-14T13:46:32.43841+01:00"
     description: A Helm chart for Kubernetes
     digest: 19e46119270de3352993f6298e8003d93c96b418a558a6060386989d6c0aa811
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: zeebe-cloud-events-router
     urls:
-    - http://helm.zeebe.io/zeebe-cloud-events-router-0.0.36.tgz
+    - http://helm.camunda.io/zeebe-cloud-events-router-0.0.36.tgz
     version: 0.0.36
   - apiVersion: v1
     appVersion: 0.0.8
-    created: "2021-03-29T14:48:42.787968+01:00"
+    created: "2021-04-14T13:46:32.445948+01:00"
     description: A Helm chart for Kubernetes
     digest: d84cd0d24210af75fb93c187688b574d5e9f99a44d9c357c4ce7ea86afa2b3cc
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: zeebe-cloud-events-router
     urls:
-    - http://helm.zeebe.io/zeebe-cloud-events-router-0.0.8.tgz
+    - http://helm.camunda.io/zeebe-cloud-events-router-0.0.8.tgz
     version: 0.0.8
   - apiVersion: v1
     appVersion: 0.0.6
-    created: "2021-03-29T14:48:42.787155+01:00"
+    created: "2021-04-14T13:46:32.445165+01:00"
     description: A Helm chart for Kubernetes
     digest: c7d1173fee023927ceb29baefe040357b5b791890332d370e1a990c9cf2025b1
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: zeebe-cloud-events-router
     urls:
-    - http://helm.zeebe.io/zeebe-cloud-events-router-0.0.6.tgz
+    - http://helm.camunda.io/zeebe-cloud-events-router-0.0.6.tgz
     version: 0.0.6
   - apiVersion: v1
     appVersion: 0.0.5
-    created: "2021-03-29T14:48:42.785473+01:00"
+    created: "2021-04-14T13:46:32.443261+01:00"
     description: A Helm chart for Kubernetes
     digest: 70307207a5d1eee915ed5eaee0089d5498fc9ad5e822f13ff20d90065bd638e3
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: zeebe-cloud-events-router
     urls:
-    - http://helm.zeebe.io/zeebe-cloud-events-router-0.0.5.tgz
+    - http://helm.camunda.io/zeebe-cloud-events-router-0.0.5.tgz
     version: 0.0.5
   - apiVersion: v1
     appVersion: 0.0.4
-    created: "2021-03-29T14:48:42.781664+01:00"
+    created: "2021-04-14T13:46:32.439633+01:00"
     description: A Helm chart for Kubernetes
     digest: f54d115fb24273bb1a2beb42c3934499683d831f7f10e81719440426903e610c
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: zeebe-cloud-events-router
     urls:
-    - http://helm.zeebe.io/zeebe-cloud-events-router-0.0.4.tgz
+    - http://helm.camunda.io/zeebe-cloud-events-router-0.0.4.tgz
     version: 0.0.4
   - apiVersion: v1
     appVersion: 0.0.3
-    created: "2021-03-29T14:48:42.778673+01:00"
+    created: "2021-04-14T13:46:32.43751+01:00"
     description: A Helm chart for Kubernetes
     digest: c7d6d9ed104dd37005b9f1f89547d4a8f9c4d7f83d0e1d29f0b03365df80726a
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: zeebe-cloud-events-router
     urls:
-    - http://helm.zeebe.io/zeebe-cloud-events-router-0.0.3.tgz
+    - http://helm.camunda.io/zeebe-cloud-events-router-0.0.3.tgz
     version: 0.0.3
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2021-03-29T14:48:42.777385+01:00"
+    created: "2021-04-14T13:46:32.436614+01:00"
     description: A Helm chart for Kubernetes
     digest: 695267892e53674bcf1907906f49eddb864d62d57d6cc1e47f82888aa5687397
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: zeebe-cloud-events-router
     urls:
-    - http://helm.zeebe.io/zeebe-cloud-events-router-0.0.2.tgz
+    - http://helm.camunda.io/zeebe-cloud-events-router-0.0.2.tgz
     version: 0.0.2
   zeebe-cluster:
   - apiVersion: v1
     appVersion: 0.24.2
-    created: "2021-03-29T14:48:43.029895+01:00"
+    created: "2021-04-14T13:46:32.692457+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -285,11 +285,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.154.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.154.tgz
     version: 0.0.154
   - apiVersion: v1
     appVersion: 0.24.2
-    created: "2021-03-29T14:48:43.012635+01:00"
+    created: "2021-04-14T13:46:32.678331+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -308,11 +308,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.150.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.150.tgz
     version: 0.0.150
   - apiVersion: v1
     appVersion: 0.24.1
-    created: "2021-03-29T14:48:42.998887+01:00"
+    created: "2021-04-14T13:46:32.663605+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -331,11 +331,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.148.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.148.tgz
     version: 0.0.148
   - apiVersion: v1
     appVersion: 0.24.1
-    created: "2021-03-29T14:48:42.983183+01:00"
+    created: "2021-04-14T13:46:32.650081+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -354,11 +354,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.144.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.144.tgz
     version: 0.0.144
   - apiVersion: v1
     appVersion: 0.23.4
-    created: "2021-03-29T14:48:42.969527+01:00"
+    created: "2021-04-14T13:46:32.63624+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -377,11 +377,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.128.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.128.tgz
     version: 0.0.128
   - apiVersion: v1
     appVersion: 0.23.4
-    created: "2021-03-29T14:48:42.955701+01:00"
+    created: "2021-04-14T13:46:32.622142+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -400,11 +400,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.127.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.127.tgz
     version: 0.0.127
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:42.941686+01:00"
+    created: "2021-04-14T13:46:32.607487+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -423,11 +423,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.122.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.122.tgz
     version: 0.0.122
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:42.927595+01:00"
+    created: "2021-04-14T13:46:32.593202+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -446,11 +446,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.121.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.121.tgz
     version: 0.0.121
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:42.91372+01:00"
+    created: "2021-04-14T13:46:32.575977+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -469,11 +469,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.113.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.113.tgz
     version: 0.0.113
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:42.899294+01:00"
+    created: "2021-04-14T13:46:32.557629+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -492,11 +492,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.112.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.112.tgz
     version: 0.0.112
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:42.883828+01:00"
+    created: "2021-04-14T13:46:32.542528+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -515,11 +515,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.111.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.111.tgz
     version: 0.0.111
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:42.865364+01:00"
+    created: "2021-04-14T13:46:32.525745+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -538,11 +538,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.107.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.107.tgz
     version: 0.0.107
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:42.850088+01:00"
+    created: "2021-04-14T13:46:32.510165+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -561,11 +561,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.106.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.106.tgz
     version: 0.0.106
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:42.834801+01:00"
+    created: "2021-04-14T13:46:32.495706+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -584,11 +584,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.102.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.102.tgz
     version: 0.0.102
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:42.82038+01:00"
+    created: "2021-04-14T13:46:32.479757+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -607,11 +607,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.101.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.101.tgz
     version: 0.0.101
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:42.805555+01:00"
+    created: "2021-04-14T13:46:32.464431+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -630,11 +630,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.100.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.100.tgz
     version: 0.0.100
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.441851+01:00"
+    created: "2021-04-14T13:46:33.095507+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -653,11 +653,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.99.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.99.tgz
     version: 0.0.99
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.425373+01:00"
+    created: "2021-04-14T13:46:33.077432+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -676,11 +676,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.89.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.89.tgz
     version: 0.0.89
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.411019+01:00"
+    created: "2021-04-14T13:46:33.058709+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -699,11 +699,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.88.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.88.tgz
     version: 0.0.88
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.396706+01:00"
+    created: "2021-04-14T13:46:33.041965+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -722,11 +722,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.86.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.86.tgz
     version: 0.0.86
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.382518+01:00"
+    created: "2021-04-14T13:46:33.028195+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -745,11 +745,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.85.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.85.tgz
     version: 0.0.85
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.365369+01:00"
+    created: "2021-04-14T13:46:33.01362+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -768,11 +768,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.84.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.84.tgz
     version: 0.0.84
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.35162+01:00"
+    created: "2021-04-14T13:46:32.998072+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -791,11 +791,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.76.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.76.tgz
     version: 0.0.76
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.33783+01:00"
+    created: "2021-04-14T13:46:32.984877+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -814,11 +814,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.72.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.72.tgz
     version: 0.0.72
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.323168+01:00"
+    created: "2021-04-14T13:46:32.970187+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -837,11 +837,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.71.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.71.tgz
     version: 0.0.71
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.304125+01:00"
+    created: "2021-04-14T13:46:32.955387+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -860,11 +860,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.70.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.70.tgz
     version: 0.0.70
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.287032+01:00"
+    created: "2021-04-14T13:46:32.941786+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -883,11 +883,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.69.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.69.tgz
     version: 0.0.69
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.272752+01:00"
+    created: "2021-04-14T13:46:32.927801+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -906,11 +906,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.68.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.68.tgz
     version: 0.0.68
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.2582+01:00"
+    created: "2021-04-14T13:46:32.913242+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -929,11 +929,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.67.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.67.tgz
     version: 0.0.67
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.243955+01:00"
+    created: "2021-04-14T13:46:32.899384+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -952,11 +952,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.66.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.66.tgz
     version: 0.0.66
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.229132+01:00"
+    created: "2021-04-14T13:46:32.885966+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -975,11 +975,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.63.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.63.tgz
     version: 0.0.63
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.214319+01:00"
+    created: "2021-04-14T13:46:32.872288+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -998,10 +998,10 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.61.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.61.tgz
     version: 0.0.61
   - apiVersion: v1
-    created: "2021-03-29T14:48:43.198852+01:00"
+    created: "2021-04-14T13:46:32.858382+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1020,11 +1020,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.60.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.60.tgz
     version: 0.0.60
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.179418+01:00"
+    created: "2021-04-14T13:46:32.844569+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1043,11 +1043,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.57.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.57.tgz
     version: 0.0.57
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.162772+01:00"
+    created: "2021-04-14T13:46:32.829308+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1066,11 +1066,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.56.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.56.tgz
     version: 0.0.56
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.148575+01:00"
+    created: "2021-04-14T13:46:32.814977+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1089,11 +1089,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.55.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.55.tgz
     version: 0.0.55
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.134694+01:00"
+    created: "2021-04-14T13:46:32.80085+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1112,11 +1112,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.54.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.54.tgz
     version: 0.0.54
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.115459+01:00"
+    created: "2021-04-14T13:46:32.784715+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1135,11 +1135,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.53.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.53.tgz
     version: 0.0.53
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.101658+01:00"
+    created: "2021-04-14T13:46:32.771088+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1158,11 +1158,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.52.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.52.tgz
     version: 0.0.52
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.086762+01:00"
+    created: "2021-04-14T13:46:32.756659+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1181,11 +1181,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.51.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.51.tgz
     version: 0.0.51
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.081317+01:00"
+    created: "2021-04-14T13:46:32.750976+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1200,11 +1200,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.49.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.49.tgz
     version: 0.0.49
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.07891+01:00"
+    created: "2021-04-14T13:46:32.748239+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1219,11 +1219,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.48.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.48.tgz
     version: 0.0.48
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.075914+01:00"
+    created: "2021-04-14T13:46:32.745737+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1238,11 +1238,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.47.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.47.tgz
     version: 0.0.47
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.073586+01:00"
+    created: "2021-04-14T13:46:32.742703+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1257,11 +1257,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.46.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.46.tgz
     version: 0.0.46
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.070924+01:00"
+    created: "2021-04-14T13:46:32.740319+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1276,11 +1276,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.45.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.45.tgz
     version: 0.0.45
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.068196+01:00"
+    created: "2021-04-14T13:46:32.737868+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1295,11 +1295,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.44.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.44.tgz
     version: 0.0.44
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.065187+01:00"
+    created: "2021-04-14T13:46:32.735237+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1314,11 +1314,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.43.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.43.tgz
     version: 0.0.43
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.062872+01:00"
+    created: "2021-04-14T13:46:32.732003+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1333,11 +1333,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.42.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.42.tgz
     version: 0.0.42
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.060424+01:00"
+    created: "2021-04-14T13:46:32.729438+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1352,11 +1352,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.41.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.41.tgz
     version: 0.0.41
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.057668+01:00"
+    created: "2021-04-14T13:46:32.726696+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1371,11 +1371,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.40.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.40.tgz
     version: 0.0.40
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.054499+01:00"
+    created: "2021-04-14T13:46:32.723745+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1390,11 +1390,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.38.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.38.tgz
     version: 0.0.38
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.051959+01:00"
+    created: "2021-04-14T13:46:32.720102+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1409,11 +1409,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.37.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.37.tgz
     version: 0.0.37
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.049652+01:00"
+    created: "2021-04-14T13:46:32.71683+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1428,11 +1428,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.36.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.36.tgz
     version: 0.0.36
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.046982+01:00"
+    created: "2021-04-14T13:46:32.713508+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1447,11 +1447,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.35.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.35.tgz
     version: 0.0.35
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.043335+01:00"
+    created: "2021-04-14T13:46:32.709121+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1466,11 +1466,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.34.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.34.tgz
     version: 0.0.34
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.040814+01:00"
+    created: "2021-04-14T13:46:32.705703+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1485,11 +1485,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.32.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.32.tgz
     version: 0.0.32
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.035097+01:00"
+    created: "2021-04-14T13:46:32.6993+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1504,11 +1504,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.19.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.19.tgz
     version: 0.0.19
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.032777+01:00"
+    created: "2021-04-14T13:46:32.696298+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1523,11 +1523,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.18.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.18.tgz
     version: 0.0.18
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:42.868006+01:00"
+    created: "2021-04-14T13:46:32.528606+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1542,11 +1542,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.11.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.11.tgz
     version: 0.0.11
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:42.790597+01:00"
+    created: "2021-04-14T13:46:32.448531+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1561,11 +1561,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.10.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.10.tgz
     version: 0.0.10
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.428063+01:00"
+    created: "2021-04-14T13:46:33.080237+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1580,11 +1580,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.9.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.9.tgz
     version: 0.0.9
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.038359+01:00"
+    created: "2021-04-14T13:46:32.702691+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1599,12 +1599,12 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-0.0.2.tgz
+    - http://helm.camunda.io/zeebe-cluster-0.0.2.tgz
     version: 0.0.2
   zeebe-cluster-helm:
   - apiVersion: v2
     appVersion: 0.26.1
-    created: "2021-03-29T14:48:43.531112+01:00"
+    created: "2021-04-14T13:46:33.181755+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1619,16 +1619,16 @@ entries:
       repository: https://prometheus-community.github.io/helm-charts
       version: 12.0.X
     description: Zeebe Cluster Helm Chart for Kubernetes
-    digest: 2ae63211cbfd08f85fa5b06d54b606d7b4ffab02aa28fd200ad23ac58bd86811
+    digest: 364aef2078b550a34f03084a9c2b795ef100cdad332f319da400d1bbc36841a5
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-cluster-helm
     type: application
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-helm-0.0.214.tgz
+    - http://helm.camunda.io/zeebe-cluster-helm-0.0.214.tgz
     version: 0.0.214
   - apiVersion: v2
     appVersion: 0.25.0
-    created: "2021-03-29T14:48:43.514435+01:00"
+    created: "2021-04-14T13:46:33.165162+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1648,11 +1648,11 @@ entries:
     name: zeebe-cluster-helm
     type: application
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-helm-0.0.213.tgz
+    - http://helm.camunda.io/zeebe-cluster-helm-0.0.213.tgz
     version: 0.0.213
   - apiVersion: v2
     appVersion: 0.25.0
-    created: "2021-03-29T14:48:43.497511+01:00"
+    created: "2021-04-14T13:46:33.146746+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1672,11 +1672,11 @@ entries:
     name: zeebe-cluster-helm
     type: application
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-helm-0.0.211.tgz
+    - http://helm.camunda.io/zeebe-cluster-helm-0.0.211.tgz
     version: 0.0.211
   - apiVersion: v2
     appVersion: 0.25.0
-    created: "2021-03-29T14:48:43.474693+01:00"
+    created: "2021-04-14T13:46:33.128361+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1696,11 +1696,11 @@ entries:
     name: zeebe-cluster-helm
     type: application
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-helm-0.0.210.tgz
+    - http://helm.camunda.io/zeebe-cluster-helm-0.0.210.tgz
     version: 0.0.210
   - apiVersion: v2
     appVersion: 0.25.0
-    created: "2021-03-29T14:48:43.456837+01:00"
+    created: "2021-04-14T13:46:33.109223+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1720,11 +1720,11 @@ entries:
     name: zeebe-cluster-helm
     type: application
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-helm-0.0.209.tgz
+    - http://helm.camunda.io/zeebe-cluster-helm-0.0.209.tgz
     version: 0.0.209
   - apiVersion: v2
     appVersion: 0.25.0
-    created: "2021-03-29T14:48:43.449257+01:00"
+    created: "2021-04-14T13:46:33.102166+01:00"
     dependencies:
     - condition: elasticsearch.enabled
       name: elasticsearch
@@ -1744,12 +1744,12 @@ entries:
     name: zeebe-cluster-helm
     type: application
     urls:
-    - http://helm.zeebe.io/zeebe-cluster-helm-0.0.208.tgz
+    - http://helm.camunda.io/zeebe-cluster-helm-0.0.208.tgz
     version: 0.0.208
   zeebe-full:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.612177+01:00"
+    created: "2021-04-14T13:46:33.261601+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -1777,11 +1777,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.111.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.111.tgz
     version: 0.0.111
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.591165+01:00"
+    created: "2021-04-14T13:46:33.240897+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -1809,11 +1809,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.107.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.107.tgz
     version: 0.0.107
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.571309+01:00"
+    created: "2021-04-14T13:46:33.222662+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -1841,11 +1841,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.105.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.105.tgz
     version: 0.0.105
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.554213+01:00"
+    created: "2021-04-14T13:46:33.204543+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -1873,11 +1873,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.101.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.101.tgz
     version: 0.0.101
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.373222+01:00"
+    created: "2021-04-14T13:46:34.017883+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -1895,11 +1895,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.85.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.85.tgz
     version: 0.0.85
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.354581+01:00"
+    created: "2021-04-14T13:46:34.000808+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -1917,11 +1917,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.80.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.80.tgz
     version: 0.0.80
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.33188+01:00"
+    created: "2021-04-14T13:46:33.980986+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -1939,11 +1939,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.79.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.79.tgz
     version: 0.0.79
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.311948+01:00"
+    created: "2021-04-14T13:46:33.96191+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -1961,11 +1961,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.77.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.77.tgz
     version: 0.0.77
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.289154+01:00"
+    created: "2021-04-14T13:46:33.945588+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -1983,11 +1983,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.76.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.76.tgz
     version: 0.0.76
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.264802+01:00"
+    created: "2021-04-14T13:46:33.930159+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2005,11 +2005,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.75.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.75.tgz
     version: 0.0.75
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.247629+01:00"
+    created: "2021-04-14T13:46:33.913017+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2027,11 +2027,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.74.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.74.tgz
     version: 0.0.74
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.231253+01:00"
+    created: "2021-04-14T13:46:33.894855+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2049,11 +2049,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.73.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.73.tgz
     version: 0.0.73
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.213535+01:00"
+    created: "2021-04-14T13:46:33.878227+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2071,11 +2071,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.72.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.72.tgz
     version: 0.0.72
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.197448+01:00"
+    created: "2021-04-14T13:46:33.861712+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2093,11 +2093,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.71.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.71.tgz
     version: 0.0.71
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.181234+01:00"
+    created: "2021-04-14T13:46:33.845267+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2115,11 +2115,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.70.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.70.tgz
     version: 0.0.70
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.160603+01:00"
+    created: "2021-04-14T13:46:33.824201+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2137,11 +2137,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.69.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.69.tgz
     version: 0.0.69
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.144033+01:00"
+    created: "2021-04-14T13:46:33.807755+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2159,11 +2159,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.68.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.68.tgz
     version: 0.0.68
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.128448+01:00"
+    created: "2021-04-14T13:46:33.790185+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2181,11 +2181,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.63.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.63.tgz
     version: 0.0.63
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.109087+01:00"
+    created: "2021-04-14T13:46:33.77253+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2203,11 +2203,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.62.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.62.tgz
     version: 0.0.62
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.093535+01:00"
+    created: "2021-04-14T13:46:33.754538+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2225,11 +2225,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.60.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.60.tgz
     version: 0.0.60
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.072374+01:00"
+    created: "2021-04-14T13:46:33.733928+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2247,11 +2247,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.59.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.59.tgz
     version: 0.0.59
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.056921+01:00"
+    created: "2021-04-14T13:46:33.718322+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2269,11 +2269,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.57.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.57.tgz
     version: 0.0.57
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.039043+01:00"
+    created: "2021-04-14T13:46:33.701845+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2291,11 +2291,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.56.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.56.tgz
     version: 0.0.56
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.021476+01:00"
+    created: "2021-04-14T13:46:33.684331+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2313,11 +2313,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.55.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.55.tgz
     version: 0.0.55
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.004825+01:00"
+    created: "2021-04-14T13:46:33.665839+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2335,11 +2335,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.54.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.54.tgz
     version: 0.0.54
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.989503+01:00"
+    created: "2021-04-14T13:46:33.649944+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2357,11 +2357,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.53.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.53.tgz
     version: 0.0.53
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.972798+01:00"
+    created: "2021-04-14T13:46:33.633773+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2379,11 +2379,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.52.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.52.tgz
     version: 0.0.52
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.953026+01:00"
+    created: "2021-04-14T13:46:33.614185+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2401,11 +2401,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.49.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.49.tgz
     version: 0.0.49
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.935792+01:00"
+    created: "2021-04-14T13:46:33.597636+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2423,11 +2423,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.48.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.48.tgz
     version: 0.0.48
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.92053+01:00"
+    created: "2021-04-14T13:46:33.582398+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2445,11 +2445,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.47.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.47.tgz
     version: 0.0.47
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.904795+01:00"
+    created: "2021-04-14T13:46:33.565958+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2467,11 +2467,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.46.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.46.tgz
     version: 0.0.46
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.887374+01:00"
+    created: "2021-04-14T13:46:33.549909+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2489,11 +2489,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.45.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.45.tgz
     version: 0.0.45
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.871824+01:00"
+    created: "2021-04-14T13:46:33.528644+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2511,11 +2511,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.44.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.44.tgz
     version: 0.0.44
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.855808+01:00"
+    created: "2021-04-14T13:46:33.512363+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2533,11 +2533,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.43.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.43.tgz
     version: 0.0.43
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.839691+01:00"
+    created: "2021-04-14T13:46:33.496743+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2555,11 +2555,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.42.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.42.tgz
     version: 0.0.42
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.823843+01:00"
+    created: "2021-04-14T13:46:33.480613+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2577,11 +2577,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.41.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.41.tgz
     version: 0.0.41
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.808332+01:00"
+    created: "2021-04-14T13:46:33.464107+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2599,11 +2599,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.40.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.40.tgz
     version: 0.0.40
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.792475+01:00"
+    created: "2021-04-14T13:46:33.448306+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2621,11 +2621,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.39.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.39.tgz
     version: 0.0.39
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.777125+01:00"
+    created: "2021-04-14T13:46:33.432585+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2643,11 +2643,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.37.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.37.tgz
     version: 0.0.37
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.761465+01:00"
+    created: "2021-04-14T13:46:33.416491+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2665,11 +2665,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.36.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.36.tgz
     version: 0.0.36
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.745686+01:00"
+    created: "2021-04-14T13:46:33.396023+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2687,11 +2687,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.35.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.35.tgz
     version: 0.0.35
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.729547+01:00"
+    created: "2021-04-14T13:46:33.379645+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2709,11 +2709,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.34.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.34.tgz
     version: 0.0.34
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.709116+01:00"
+    created: "2021-04-14T13:46:33.36308+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2731,11 +2731,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.33.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.33.tgz
     version: 0.0.33
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.693058+01:00"
+    created: "2021-04-14T13:46:33.346933+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2753,11 +2753,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.32.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.32.tgz
     version: 0.0.32
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.687744+01:00"
+    created: "2021-04-14T13:46:33.341449+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2775,11 +2775,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.31.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.31.tgz
     version: 0.0.31
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.682839+01:00"
+    created: "2021-04-14T13:46:33.33687+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2797,11 +2797,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.30.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.30.tgz
     version: 0.0.30
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.674008+01:00"
+    created: "2021-04-14T13:46:33.326689+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2819,11 +2819,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.29.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.29.tgz
     version: 0.0.29
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.669599+01:00"
+    created: "2021-04-14T13:46:33.322043+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2841,11 +2841,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.28.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.28.tgz
     version: 0.0.28
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.664531+01:00"
+    created: "2021-04-14T13:46:33.317696+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2863,11 +2863,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.27.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.27.tgz
     version: 0.0.27
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.660162+01:00"
+    created: "2021-04-14T13:46:33.313157+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2885,11 +2885,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.26.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.26.tgz
     version: 0.0.26
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.654597+01:00"
+    created: "2021-04-14T13:46:33.307894+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2907,11 +2907,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.25.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.25.tgz
     version: 0.0.25
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.649513+01:00"
+    created: "2021-04-14T13:46:33.302817+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2929,11 +2929,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.24.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.24.tgz
     version: 0.0.24
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.644413+01:00"
+    created: "2021-04-14T13:46:33.296624+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2951,11 +2951,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.23.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.23.tgz
     version: 0.0.23
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.639958+01:00"
+    created: "2021-04-14T13:46:33.292197+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2973,11 +2973,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.22.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.22.tgz
     version: 0.0.22
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.635268+01:00"
+    created: "2021-04-14T13:46:33.287206+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -2995,11 +2995,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.21.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.21.tgz
     version: 0.0.21
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.630879+01:00"
+    created: "2021-04-14T13:46:33.282566+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -3017,11 +3017,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.20.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.20.tgz
     version: 0.0.20
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.626441+01:00"
+    created: "2021-04-14T13:46:33.277828+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -3039,11 +3039,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.19.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.19.tgz
     version: 0.0.19
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.621072+01:00"
+    created: "2021-04-14T13:46:33.273007+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -3061,11 +3061,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.18.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.18.tgz
     version: 0.0.18
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.616512+01:00"
+    created: "2021-04-14T13:46:33.268273+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -3083,11 +3083,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.17.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.17.tgz
     version: 0.0.17
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.595323+01:00"
+    created: "2021-04-14T13:46:33.24489+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -3104,11 +3104,11 @@ entries:
     digest: 1431aabe9204704c63af6707d6f9dd9e5802e855b425a7bc9513e3914c7ff4ac
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.11.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.11.tgz
     version: 0.0.11
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.536015+01:00"
+    created: "2021-04-14T13:46:33.186529+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -3125,11 +3125,11 @@ entries:
     digest: 87386d742cf31ad6ba7f8731fabc6c3a8eb9b75b3f46cacfbe9b383df5d872f7
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.10.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.10.tgz
     version: 0.0.10
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.336373+01:00"
+    created: "2021-04-14T13:46:33.985278+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -3146,11 +3146,11 @@ entries:
     digest: 3d02acb26138cae5ce523f491774533deaa344b4120599490efd94e22f2d6ca7
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.8.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.8.tgz
     version: 0.0.8
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.165468+01:00"
+    created: "2021-04-14T13:46:33.829136+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -3167,11 +3167,11 @@ entries:
     digest: 006937ba8492ec973eeab7bb950099a3840746b06b61cb57a73dbbfc7582fbe2
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.7.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.7.tgz
     version: 0.0.7
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.076514+01:00"
+    created: "2021-04-14T13:46:33.738562+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -3188,11 +3188,11 @@ entries:
     digest: 2053a4c6580c2db7b3aaa2d3afbb5a19bc4d51893be62b5df57d45ad842506c9
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.6.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.6.tgz
     version: 0.0.6
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.95739+01:00"
+    created: "2021-04-14T13:46:33.618597+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -3209,11 +3209,11 @@ entries:
     digest: 85333dcaec8f2d72738e268b833a0f93d83adfec9fd8651334bbc621cb36af0c
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.5.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.5.tgz
     version: 0.0.5
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:43.67781+01:00"
+    created: "2021-04-14T13:46:33.331871+01:00"
     dependencies:
     - alias: zeebe
       name: zeebe-cluster
@@ -3230,12 +3230,12 @@ entries:
     digest: 9e9664a4adc30431d3e83469e338237b4addceb23c31fdc07a4f902edbba4f4e
     name: zeebe-full
     urls:
-    - http://helm.zeebe.io/zeebe-full-0.0.3.tgz
+    - http://helm.camunda.io/zeebe-full-0.0.3.tgz
     version: 0.0.3
   zeebe-full-helm:
   - apiVersion: v2
     appVersion: 0.26.1
-    created: "2021-03-29T14:48:44.544743+01:00"
+    created: "2021-04-14T13:46:34.210496+01:00"
     dependencies:
     - name: zeebe-cluster-helm
       repository: http://jenkins-x-chartmuseum:8080
@@ -3255,16 +3255,16 @@ entries:
       repository: https://kubernetes.github.io/ingress-nginx
       version: 3.19.0
     description: Zeebe Cluster + Operate Helm Chart for Kubernetes
-    digest: 7a7d5126b21a1a6e83ee32ae4e3830a1399dc21e827905e9977838a6b705a5bf
+    digest: dc0aa97de5c8d84b7a56b5db116d2cea6164396fba1b3a8288d4f5eac1f9034d
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-full-helm
     type: application
     urls:
-    - http://helm.zeebe.io/zeebe-full-helm-0.0.136.tgz
+    - http://helm.camunda.io/zeebe-full-helm-0.0.136.tgz
     version: 0.0.136
   - apiVersion: v2
     appVersion: 0.26.1
-    created: "2021-03-29T14:48:44.52485+01:00"
+    created: "2021-04-14T13:46:34.184095+01:00"
     dependencies:
     - name: zeebe-cluster-helm
       repository: http://jenkins-x-chartmuseum:8080
@@ -3289,11 +3289,11 @@ entries:
     name: zeebe-full-helm
     type: application
     urls:
-    - http://helm.zeebe.io/zeebe-full-helm-0.0.135.tgz
+    - http://helm.camunda.io/zeebe-full-helm-0.0.135.tgz
     version: 0.0.135
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.502189+01:00"
+    created: "2021-04-14T13:46:34.160647+01:00"
     dependencies:
     - name: zeebe-cluster-helm
       repository: http://jenkins-x-chartmuseum:8080
@@ -3318,11 +3318,11 @@ entries:
     name: zeebe-full-helm
     type: application
     urls:
-    - http://helm.zeebe.io/zeebe-full-helm-0.0.134.tgz
+    - http://helm.camunda.io/zeebe-full-helm-0.0.134.tgz
     version: 0.0.134
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.480505+01:00"
+    created: "2021-04-14T13:46:34.132659+01:00"
     dependencies:
     - name: zeebe-cluster-helm
       repository: http://jenkins-x-chartmuseum:8080
@@ -3347,11 +3347,11 @@ entries:
     name: zeebe-full-helm
     type: application
     urls:
-    - http://helm.zeebe.io/zeebe-full-helm-0.0.133.tgz
+    - http://helm.camunda.io/zeebe-full-helm-0.0.133.tgz
     version: 0.0.133
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.458671+01:00"
+    created: "2021-04-14T13:46:34.105386+01:00"
     dependencies:
     - name: zeebe-cluster-helm
       repository: http://jenkins-x-chartmuseum:8080
@@ -3376,11 +3376,11 @@ entries:
     name: zeebe-full-helm
     type: application
     urls:
-    - http://helm.zeebe.io/zeebe-full-helm-0.0.132.tgz
+    - http://helm.camunda.io/zeebe-full-helm-0.0.132.tgz
     version: 0.0.132
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.436919+01:00"
+    created: "2021-04-14T13:46:34.080229+01:00"
     dependencies:
     - name: zeebe-cluster-helm
       repository: http://jenkins-x-chartmuseum:8080
@@ -3405,11 +3405,11 @@ entries:
     name: zeebe-full-helm
     type: application
     urls:
-    - http://helm.zeebe.io/zeebe-full-helm-0.0.131.tgz
+    - http://helm.camunda.io/zeebe-full-helm-0.0.131.tgz
     version: 0.0.131
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.413629+01:00"
+    created: "2021-04-14T13:46:34.057288+01:00"
     dependencies:
     - name: zeebe-cluster-helm
       repository: http://jenkins-x-chartmuseum:8080
@@ -3434,11 +3434,11 @@ entries:
     name: zeebe-full-helm
     type: application
     urls:
-    - http://helm.zeebe.io/zeebe-full-helm-0.0.130.tgz
+    - http://helm.camunda.io/zeebe-full-helm-0.0.130.tgz
     version: 0.0.130
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.396941+01:00"
+    created: "2021-04-14T13:46:34.040731+01:00"
     dependencies:
     - name: zeebe-cluster-helm
       repository: http://jenkins-x-chartmuseum:8080
@@ -3463,11 +3463,11 @@ entries:
     name: zeebe-full-helm
     type: application
     urls:
-    - http://helm.zeebe.io/zeebe-full-helm-0.0.128.tgz
+    - http://helm.camunda.io/zeebe-full-helm-0.0.128.tgz
     version: 0.0.128
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.385039+01:00"
+    created: "2021-04-14T13:46:34.029514+01:00"
     dependencies:
     - name: zeebe-cluster-helm
       repository: http://jenkins-x-chartmuseum:8080
@@ -3492,238 +3492,238 @@ entries:
     name: zeebe-full-helm
     type: application
     urls:
-    - http://helm.zeebe.io/zeebe-full-helm-0.0.127.tgz
+    - http://helm.camunda.io/zeebe-full-helm-0.0.127.tgz
     version: 0.0.127
   zeebe-operate:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.553105+01:00"
+    created: "2021-04-14T13:46:34.221897+01:00"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: c4ada24f511a5f30b23fb3a37225d324fb0e919b8ddda34330eba2c3dbbd1e7b
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-operate
     urls:
-    - http://helm.zeebe.io/zeebe-operate-0.0.28.tgz
+    - http://helm.camunda.io/zeebe-operate-0.0.28.tgz
     version: 0.0.28
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.552444+01:00"
+    created: "2021-04-14T13:46:34.22087+01:00"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: 11b3759024e6559604aed9cdecefac0b385b34306b8037d6ddef6c7b47f0ebe9
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-operate
     urls:
-    - http://helm.zeebe.io/zeebe-operate-0.0.24.tgz
+    - http://helm.camunda.io/zeebe-operate-0.0.24.tgz
     version: 0.0.24
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.551936+01:00"
+    created: "2021-04-14T13:46:34.220215+01:00"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: 57451bce5873345be17e79489a813e365a5e11de112f1c2632ce6d1b18b7a7b7
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-operate
     urls:
-    - http://helm.zeebe.io/zeebe-operate-0.0.22.tgz
+    - http://helm.camunda.io/zeebe-operate-0.0.22.tgz
     version: 0.0.22
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.551429+01:00"
+    created: "2021-04-14T13:46:34.219526+01:00"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: 55bbb17d1a2613eb0de64510067bce07ab0060e05f4e14145d12f03060c2ed07
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-operate
     urls:
-    - http://helm.zeebe.io/zeebe-operate-0.0.21.tgz
+    - http://helm.camunda.io/zeebe-operate-0.0.21.tgz
     version: 0.0.21
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.550953+01:00"
+    created: "2021-04-14T13:46:34.218816+01:00"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: 4939a69c5248d9a92b28b67bf1c316a3b2b3e08fad43c69fa8ecda42a70ffbcc
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-operate
     urls:
-    - http://helm.zeebe.io/zeebe-operate-0.0.20.tgz
+    - http://helm.camunda.io/zeebe-operate-0.0.20.tgz
     version: 0.0.20
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.550335+01:00"
+    created: "2021-04-14T13:46:34.217722+01:00"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: fd20f4d420c2f1960105f185e4c7f091936a5a8b626895f97d0ce5c07e56744f
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-operate
     urls:
-    - http://helm.zeebe.io/zeebe-operate-0.0.19.tgz
+    - http://helm.camunda.io/zeebe-operate-0.0.19.tgz
     version: 0.0.19
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.549642+01:00"
+    created: "2021-04-14T13:46:34.216647+01:00"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: ad1398da0073d2f31e1bdd4ac618d252361a6aa2cb240e731d27250bb64888b5
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-operate
     urls:
-    - http://helm.zeebe.io/zeebe-operate-0.0.18.tgz
+    - http://helm.camunda.io/zeebe-operate-0.0.18.tgz
     version: 0.0.18
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.549156+01:00"
+    created: "2021-04-14T13:46:34.216026+01:00"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: acd2397cef40faf8597dd0b4ef520cbe729bb8fdf42dd367d5501f4656861434
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-operate
     urls:
-    - http://helm.zeebe.io/zeebe-operate-0.0.17.tgz
+    - http://helm.camunda.io/zeebe-operate-0.0.17.tgz
     version: 0.0.17
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.548697+01:00"
+    created: "2021-04-14T13:46:34.215449+01:00"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: 2a5facce1e5b1b712f16eeafe7872aa7384d3325c9efbe6283962011bc7607bc
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-operate
     urls:
-    - http://helm.zeebe.io/zeebe-operate-0.0.16.tgz
+    - http://helm.camunda.io/zeebe-operate-0.0.16.tgz
     version: 0.0.16
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.54821+01:00"
+    created: "2021-04-14T13:46:34.214868+01:00"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: 704d031c80abb4ce1003d26fe8137915ba7876259b509b66176eb19d5adbe842
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-operate
     urls:
-    - http://helm.zeebe.io/zeebe-operate-0.0.15.tgz
+    - http://helm.camunda.io/zeebe-operate-0.0.15.tgz
     version: 0.0.15
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.54773+01:00"
+    created: "2021-04-14T13:46:34.214137+01:00"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: cd0c914c48ed6ce398c360e9e29fa2c7db2d8d053c9623f46b4489c132913794
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-operate
     urls:
-    - http://helm.zeebe.io/zeebe-operate-0.0.14.tgz
+    - http://helm.camunda.io/zeebe-operate-0.0.14.tgz
     version: 0.0.14
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.547267+01:00"
+    created: "2021-04-14T13:46:34.213374+01:00"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: 24adb50b5b25d4c1a5ed85135fbb8aede3f22a8fbeb0080b34c0eef08112e508
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-operate
     urls:
-    - http://helm.zeebe.io/zeebe-operate-0.0.13.tgz
+    - http://helm.camunda.io/zeebe-operate-0.0.13.tgz
     version: 0.0.13
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.546763+01:00"
+    created: "2021-04-14T13:46:34.212615+01:00"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: 7158212feb9f33dd362177a628b39e4a26961bc4f838a0549623a5da72603dda
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-operate
     urls:
-    - http://helm.zeebe.io/zeebe-operate-0.0.12.tgz
+    - http://helm.camunda.io/zeebe-operate-0.0.12.tgz
     version: 0.0.12
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.546052+01:00"
+    created: "2021-04-14T13:46:34.211483+01:00"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: ec7f239589e48cc5ecfb7c08643129b869a2f7b81a3db59b96168faf7856e121
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-operate
     urls:
-    - http://helm.zeebe.io/zeebe-operate-0.0.11.tgz
+    - http://helm.camunda.io/zeebe-operate-0.0.11.tgz
     version: 0.0.11
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.554869+01:00"
+    created: "2021-04-14T13:46:34.224239+01:00"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: d482e53b1fe3d4712dd99057c9604be06bed68391508e8b54fbcc32c8a424499
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-operate
     urls:
-    - http://helm.zeebe.io/zeebe-operate-0.0.9.tgz
+    - http://helm.camunda.io/zeebe-operate-0.0.9.tgz
     version: 0.0.9
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.554402+01:00"
+    created: "2021-04-14T13:46:34.223666+01:00"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: 885247f66afc34f06eb1eb2f11261af2095a87d1050367cd275e18a2c910f859
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-operate
     urls:
-    - http://helm.zeebe.io/zeebe-operate-0.0.8.tgz
+    - http://helm.camunda.io/zeebe-operate-0.0.8.tgz
     version: 0.0.8
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.553969+01:00"
+    created: "2021-04-14T13:46:34.223069+01:00"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: 17664ebd6bf0be2b17d8e225afc5ba11b24f5ad3b060310b5479144b41294bb3
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-operate
     urls:
-    - http://helm.zeebe.io/zeebe-operate-0.0.4.tgz
+    - http://helm.camunda.io/zeebe-operate-0.0.4.tgz
     version: 0.0.4
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.553536+01:00"
+    created: "2021-04-14T13:46:34.222488+01:00"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: cd70f1b7c6c1616635cc299f20ca8d49ca3d87a09c264d28fab0b35e3dcdc7b8
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-operate
     urls:
-    - http://helm.zeebe.io/zeebe-operate-0.0.3.tgz
+    - http://helm.camunda.io/zeebe-operate-0.0.3.tgz
     version: 0.0.3
   zeebe-operate-helm:
   - apiVersion: v2
     appVersion: 0.26.1
-    created: "2021-03-29T14:48:44.557719+01:00"
+    created: "2021-04-14T13:46:34.229358+01:00"
     description: Zeebe Operate Helm Chart for Kubernetes
-    digest: 819f0023970c14edb08b95a2c715d558875f365ce95f413a0025c89d511ad9b3
+    digest: ed9a4168f31180ab3a9887974e4ecabdead8aedf5cd8a03cbe74c81cba20c0d2
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-operate-helm
     type: application
     urls:
-    - http://helm.zeebe.io/zeebe-operate-helm-0.0.43.tgz
+    - http://helm.camunda.io/zeebe-operate-helm-0.0.43.tgz
     version: 0.0.43
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.557341+01:00"
+    created: "2021-04-14T13:46:34.228794+01:00"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: da13f979a3f03ee69b3a27150738ae5dfdefc7579b52a6e8a35b2bbe5d38860b
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-operate-helm
     type: application
     urls:
-    - http://helm.zeebe.io/zeebe-operate-helm-0.0.42.tgz
+    - http://helm.camunda.io/zeebe-operate-helm-0.0.42.tgz
     version: 0.0.42
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.556657+01:00"
+    created: "2021-04-14T13:46:34.227808+01:00"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: b0f654023d1b1481564c8bfa03b47effbdda7fed9aa61abd65dcbb984b450ada
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-operate-helm
     type: application
     urls:
-    - http://helm.zeebe.io/zeebe-operate-helm-0.0.39.tgz
+    - http://helm.camunda.io/zeebe-operate-helm-0.0.39.tgz
     version: 0.0.39
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.555939+01:00"
+    created: "2021-04-14T13:46:34.226113+01:00"
     description: Zeebe Operate Helm Chart for Kubernetes
     digest: 9e6a10e6899ad967a744817aab1914ca9d1d7bfed97d32f9f544b409cc9ba093
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-operate-helm
     type: application
     urls:
-    - http://helm.zeebe.io/zeebe-operate-helm-0.0.38.tgz
+    - http://helm.camunda.io/zeebe-operate-helm-0.0.38.tgz
     version: 0.0.38
   zeebe-operator:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.559865+01:00"
+    created: "2021-04-14T13:46:34.23129+01:00"
     dependencies:
     - alias: tekton
       condition: tekton.enabled
@@ -3731,15 +3731,15 @@ entries:
       repository: https://storage.googleapis.com/chartmuseum.jenkins-x.io
       version: 0.0.63
     description: Zeebe Operator Helm Chart
-    digest: 386ba52411626b471e7c1291424e2b59c009ff9e4e92834dfb633024485e1523
+    digest: 70fbe212ff91b6ced03568ddbb876ee61af51e0e685a5021a0597e3094027355
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-operator
     urls:
-    - http://helm.zeebe.io/zeebe-operator-0.0.104.tgz
+    - http://helm.camunda.io/zeebe-operator-0.0.104.tgz
     version: 0.0.104
   - apiVersion: v1
     appVersion: 0.0.97
-    created: "2021-03-29T14:48:44.590125+01:00"
+    created: "2021-04-14T13:46:34.267721+01:00"
     dependencies:
     - alias: tekton
       condition: tekton.enabled
@@ -3751,11 +3751,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-operator
     urls:
-    - http://helm.zeebe.io/zeebe-operator-0.0.97.tgz
+    - http://helm.camunda.io/zeebe-operator-0.0.97.tgz
     version: 0.0.97
   - apiVersion: v1
     appVersion: 0.0.96
-    created: "2021-03-29T14:48:44.588322+01:00"
+    created: "2021-04-14T13:46:34.265736+01:00"
     dependencies:
     - alias: tekton
       condition: tekton.enabled
@@ -3767,11 +3767,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-operator
     urls:
-    - http://helm.zeebe.io/zeebe-operator-0.0.96.tgz
+    - http://helm.camunda.io/zeebe-operator-0.0.96.tgz
     version: 0.0.96
   - apiVersion: v1
     appVersion: 0.0.90
-    created: "2021-03-29T14:48:44.586511+01:00"
+    created: "2021-04-14T13:46:34.263923+01:00"
     dependencies:
     - alias: tekton
       condition: tekton.enabled
@@ -3783,11 +3783,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-operator
     urls:
-    - http://helm.zeebe.io/zeebe-operator-0.0.90.tgz
+    - http://helm.camunda.io/zeebe-operator-0.0.90.tgz
     version: 0.0.90
   - apiVersion: v1
     appVersion: 0.0.83
-    created: "2021-03-29T14:48:44.58469+01:00"
+    created: "2021-04-14T13:46:34.261598+01:00"
     dependencies:
     - alias: tekton
       condition: tekton.enabled
@@ -3799,11 +3799,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-operator
     urls:
-    - http://helm.zeebe.io/zeebe-operator-0.0.83.tgz
+    - http://helm.camunda.io/zeebe-operator-0.0.83.tgz
     version: 0.0.83
   - apiVersion: v1
     appVersion: 0.0.75
-    created: "2021-03-29T14:48:44.583196+01:00"
+    created: "2021-04-14T13:46:34.260079+01:00"
     dependencies:
     - alias: tekton
       condition: tekton.enabled
@@ -3815,11 +3815,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-operator
     urls:
-    - http://helm.zeebe.io/zeebe-operator-0.0.75.tgz
+    - http://helm.camunda.io/zeebe-operator-0.0.75.tgz
     version: 0.0.75
   - apiVersion: v1
     appVersion: 0.0.73
-    created: "2021-03-29T14:48:44.581034+01:00"
+    created: "2021-04-14T13:46:34.258479+01:00"
     dependencies:
     - alias: tekton
       condition: tekton.enabled
@@ -3831,11 +3831,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-operator
     urls:
-    - http://helm.zeebe.io/zeebe-operator-0.0.73.tgz
+    - http://helm.camunda.io/zeebe-operator-0.0.73.tgz
     version: 0.0.73
   - apiVersion: v1
     appVersion: 0.0.72
-    created: "2021-03-29T14:48:44.579744+01:00"
+    created: "2021-04-14T13:46:34.257049+01:00"
     dependencies:
     - alias: tekton
       condition: tekton.enabled
@@ -3847,11 +3847,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-operator
     urls:
-    - http://helm.zeebe.io/zeebe-operator-0.0.72.tgz
+    - http://helm.camunda.io/zeebe-operator-0.0.72.tgz
     version: 0.0.72
   - apiVersion: v1
     appVersion: 0.0.71
-    created: "2021-03-29T14:48:44.57835+01:00"
+    created: "2021-04-14T13:46:34.255456+01:00"
     dependencies:
     - alias: tekton
       condition: tekton.enabled
@@ -3863,11 +3863,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-operator
     urls:
-    - http://helm.zeebe.io/zeebe-operator-0.0.71.tgz
+    - http://helm.camunda.io/zeebe-operator-0.0.71.tgz
     version: 0.0.71
   - apiVersion: v1
     appVersion: 0.0.69
-    created: "2021-03-29T14:48:44.57703+01:00"
+    created: "2021-04-14T13:46:34.253873+01:00"
     dependencies:
     - alias: tekton
       condition: tekton.enabled
@@ -3879,11 +3879,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-operator
     urls:
-    - http://helm.zeebe.io/zeebe-operator-0.0.69.tgz
+    - http://helm.camunda.io/zeebe-operator-0.0.69.tgz
     version: 0.0.69
   - apiVersion: v1
     appVersion: 0.0.68
-    created: "2021-03-29T14:48:44.575747+01:00"
+    created: "2021-04-14T13:46:34.252567+01:00"
     dependencies:
     - alias: tekton
       condition: tekton.enabled
@@ -3895,11 +3895,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-operator
     urls:
-    - http://helm.zeebe.io/zeebe-operator-0.0.68.tgz
+    - http://helm.camunda.io/zeebe-operator-0.0.68.tgz
     version: 0.0.68
   - apiVersion: v1
     appVersion: 0.0.67
-    created: "2021-03-29T14:48:44.5746+01:00"
+    created: "2021-04-14T13:46:34.250445+01:00"
     dependencies:
     - alias: tekton
       condition: tekton.enabled
@@ -3911,11 +3911,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-operator
     urls:
-    - http://helm.zeebe.io/zeebe-operator-0.0.67.tgz
+    - http://helm.camunda.io/zeebe-operator-0.0.67.tgz
     version: 0.0.67
   - apiVersion: v1
     appVersion: 0.0.66
-    created: "2021-03-29T14:48:44.573499+01:00"
+    created: "2021-04-14T13:46:34.249073+01:00"
     dependencies:
     - alias: tekton
       condition: tekton.enabled
@@ -3927,11 +3927,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-operator
     urls:
-    - http://helm.zeebe.io/zeebe-operator-0.0.66.tgz
+    - http://helm.camunda.io/zeebe-operator-0.0.66.tgz
     version: 0.0.66
   - apiVersion: v1
     appVersion: 0.0.63
-    created: "2021-03-29T14:48:44.572368+01:00"
+    created: "2021-04-14T13:46:34.24777+01:00"
     dependencies:
     - alias: tekton
       condition: tekton.enabled
@@ -3943,11 +3943,11 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: zeebe-operator
     urls:
-    - http://helm.zeebe.io/zeebe-operator-0.0.63.tgz
+    - http://helm.camunda.io/zeebe-operator-0.0.63.tgz
     version: 0.0.63
   - apiVersion: v1
     appVersion: 0.0.62
-    created: "2021-03-29T14:48:44.570656+01:00"
+    created: "2021-04-14T13:46:34.246317+01:00"
     dependencies:
     - alias: tekton
       condition: tekton.enabled
@@ -3959,11 +3959,11 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: zeebe-operator
     urls:
-    - http://helm.zeebe.io/zeebe-operator-0.0.62.tgz
+    - http://helm.camunda.io/zeebe-operator-0.0.62.tgz
     version: 0.0.62
   - apiVersion: v1
     appVersion: 0.0.61
-    created: "2021-03-29T14:48:44.569206+01:00"
+    created: "2021-04-14T13:46:34.24459+01:00"
     dependencies:
     - alias: tekton
       condition: tekton.enabled
@@ -3975,11 +3975,11 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: zeebe-operator
     urls:
-    - http://helm.zeebe.io/zeebe-operator-0.0.61.tgz
+    - http://helm.camunda.io/zeebe-operator-0.0.61.tgz
     version: 0.0.61
   - apiVersion: v1
     appVersion: 0.0.60
-    created: "2021-03-29T14:48:44.568062+01:00"
+    created: "2021-04-14T13:46:34.243252+01:00"
     dependencies:
     - alias: tekton
       condition: tekton.enabled
@@ -3991,11 +3991,11 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: zeebe-operator
     urls:
-    - http://helm.zeebe.io/zeebe-operator-0.0.60.tgz
+    - http://helm.camunda.io/zeebe-operator-0.0.60.tgz
     version: 0.0.60
   - apiVersion: v1
     appVersion: 0.0.59
-    created: "2021-03-29T14:48:44.566893+01:00"
+    created: "2021-04-14T13:46:34.241692+01:00"
     dependencies:
     - alias: tekton
       condition: tekton.enabled
@@ -4007,11 +4007,11 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: zeebe-operator
     urls:
-    - http://helm.zeebe.io/zeebe-operator-0.0.59.tgz
+    - http://helm.camunda.io/zeebe-operator-0.0.59.tgz
     version: 0.0.59
   - apiVersion: v1
     appVersion: 0.0.58
-    created: "2021-03-29T14:48:44.565716+01:00"
+    created: "2021-04-14T13:46:34.240115+01:00"
     dependencies:
     - alias: tekton
       condition: tekton.enabled
@@ -4023,11 +4023,11 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: zeebe-operator
     urls:
-    - http://helm.zeebe.io/zeebe-operator-0.0.58.tgz
+    - http://helm.camunda.io/zeebe-operator-0.0.58.tgz
     version: 0.0.58
   - apiVersion: v1
     appVersion: 0.0.57
-    created: "2021-03-29T14:48:44.564567+01:00"
+    created: "2021-04-14T13:46:34.23856+01:00"
     dependencies:
     - alias: tekton
       condition: tekton.enabled
@@ -4039,11 +4039,11 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: zeebe-operator
     urls:
-    - http://helm.zeebe.io/zeebe-operator-0.0.57.tgz
+    - http://helm.camunda.io/zeebe-operator-0.0.57.tgz
     version: 0.0.57
   - apiVersion: v1
     appVersion: 0.0.56
-    created: "2021-03-29T14:48:44.563373+01:00"
+    created: "2021-04-14T13:46:34.236865+01:00"
     dependencies:
     - alias: tekton
       condition: tekton.enabled
@@ -4055,11 +4055,11 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: zeebe-operator
     urls:
-    - http://helm.zeebe.io/zeebe-operator-0.0.56.tgz
+    - http://helm.camunda.io/zeebe-operator-0.0.56.tgz
     version: 0.0.56
   - apiVersion: v1
     appVersion: 0.0.55
-    created: "2021-03-29T14:48:44.562229+01:00"
+    created: "2021-04-14T13:46:34.235075+01:00"
     dependencies:
     - alias: tekton
       condition: tekton.enabled
@@ -4071,11 +4071,11 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: zeebe-operator
     urls:
-    - http://helm.zeebe.io/zeebe-operator-0.0.55.tgz
+    - http://helm.camunda.io/zeebe-operator-0.0.55.tgz
     version: 0.0.55
   - apiVersion: v1
     appVersion: 0.0.54
-    created: "2021-03-29T14:48:44.561052+01:00"
+    created: "2021-04-14T13:46:34.233163+01:00"
     dependencies:
     - alias: tekton
       condition: tekton.enabled
@@ -4087,114 +4087,114 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png
     name: zeebe-operator
     urls:
-    - http://helm.zeebe.io/zeebe-operator-0.0.54.tgz
+    - http://helm.camunda.io/zeebe-operator-0.0.54.tgz
     version: 0.0.54
   zeebe-operator-cc:
   - apiVersion: v1
-    created: "2021-03-29T14:48:44.593791+01:00"
+    created: "2021-04-14T13:46:34.27145+01:00"
     description: A Helm chart for Kubernetes
-    digest: d3f5ca61748f8072fcfe61f73ef2f684a29d5f398278d07b500ce01c1074e1ba
+    digest: 7cbec254e9e8236bf4dbb644de580d6c6871f042b527ad97c35b7427162c77d9
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
     name: zeebe-operator-cc
     urls:
-    - http://helm.zeebe.io/zeebe-operator-cc-0.0.19.tgz
+    - http://helm.camunda.io/zeebe-operator-cc-0.0.19.tgz
     version: 0.0.19
   - apiVersion: v1
-    created: "2021-03-29T14:48:44.59302+01:00"
+    created: "2021-04-14T13:46:34.270691+01:00"
     description: A Helm chart for Kubernetes
     digest: be653ad1d2cd41856308e8faf0d49777552c7a21daa0b971dddb0b5ad17537da
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
     name: zeebe-operator-cc
     urls:
-    - http://helm.zeebe.io/zeebe-operator-cc-0.0.18.tgz
+    - http://helm.camunda.io/zeebe-operator-cc-0.0.18.tgz
     version: 0.0.18
   - apiVersion: v1
-    created: "2021-03-29T14:48:44.591456+01:00"
+    created: "2021-04-14T13:46:34.269208+01:00"
     description: A Helm chart for Kubernetes
     digest: 9496633b4168ff0fb8d752ba3a270e1e63fd5898f9c50a985555eef43707cf2e
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
     name: zeebe-operator-cc
     urls:
-    - http://helm.zeebe.io/zeebe-operator-cc-0.0.13.tgz
+    - http://helm.camunda.io/zeebe-operator-cc-0.0.13.tgz
     version: 0.0.13
   - apiVersion: v1
-    created: "2021-03-29T14:48:44.597058+01:00"
+    created: "2021-04-14T13:46:34.274359+01:00"
     description: A Helm chart for Kubernetes
     digest: 305866729c085cc9a266963a091140a402d78bfda15813545db1de684a071dc9
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
     name: zeebe-operator-cc
     urls:
-    - http://helm.zeebe.io/zeebe-operator-cc-0.0.8.tgz
+    - http://helm.camunda.io/zeebe-operator-cc-0.0.8.tgz
     version: 0.0.8
   - apiVersion: v1
-    created: "2021-03-29T14:48:44.595741+01:00"
+    created: "2021-04-14T13:46:34.272907+01:00"
     description: A Helm chart for Kubernetes
     digest: b9d704540d457f830f7eef65d764bf8bbf96890f570b61a3fe0bce3dbfa411ad
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
     name: zeebe-operator-cc
     urls:
-    - http://helm.zeebe.io/zeebe-operator-cc-0.0.5.tgz
+    - http://helm.camunda.io/zeebe-operator-cc-0.0.5.tgz
     version: 0.0.5
   zeebe-tasklist-helm:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.599825+01:00"
+    created: "2021-04-14T13:46:34.277833+01:00"
     description: Zeebe TaskList Helm Chart for Kubernetes
-    digest: 231111e353be7f80be7ee95b03a3d7335c38df46823093733698b75932d23351
+    digest: 801b884b6ea177035c1eb26d15a537ebd9f280ecc4d35219a1ecf61ee69e0cb2
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-tasklist-helm
     urls:
-    - http://helm.zeebe.io/zeebe-tasklist-helm-0.0.13.tgz
+    - http://helm.camunda.io/zeebe-tasklist-helm-0.0.13.tgz
     version: 0.0.13
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.599486+01:00"
+    created: "2021-04-14T13:46:34.27749+01:00"
     description: Zeebe TaskList Helm Chart for Kubernetes
     digest: db2e9f25b70687c9459c4d2f142336eab8668d6f7eb13ddc68916316042103e5
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-tasklist-helm
     urls:
-    - http://helm.zeebe.io/zeebe-tasklist-helm-0.0.12.tgz
+    - http://helm.camunda.io/zeebe-tasklist-helm-0.0.12.tgz
     version: 0.0.12
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.598818+01:00"
+    created: "2021-04-14T13:46:34.276805+01:00"
     description: Zeebe TaskList Helm Chart for Kubernetes
     digest: 9c20499d0f187d584f60b8eb8eff8b39f22329c20bef1248c1cd8966925aea9f
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-tasklist-helm
     urls:
-    - http://helm.zeebe.io/zeebe-tasklist-helm-0.0.11.tgz
+    - http://helm.camunda.io/zeebe-tasklist-helm-0.0.11.tgz
     version: 0.0.11
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.598154+01:00"
+    created: "2021-04-14T13:46:34.276067+01:00"
     description: Zeebe TaskList Helm Chart for Kubernetes
     digest: 7b96270212aac893fde246d7ff5c23e383c4dc2cd18fcc4837c7d66a79a8b928
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-tasklist-helm
     urls:
-    - http://helm.zeebe.io/zeebe-tasklist-helm-0.0.10.tgz
+    - http://helm.camunda.io/zeebe-tasklist-helm-0.0.10.tgz
     version: 0.0.10
   zeebe-zeeqs-helm:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.609153+01:00"
+    created: "2021-04-14T13:46:34.286845+01:00"
     dependencies:
     - condition: hazelcast.enabled
       name: hazelcast
       repository: https://hazelcast-charts.s3.amazonaws.com/
       version: 3.5.0
     description: ZeeQS Helm Chart for Kubernetes
-    digest: 4bf12adfd5598c20d8adde81ffbfceb82d7b059ea5b368eced5cb65b0ff5d6a9
+    digest: 00ca3477543f70b8acb5f59313405cffd4c104ed4ab50ded2808122bc67c1dcc
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-zeeqs-helm
     urls:
-    - http://helm.zeebe.io/zeebe-zeeqs-helm-0.0.26.tgz
+    - http://helm.camunda.io/zeebe-zeeqs-helm-0.0.26.tgz
     version: 0.0.26
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.607497+01:00"
+    created: "2021-04-14T13:46:34.285574+01:00"
     dependencies:
     - condition: hazelcast.enabled
       name: hazelcast
@@ -4205,11 +4205,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-zeeqs-helm
     urls:
-    - http://helm.zeebe.io/zeebe-zeeqs-helm-0.0.25.tgz
+    - http://helm.camunda.io/zeebe-zeeqs-helm-0.0.25.tgz
     version: 0.0.25
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.60539+01:00"
+    created: "2021-04-14T13:46:34.283646+01:00"
     dependencies:
     - condition: hazelcast.enabled
       name: hazelcast
@@ -4220,11 +4220,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-zeeqs-helm
     urls:
-    - http://helm.zeebe.io/zeebe-zeeqs-helm-0.0.24.tgz
+    - http://helm.camunda.io/zeebe-zeeqs-helm-0.0.24.tgz
     version: 0.0.24
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.603596+01:00"
+    created: "2021-04-14T13:46:34.281792+01:00"
     dependencies:
     - condition: hazelcast.enabled
       name: hazelcast
@@ -4235,11 +4235,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-zeeqs-helm
     urls:
-    - http://helm.zeebe.io/zeebe-zeeqs-helm-0.0.23.tgz
+    - http://helm.camunda.io/zeebe-zeeqs-helm-0.0.23.tgz
     version: 0.0.23
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.601809+01:00"
+    created: "2021-04-14T13:46:34.279904+01:00"
     dependencies:
     - condition: hazelcast.enabled
       name: hazelcast
@@ -4250,12 +4250,12 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeebe-zeeqs-helm
     urls:
-    - http://helm.zeebe.io/zeebe-zeeqs-helm-0.0.22.tgz
+    - http://helm.camunda.io/zeebe-zeeqs-helm-0.0.22.tgz
     version: 0.0.22
   zeeqs:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.611437+01:00"
+    created: "2021-04-14T13:46:34.289401+01:00"
     dependencies:
     - condition: hazelcast.enabled
       name: hazelcast
@@ -4266,11 +4266,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeeqs
     urls:
-    - http://helm.zeebe.io/zeeqs-0.0.14.tgz
+    - http://helm.camunda.io/zeeqs-0.0.14.tgz
     version: 0.0.14
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.614371+01:00"
+    created: "2021-04-14T13:46:34.292328+01:00"
     dependencies:
     - condition: hazelcast.enabled
       name: hazelcast
@@ -4281,11 +4281,11 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeeqs
     urls:
-    - http://helm.zeebe.io/zeeqs-0.0.4.tgz
+    - http://helm.camunda.io/zeeqs-0.0.4.tgz
     version: 0.0.4
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.61288+01:00"
+    created: "2021-04-14T13:46:34.290892+01:00"
     dependencies:
     - condition: hazelcast.enabled
       name: hazelcast
@@ -4296,16 +4296,16 @@ entries:
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeeqs
     urls:
-    - http://helm.zeebe.io/zeeqs-0.0.2.tgz
+    - http://helm.camunda.io/zeeqs-0.0.2.tgz
     version: 0.0.2
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-29T14:48:44.609585+01:00"
+    created: "2021-04-14T13:46:34.287265+01:00"
     description: ZeeQS Helm Chart for Kubernetes
     digest: d431ab8db48cee84461db37e325c9127220ef0b744a723b6b24c74d463c1ecb8
     icon: https://zeebe.io/img/zeebe-logo.png
     name: zeeqs
     urls:
-    - http://helm.zeebe.io/zeeqs-0.0.1.tgz
+    - http://helm.camunda.io/zeeqs-0.0.1.tgz
     version: 0.0.1
-generated: "2021-03-29T14:48:42.754125+01:00"
+generated: "2021-04-14T13:46:32.416099+01:00"
