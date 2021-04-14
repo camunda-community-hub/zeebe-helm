@@ -4,7 +4,7 @@
 
 This repository host Zeebe HELM charts for Kubernetes, this charts can be accessed by adding the following HELM repo to your HELM setup:
 ```
-> helm repo add zeebe https://helm.zeebe.io
+> helm repo add zeebe https://helm.camunda.io
 > helm repo update
 ```
 There are three main charts which are represented in the following image:
