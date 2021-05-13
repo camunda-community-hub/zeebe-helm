@@ -61,11 +61,24 @@ Please create [new issues](https://github.com/zeebe-io/zeebe-helm/issues) if you
 
 ## Releasing these Charts
 
-These charts are being released internally at: http://chartmuseum-jx.104.154.179.98.nip.io/charts/ where you can find the latest builds, which are periodically updated in this repository.
+These charts are being released internally at: http://chartmuseum-jx.34.67.22.199.nip.io/charts/ where you can find the latest builds, which are periodically updated in this repository.
 
-In order to release to this public-facing repository hosted at: `http://helm.zeebe.io` you need to download artifacts hosted at `http://chartmuseum-jx.104.154.179.98.nip.io/charts/` and then run the following command to generate the Helm Indexes:
+In order to release to this public-facing repository hosted at: `http://helm.zeebe.io` you need to download artifacts hosted at `http://chartmuseum-jx.34.67.22.199.nip.io/charts/` and then run the following command to generate clean the internal charts and fetch the latest version from internal:
 ```
-helm repo index --url http://helm.zeebe.io .
+./release.sh
+```
+
+This script will fetch remote charts, clean them from unneeded files and run `helm repo index --url http://helm.camunda.io .` to update the Helm index. 
+
+Then you need to `add` and `commit` all the changes to push the new version to this repository. 
+
+```
+git add .
+git commit -m "updating charts"
+
 ```
 
 And then push the new files plus the updated index.
+```
+git push
+```
