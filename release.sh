@@ -1,6 +1,6 @@
 #! /bin/bash
 base_url="http://chartmuseum-jx.34.67.22.199.nip.io"
-charts='["zeebe-cluster-helm", "zeebe-operate-helm", "zeebe-full-helm", "zeebe-operator","zeebe-operator-cc", "zeebe-zeeqs-helm","zeebe-tasklist-helm", "zeebe-cloud-events-router", "tickets-service", "payments-service"]'
+charts='["zeebe-cluster-helm", "zeebe-operate-helm", "zeebe-full-helm", "zeebe-operator","zeebe-operator-cc", "zeebe-zeeqs-helm","zeebe-tasklist-helm" ]'
 
 echo $charts | jq ".[]" | xargs -I ^ curl -s "$base_url/api/charts/^/" | jq '.urls[0]' | xargs -I ^ curl -Os "$base_url/^"
 
